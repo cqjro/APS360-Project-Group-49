@@ -1,0 +1,2906 @@
+,isic_id,age_approx,anatom_site_general,benign_malignant,diagnosis,sex
+1587,ISIC_0035089,60.0,posterior torso,malignant,melanoma,male
+289,ISIC_0027609,80.0,head/neck,,basal cell carcinoma,male
+2464,Transform334,5.0,posterior torso,,vascular lesion,male
+2652,Transform522,45.0,upper extremity,,vascular lesion,male
+1005,ISIC_0033245,65.0,posterior torso,malignant,melanoma,male
+1697,ISIC_0035255,45.0,lower extremity,benign,nevus,female
+2039,ISIC_0035845,50.0,posterior torso,malignant,melanoma,male
+570,ISIC_0030076,85.0,upper extremity,,squamous cell carcinoma,female
+1264,ISIC_0034120,60.0,lower extremity,malignant,melanoma,female
+3251,Transform1275,25.0,posterior torso,,vascular lesion,female
+1736,ISIC_0035314,55.0,posterior torso,benign,nevus,female
+2929,Transform799,60.0,lower extremity,,actinic keratosis,female
+3340,Transform1393,,,,dermatofibroma,
+2598,Transform468,50.0,upper extremity,,squamous cell carcinoma,male
+1467,ISIC_0034886,45.0,lower extremity,benign,nevus,female
+2535,Transform405,40.0,head/neck,,actinic keratosis,male
+2970,Transform848,50.0,lower extremity,,dermatofibroma,male
+576,ISIC_0030142,60.0,lower extremity,,actinic keratosis,male
+1161,ISIC_0033804,30.0,posterior torso,malignant,melanoma,female
+654,ISIC_0030827,40.0,head/neck,,squamous cell carcinoma,female
+2066,ISIC_0035897,80.0,posterior torso,benign,nevus,male
+23,ISIC_0024654,75.0,lower extremity,,actinic keratosis,female
+3123,Transform1081,60.0,lower extremity,,actinic keratosis,male
+2861,Transform731,60.0,upper extremity,,actinic keratosis,male
+3252,Transform1276,80.0,lower extremity,,vascular lesion,female
+1174,ISIC_0033831,70.0,anterior torso,malignant,melanoma,male
+1013,ISIC_0033268,50.0,lower extremity,malignant,melanoma,female
+1712,ISIC_0035283,50.0,posterior torso,benign,nevus,female
+1759,ISIC_0035353,35.0,posterior torso,benign,nevus,male
+2476,Transform346,40.0,anterior torso,,vascular lesion,female
+217,ISIC_0026978,80.0,upper extremity,,basal cell carcinoma,male
+1364,ISIC_0034554,85.0,posterior torso,,basal cell carcinoma,male
+1658,ISIC_0035200,75.0,posterior torso,benign,nevus,male
+3406,Transform1479,75.0,lower extremity,,dermatofibroma,male
+2441,Transform311,50.0,anterior torso,,vascular lesion,male
+2993,Transform882,55.0,anterior torso,,actinic keratosis,female
+3301,Transform1340,,,,vascular lesion,
+1724,ISIC_0035302,40.0,lower extremity,benign,nevus,male
+2901,Transform771,50.0,anterior torso,,vascular lesion,female
+3444,Transform1581,60.0,lower extremity,,dermatofibroma,male
+2913,Transform783,70.0,lower extremity,,squamous cell carcinoma,male
+2234,Transform104,65.0,lower extremity,,dermatofibroma,female
+1426,ISIC_0034827,45.0,posterior torso,benign,nevus,male
+1324,ISIC_0034376,50.0,lower extremity,malignant,melanoma,female
+2873,Transform743,75.0,,,vascular lesion,male
+641,ISIC_0030766,70.0,head/neck,,basal cell carcinoma,female
+2325,Transform195,45.0,,,actinic keratosis,male
+1929,ISIC_0035616,30.0,anterior torso,benign,nevus,male
+3072,Transform1001,65.0,upper extremity,,dermatofibroma,male
+983,ISIC_0033171,50.0,anterior torso,malignant,melanoma,male
+559,ISIC_0029951,75.0,lower extremity,,basal cell carcinoma,male
+2367,Transform237,45.0,lower extremity,,vascular lesion,female
+2992,Transform881,50.0,head/neck,,actinic keratosis,male
+385,ISIC_0028486,65.0,head/neck,,basal cell carcinoma,male
+2315,Transform185,60.0,posterior torso,,squamous cell carcinoma,male
+2795,Transform665,,,,dermatofibroma,
+2057,ISIC_0035877,45.0,posterior torso,malignant,melanoma,female
+2982,Transform868,45.0,head/neck,,actinic keratosis,male
+1349,ISIC_0034477,65.0,anterior torso,malignant,melanoma,male
+3483,Transform1652,40.0,head/neck,,actinic keratosis,male
+2625,Transform495,50.0,head/neck,,actinic keratosis,male
+2411,Transform281,55.0,lower extremity,,dermatofibroma,male
+900,ISIC_0032888,55.0,lower extremity,malignant,melanoma,male
+1612,ISIC_0035122,45.0,upper extremity,benign,nevus,female
+3209,Transform1225,80.0,anterior torso,,vascular lesion,male
+758,ISIC_0031659,45.0,posterior torso,,squamous cell carcinoma,male
+2727,Transform597,50.0,head/neck,,actinic keratosis,male
+422,ISIC_0028818,70.0,lower extremity,,basal cell carcinoma,male
+2713,Transform583,60.0,,,vascular lesion,male
+2019,ISIC_0035804,65.0,anterior torso,benign,nevus,male
+2297,Transform167,55.0,head/neck,,actinic keratosis,male
+3355,Transform1411,55.0,,,vascular lesion,female
+3353,Transform1409,,,,dermatofibroma,
+2,ISIC_0024330,40.0,lower extremity,,dermatofibroma,male
+2675,Transform545,70.0,upper extremity,,squamous cell carcinoma,male
+70,ISIC_0025577,75.0,lower extremity,,squamous cell carcinoma,female
+720,ISIC_0031346,70.0,head/neck,,vascular lesion,female
+527,ISIC_0029713,85.0,posterior torso,,actinic keratosis,male
+2427,Transform297,60.0,head/neck,,actinic keratosis,female
+179,ISIC_0026625,60.0,head/neck,,actinic keratosis,male
+2473,Transform343,80.0,lower extremity,,squamous cell carcinoma,male
+1367,ISIC_0034572,55.0,anterior torso,malignant,melanoma,male
+1914,ISIC_0035592,35.0,upper extremity,benign,nevus,male
+2307,Transform177,70.0,upper extremity,,squamous cell carcinoma,male
+2219,Transform89,55.0,,,vascular lesion,female
+109,ISIC_0025953,65.0,head/neck,,actinic keratosis,male
+2714,Transform584,60.0,upper extremity,,squamous cell carcinoma,male
+981,ISIC_0033158,45.0,anterior torso,,vascular lesion,female
+840,ISIC_0032422,70.0,head/neck,,actinic keratosis,male
+701,ISIC_0031243,85.0,head/neck,,basal cell carcinoma,female
+154,ISIC_0026350,30.0,posterior torso,,basal cell carcinoma,female
+3375,Transform1432,,,,vascular lesion,
+317,ISIC_0027790,50.0,head/neck,,vascular lesion,female
+1256,ISIC_0034100,65.0,head/neck,malignant,melanoma,male
+2510,Transform380,80.0,head/neck,,actinic keratosis,male
+2331,Transform201,55.0,upper extremity,,squamous cell carcinoma,female
+2521,Transform391,60.0,upper extremity,,squamous cell carcinoma,male
+1377,ISIC_0034612,55.0,head/neck,,basal cell carcinoma,female
+2070,ISIC_0035911,50.0,head/neck,malignant,melanoma,male
+589,ISIC_0030245,75.0,lower extremity,,squamous cell carcinoma,male
+1593,ISIC_0035097,40.0,upper extremity,benign,nevus,female
+578,ISIC_0030145,60.0,head/neck,,basal cell carcinoma,male
+1454,ISIC_0034870,80.0,upper extremity,,squamous cell carcinoma,male
+3350,Transform1406,20.0,upper extremity,,vascular lesion,male
+1236,ISIC_0034050,45.0,lower extremity,malignant,melanoma,female
+2531,Transform401,75.0,posterior torso,,squamous cell carcinoma,male
+3319,Transform1368,,,,dermatofibroma,
+2761,Transform631,70.0,lower extremity,,squamous cell carcinoma,male
+890,ISIC_0032857,65.0,head/neck,,basal cell carcinoma,male
+1572,ISIC_0035064,35.0,lower extremity,,dermatofibroma,female
+1636,ISIC_0035161,30.0,upper extremity,benign,nevus,female
+3393,Transform1461,75.0,,,vascular lesion,male
+3500,Transform1727,75.0,lower extremity,,dermatofibroma,female
+3476,Transform1645,75.0,upper extremity,,actinic keratosis,male
+1127,ISIC_0033651,60.0,lower extremity,malignant,melanoma,female
+531,ISIC_0029747,85.0,head/neck,,basal cell carcinoma,female
+1663,ISIC_0035207,60.0,head/neck,malignant,melanoma,female
+1311,ISIC_0034316,85.0,upper extremity,malignant,melanoma,male
+2165,Transform35,40.0,lower extremity,,dermatofibroma,male
+3399,Transform1468,75.0,head/neck,,actinic keratosis,male
+1118,ISIC_0033611,65.0,upper extremity,malignant,melanoma,male
+2085,ISIC_0035941,45.0,lower extremity,benign,nevus,female
+2984,Transform871,60.0,head/neck,,actinic keratosis,male
+1185,ISIC_0033871,30.0,lower extremity,malignant,melanoma,female
+2954,Transform824,75.0,head/neck,,squamous cell carcinoma,male
+3263,Transform1287,35.0,lower extremity,,dermatofibroma,female
+3491,Transform1672,75.0,upper extremity,,actinic keratosis,male
+3366,Transform1423,50.0,,,dermatofibroma,female
+1679,ISIC_0035230,50.0,posterior torso,benign,nevus,male
+2980,Transform864,65.0,lower extremity,,dermatofibroma,male
+3143,Transform1116,60.0,head/neck,,actinic keratosis,female
+536,ISIC_0029783,40.0,lower extremity,,dermatofibroma,male
+2053,ISIC_0035868,45.0,lower extremity,malignant,melanoma,female
+3386,Transform1448,75.0,head/neck,,actinic keratosis,male
+3042,Transform954,75.0,upper extremity,,actinic keratosis,male
+3408,Transform1485,55.0,upper extremity,,dermatofibroma,male
+3480,Transform1649,70.0,upper extremity,,actinic keratosis,male
+1764,ISIC_0035360,45.0,lower extremity,,dermatofibroma,female
+2041,ISIC_0035850,45.0,lower extremity,benign,nevus,female
+704,ISIC_0031258,40.0,posterior torso,,basal cell carcinoma,male
+965,ISIC_0033081,55.0,upper extremity,malignant,melanoma,female
+3297,Transform1335,40.0,lower extremity,,vascular lesion,female
+9,ISIC_0024450,50.0,upper extremity,,squamous cell carcinoma,male
+1642,ISIC_0035170,50.0,lower extremity,benign,nevus,male
+2124,ISIC_0036044,35.0,lower extremity,benign,nevus,female
+2216,Transform86,75.0,head/neck,,squamous cell carcinoma,male
+618,ISIC_0030555,70.0,lower extremity,,dermatofibroma,male
+1431,ISIC_0034837,40.0,upper extremity,benign,nevus,female
+3295,Transform1333,,,,vascular lesion,
+69,ISIC_0025539,75.0,lower extremity,,squamous cell carcinoma,male
+989,ISIC_0033193,70.0,upper extremity,malignant,melanoma,male
+29,ISIC_0024771,75.0,head/neck,,actinic keratosis,male
+1760,ISIC_0035355,80.0,head/neck,,basal cell carcinoma,female
+1098,ISIC_0033560,55.0,upper extremity,malignant,melanoma,female
+1525,ISIC_0034983,40.0,upper extremity,benign,nevus,female
+1652,ISIC_0035191,60.0,upper extremity,benign,nevus,female
+1742,ISIC_0035324,35.0,posterior torso,benign,nevus,male
+3368,Transform1425,65.0,posterior torso,,vascular lesion,male
+2181,Transform51,60.0,upper extremity,,squamous cell carcinoma,female
+2643,Transform513,80.0,lower extremity,,vascular lesion,female
+2196,Transform66,60.0,head/neck,,squamous cell carcinoma,female
+3407,Transform1480,40.0,lower extremity,,dermatofibroma,female
+2994,Transform883,65.0,lower extremity,,dermatofibroma,male
+259,ISIC_0027337,75.0,head/neck,,basal cell carcinoma,male
+2193,Transform63,85.0,lower extremity,,vascular lesion,male
+1341,ISIC_0034427,80.0,upper extremity,,squamous cell carcinoma,female
+898,ISIC_0032879,80.0,head/neck,malignant,melanoma,male
+1313,ISIC_0034323,70.0,lower extremity,,basal cell carcinoma,male
+347,ISIC_0028084,80.0,posterior torso,,basal cell carcinoma,male
+3354,Transform1410,50.0,lower extremity,,dermatofibroma,female
+1959,ISIC_0035671,40.0,lower extremity,benign,nevus,female
+3303,Transform1344,50.0,,,vascular lesion,male
+1432,ISIC_0034843,80.0,posterior torso,benign,nevus,male
+3179,Transform1170,75.0,lower extremity,,actinic keratosis,female
+1808,ISIC_0035425,55.0,posterior torso,benign,nevus,female
+1853,ISIC_0035491,50.0,upper extremity,benign,nevus,male
+1573,ISIC_0035065,45.0,anterior torso,benign,nevus,female
+3066,Transform991,30.0,lower extremity,,dermatofibroma,male
+229,ISIC_0027057,65.0,upper extremity,,basal cell carcinoma,female
+2592,Transform462,55.0,head/neck,,squamous cell carcinoma,female
+935,ISIC_0032988,70.0,head/neck,malignant,melanoma,female
+2183,Transform53,50.0,anterior torso,,vascular lesion,female
+2250,Transform120,65.0,head/neck,,actinic keratosis,male
+547,ISIC_0029857,55.0,posterior torso,,basal cell carcinoma,female
+1403,ISIC_0034764,85.0,upper extremity,malignant,melanoma,male
+228,ISIC_0027047,70.0,upper extremity,,squamous cell carcinoma,male
+37,ISIC_0024946,45.0,posterior torso,,squamous cell carcinoma,male
+958,ISIC_0033054,60.0,head/neck,,basal cell carcinoma,male
+1450,ISIC_0034866,70.0,posterior torso,benign,nevus,male
+2656,Transform526,45.0,anterior torso,,vascular lesion,female
+675,ISIC_0031044,60.0,head/neck,,squamous cell carcinoma,male
+596,ISIC_0030321,30.0,upper extremity,,dermatofibroma,male
+1044,ISIC_0033368,40.0,anterior torso,malignant,melanoma,female
+235,ISIC_0027117,70.0,head/neck,,basal cell carcinoma,female
+727,ISIC_0031400,75.0,anterior torso,,basal cell carcinoma,male
+1148,ISIC_0033720,75.0,anterior torso,,basal cell carcinoma,male
+2459,Transform329,60.0,head/neck,,squamous cell carcinoma,male
+2103,ISIC_0035977,65.0,upper extremity,,basal cell carcinoma,male
+1504,ISIC_0034947,40.0,lower extremity,benign,nevus,female
+1197,ISIC_0033905,45.0,upper extremity,malignant,melanoma,female
+3226,Transform1243,55.0,posterior torso,,vascular lesion,female
+1059,ISIC_0033429,75.0,anterior torso,malignant,melanoma,male
+2202,Transform72,55.0,anterior torso,,vascular lesion,female
+1255,ISIC_0034095,25.0,posterior torso,,basal cell carcinoma,male
+137,ISIC_0026192,70.0,posterior torso,,basal cell carcinoma,male
+874,ISIC_0032807,50.0,head/neck,malignant,melanoma,male
+2238,Transform108,40.0,lower extremity,,dermatofibroma,male
+3428,Transform1540,65.0,lower extremity,,dermatofibroma,female
+446,ISIC_0029034,75.0,lower extremity,,basal cell carcinoma,male
+175,ISIC_0026549,75.0,anterior torso,,squamous cell carcinoma,male
+3033,Transform942,55.0,upper extremity,,dermatofibroma,male
+751,ISIC_0031597,85.0,posterior torso,,basal cell carcinoma,female
+2052,ISIC_0035864,25.0,lower extremity,benign,nevus,female
+530,ISIC_0029745,35.0,head/neck,,basal cell carcinoma,male
+245,ISIC_0027184,60.0,posterior torso,,squamous cell carcinoma,male
+2358,Transform228,50.0,head/neck,,vascular lesion,female
+951,ISIC_0033034,70.0,posterior torso,malignant,melanoma,female
+242,ISIC_0027172,75.0,head/neck,,actinic keratosis,male
+2432,Transform302,80.0,lower extremity,,squamous cell carcinoma,male
+1326,ISIC_0034382,65.0,lower extremity,malignant,melanoma,female
+1280,ISIC_0034172,60.0,upper extremity,malignant,melanoma,male
+3177,Transform1167,80.0,head/neck,,actinic keratosis,male
+1615,ISIC_0035126,60.0,anterior torso,benign,nevus,male
+3165,Transform1154,65.0,head/neck,,actinic keratosis,male
+666,ISIC_0030991,45.0,head/neck,,squamous cell carcinoma,male
+2252,Transform122,50.0,upper extremity,,vascular lesion,female
+2918,Transform788,50.0,,,vascular lesion,male
+910,ISIC_0032918,50.0,head/neck,malignant,melanoma,male
+879,ISIC_0032834,75.0,anterior torso,,basal cell carcinoma,male
+3055,Transform974,65.0,lower extremity,,dermatofibroma,female
+3050,Transform964,60.0,posterior torso,,vascular lesion,female
+2820,Transform690,45.0,,,vascular lesion,
+2278,Transform148,70.0,upper extremity,,squamous cell carcinoma,male
+2974,Transform857,30.0,lower extremity,,dermatofibroma,male
+53,ISIC_0025250,30.0,head/neck,,vascular lesion,male
+1428,ISIC_0034832,25.0,anterior torso,benign,nevus,female
+3134,Transform1101,70.0,head/neck,,actinic keratosis,female
+791,ISIC_0031993,45.0,head/neck,,actinic keratosis,male
+1273,ISIC_0034150,85.0,posterior torso,malignant,melanoma,male
+1806,ISIC_0035422,50.0,posterior torso,benign,nevus,male
+3481,Transform1650,45.0,upper extremity,,dermatofibroma,female
+1328,ISIC_0034386,70.0,lower extremity,malignant,melanoma,male
+2526,Transform396,70.0,head/neck,,squamous cell carcinoma,female
+1262,ISIC_0034118,25.0,lower extremity,malignant,melanoma,female
+3162,Transform1150,45.0,,,vascular lesion,male
+1475,ISIC_0034898,80.0,head/neck,,squamous cell carcinoma,male
+3197,Transform1202,70.0,lower extremity,,vascular lesion,female
+149,ISIC_0026321,65.0,head/neck,,basal cell carcinoma,female
+1047,ISIC_0033377,55.0,upper extremity,malignant,melanoma,female
+2211,Transform81,60.0,lower extremity,,actinic keratosis,female
+1964,ISIC_0035682,45.0,posterior torso,malignant,melanoma,female
+332,ISIC_0027915,80.0,anterior torso,,basal cell carcinoma,male
+2976,Transform859,75.0,lower extremity,,actinic keratosis,female
+2752,Transform622,,,,vascular lesion,
+1855,ISIC_0035493,35.0,lower extremity,benign,nevus,female
+503,ISIC_0029533,70.0,lower extremity,,squamous cell carcinoma,male
+1581,ISIC_0035079,5.0,head/neck,benign,nevus,male
+320,ISIC_0027814,85.0,head/neck,,basal cell carcinoma,female
+3103,Transform1057,50.0,lower extremity,,dermatofibroma,male
+3170,Transform1160,60.0,upper extremity,,actinic keratosis,male
+3077,Transform1007,80.0,head/neck,,actinic keratosis,male
+2301,Transform171,75.0,lower extremity,,squamous cell carcinoma,male
+3352,Transform1408,45.0,,,vascular lesion,
+2871,Transform741,70.0,head/neck,,actinic keratosis,female
+601,ISIC_0030352,70.0,posterior torso,,basal cell carcinoma,female
+2545,Transform415,55.0,head/neck,,squamous cell carcinoma,female
+98,ISIC_0025824,75.0,anterior torso,,basal cell carcinoma,male
+2809,Transform679,75.0,anterior torso,,squamous cell carcinoma,male
+3327,Transform1377,45.0,lower extremity,,dermatofibroma,female
+40,ISIC_0024994,40.0,lower extremity,,dermatofibroma,female
+1374,ISIC_0034598,60.0,posterior torso,,basal cell carcinoma,male
+1296,ISIC_0034243,45.0,lower extremity,malignant,melanoma,female
+1120,ISIC_0033616,40.0,lower extremity,malignant,melanoma,female
+3489,Transform1669,65.0,lower extremity,,dermatofibroma,female
+1427,ISIC_0034829,50.0,lower extremity,benign,nevus,female
+674,ISIC_0031043,85.0,head/neck,,squamous cell carcinoma,male
+454,ISIC_0029067,65.0,upper extremity,,squamous cell carcinoma,male
+1052,ISIC_0033413,70.0,head/neck,,actinic keratosis,male
+722,ISIC_0031358,80.0,upper extremity,,dermatofibroma,male
+1410,ISIC_0034797,75.0,posterior torso,benign,nevus,male
+1310,ISIC_0034313,55.0,lower extremity,malignant,melanoma,male
+3153,Transform1135,65.0,upper extremity,,dermatofibroma,male
+3333,Transform1386,55.0,posterior torso,,vascular lesion,male
+1002,ISIC_0033238,70.0,head/neck,malignant,melanoma,male
+1765,ISIC_0035361,50.0,lower extremity,benign,nevus,male
+1396,ISIC_0034733,50.0,head/neck,,actinic keratosis,male
+2174,Transform44,40.0,lower extremity,,dermatofibroma,female
+3363,Transform1420,,,,vascular lesion,
+2266,Transform136,75.0,upper extremity,,squamous cell carcinoma,female
+1003,ISIC_0033240,70.0,head/neck,malignant,melanoma,male
+1521,ISIC_0034976,65.0,lower extremity,benign,nevus,female
+2931,Transform801,45.0,head/neck,,vascular lesion,female
+353,ISIC_0028122,70.0,posterior torso,,basal cell carcinoma,female
+998,ISIC_0033217,70.0,posterior torso,malignant,melanoma,male
+1065,ISIC_0033456,70.0,head/neck,,actinic keratosis,male
+2815,Transform685,50.0,upper extremity,,squamous cell carcinoma,male
+768,ISIC_0031743,50.0,upper extremity,,squamous cell carcinoma,male
+396,ISIC_0028619,60.0,head/neck,,actinic keratosis,female
+2587,Transform457,70.0,posterior torso,,squamous cell carcinoma,female
+76,ISIC_0025606,55.0,head/neck,,vascular lesion,male
+1100,ISIC_0033565,25.0,posterior torso,,vascular lesion,female
+3056,Transform975,60.0,head/neck,,actinic keratosis,male
+2212,Transform82,55.0,head/neck,,vascular lesion,male
+702,ISIC_0031245,65.0,anterior torso,,basal cell carcinoma,male
+2360,Transform230,50.0,head/neck,,actinic keratosis,male
+1446,ISIC_0034862,55.0,anterior torso,benign,nevus,male
+2541,Transform411,60.0,head/neck,,actinic keratosis,female
+3093,Transform1034,45.0,head/neck,,actinic keratosis,male
+406,ISIC_0028693,75.0,posterior torso,,basal cell carcinoma,female
+1627,ISIC_0035144,45.0,lower extremity,benign,nevus,female
+1735,ISIC_0035313,65.0,anterior torso,malignant,melanoma,male
+88,ISIC_0025718,70.0,posterior torso,,basal cell carcinoma,male
+652,ISIC_0030825,40.0,head/neck,,actinic keratosis,male
+999,ISIC_0033218,60.0,head/neck,,basal cell carcinoma,male
+2632,Transform502,60.0,lower extremity,,squamous cell carcinoma,male
+1460,ISIC_0034877,40.0,posterior torso,benign,nevus,male
+3342,Transform1396,55.0,,,vascular lesion,male
+2232,Transform102,50.0,lower extremity,,vascular lesion,female
+1804,ISIC_0035420,55.0,posterior torso,malignant,melanoma,male
+1370,ISIC_0034585,65.0,posterior torso,,squamous cell carcinoma,male
+1793,ISIC_0035408,60.0,upper extremity,benign,nevus,male
+528,ISIC_0029715,70.0,lower extremity,,squamous cell carcinoma,male
+1976,ISIC_0035708,70.0,upper extremity,malignant,melanoma,male
+1897,ISIC_0035563,50.0,upper extremity,benign,nevus,female
+529,ISIC_0029742,5.0,posterior torso,,vascular lesion,male
+1580,ISIC_0035078,50.0,upper extremity,,squamous cell carcinoma,male
+1590,ISIC_0035092,65.0,lower extremity,benign,nevus,male
+2657,Transform527,70.0,lower extremity,,vascular lesion,female
+3058,Transform979,80.0,anterior torso,,vascular lesion,male
+1680,ISIC_0035232,80.0,anterior torso,malignant,melanoma,female
+2204,Transform74,50.0,lower extremity,,dermatofibroma,female
+2483,Transform353,65.0,lower extremity,,dermatofibroma,female
+1390,ISIC_0034695,70.0,posterior torso,,basal cell carcinoma,male
+3045,Transform958,60.0,head/neck,,actinic keratosis,female
+491,ISIC_0029439,50.0,anterior torso,,vascular lesion,male
+3193,Transform1195,60.0,head/neck,,actinic keratosis,female
+2075,ISIC_0035916,40.0,lower extremity,benign,nevus,female
+3365,Transform1422,70.0,head/neck,,actinic keratosis,female
+3171,Transform1161,55.0,lower extremity,,dermatofibroma,male
+349,ISIC_0028095,75.0,lower extremity,,basal cell carcinoma,female
+3313,Transform1360,50.0,head/neck,,actinic keratosis,male
+836,ISIC_0032409,80.0,anterior torso,,vascular lesion,male
+2244,Transform114,55.0,anterior torso,,vascular lesion,female
+711,ISIC_0031284,75.0,head/neck,,basal cell carcinoma,male
+3023,Transform928,50.0,head/neck,,actinic keratosis,female
+1318,ISIC_0034338,70.0,lower extremity,,basal cell carcinoma,male
+2641,Transform511,80.0,upper extremity,,squamous cell carcinoma,male
+2480,Transform350,70.0,head/neck,,actinic keratosis,female
+1533,ISIC_0035000,70.0,upper extremity,malignant,melanoma,male
+1114,ISIC_0033603,30.0,upper extremity,malignant,melanoma,female
+564,ISIC_0030010,65.0,head/neck,,basal cell carcinoma,female
+3121,Transform1079,65.0,,,vascular lesion,female
+44,ISIC_0025130,80.0,head/neck,,squamous cell carcinoma,female
+3370,Transform1427,50.0,,,dermatofibroma,
+615,ISIC_0030526,80.0,lower extremity,,basal cell carcinoma,female
+2345,Transform215,55.0,upper extremity,,dermatofibroma,male
+2030,ISIC_0035828,45.0,posterior torso,benign,nevus,female
+2973,Transform855,80.0,,,vascular lesion,male
+1554,ISIC_0035033,75.0,head/neck,,basal cell carcinoma,male
+2563,Transform433,75.0,lower extremity,,squamous cell carcinoma,male
+2838,Transform708,50.0,lower extremity,,dermatofibroma,female
+3117,Transform1074,65.0,upper extremity,,dermatofibroma,male
+3372,Transform1429,,,,vascular lesion,
+806,ISIC_0032154,75.0,anterior torso,,squamous cell carcinoma,male
+493,ISIC_0029460,70.0,head/neck,,actinic keratosis,male
+2985,Transform872,65.0,head/neck,,actinic keratosis,female
+1478,ISIC_0034902,70.0,posterior torso,benign,nevus,male
+3479,Transform1648,75.0,lower extremity,,dermatofibroma,female
+113,ISIC_0025975,40.0,posterior torso,,basal cell carcinoma,male
+895,ISIC_0032870,85.0,upper extremity,malignant,melanoma,male
+3147,Transform1124,70.0,head/neck,,actinic keratosis,male
+425,ISIC_0028858,55.0,upper extremity,,basal cell carcinoma,male
+3442,Transform1577,75.0,lower extremity,,actinic keratosis,female
+2574,Transform444,60.0,head/neck,,actinic keratosis,male
+1633,ISIC_0035156,55.0,posterior torso,benign,nevus,female
+923,ISIC_0032959,50.0,head/neck,,basal cell carcinoma,male
+3043,Transform955,45.0,lower extremity,,vascular lesion,female
+488,ISIC_0029392,75.0,upper extremity,,basal cell carcinoma,male
+1282,ISIC_0034180,65.0,posterior torso,malignant,melanoma,female
+2445,Transform315,55.0,posterior torso,,vascular lesion,male
+2487,Transform357,50.0,upper extremity,,dermatofibroma,female
+502,ISIC_0029524,65.0,upper extremity,,basal cell carcinoma,female
+600,ISIC_0030349,75.0,posterior torso,,basal cell carcinoma,male
+1380,ISIC_0034633,50.0,posterior torso,malignant,melanoma,male
+398,ISIC_0028651,55.0,lower extremity,,dermatofibroma,female
+3268,Transform1292,45.0,anterior torso,,dermatofibroma,male
+3253,Transform1277,35.0,lower extremity,,vascular lesion,female
+2730,Transform600,45.0,upper extremity,,squamous cell carcinoma,female
+1961,ISIC_0035673,55.0,lower extremity,benign,nevus,female
+14,ISIC_0024511,55.0,head/neck,,actinic keratosis,female
+783,ISIC_0031927,75.0,anterior torso,,squamous cell carcinoma,male
+1815,ISIC_0035437,55.0,posterior torso,benign,nevus,female
+3187,Transform1184,80.0,upper extremity,,dermatofibroma,male
+2697,Transform567,50.0,lower extremity,,dermatofibroma,male
+2525,Transform395,80.0,upper extremity,,squamous cell carcinoma,female
+299,ISIC_0027672,55.0,head/neck,,vascular lesion,female
+2848,Transform718,65.0,lower extremity,,dermatofibroma,female
+778,ISIC_0031874,65.0,head/neck,,squamous cell carcinoma,female
+984,ISIC_0033175,60.0,lower extremity,malignant,melanoma,male
+326,ISIC_0027858,75.0,upper extremity,,basal cell carcinoma,male
+3398,Transform1467,65.0,head/neck,,actinic keratosis,male
+1299,ISIC_0034255,75.0,anterior torso,,basal cell carcinoma,male
+745,ISIC_0031539,75.0,posterior torso,,basal cell carcinoma,male
+2715,Transform585,50.0,lower extremity,,dermatofibroma,female
+1371,ISIC_0034588,80.0,posterior torso,,basal cell carcinoma,male
+1139,ISIC_0033687,35.0,posterior torso,malignant,melanoma,male
+411,ISIC_0028735,30.0,lower extremity,,dermatofibroma,male
+1618,ISIC_0035130,65.0,lower extremity,malignant,melanoma,female
+1499,ISIC_0034942,40.0,lower extremity,benign,nevus,male
+2527,Transform397,45.0,anterior torso,,vascular lesion,female
+2038,ISIC_0035842,50.0,upper extremity,,squamous cell carcinoma,male
+1358,ISIC_0034508,75.0,posterior torso,,vascular lesion,male
+847,ISIC_0032482,70.0,head/neck,,basal cell carcinoma,male
+3184,Transform1178,25.0,posterior torso,,vascular lesion,female
+1865,ISIC_0035512,35.0,anterior torso,benign,nevus,male
+457,ISIC_0029099,70.0,anterior torso,,vascular lesion,female
+2726,Transform596,70.0,head/neck,,squamous cell carcinoma,female
+427,ISIC_0028872,55.0,lower extremity,,squamous cell carcinoma,male
+1832,ISIC_0035462,75.0,posterior torso,malignant,melanoma,female
+1151,ISIC_0033730,70.0,posterior torso,malignant,melanoma,female
+982,ISIC_0033166,40.0,lower extremity,malignant,melanoma,female
+2027,ISIC_0035824,65.0,lower extremity,,basal cell carcinoma,female
+346,ISIC_0028079,65.0,upper extremity,,basal cell carcinoma,female
+746,ISIC_0031552,70.0,head/neck,,basal cell carcinoma,female
+2570,Transform440,75.0,anterior torso,,vascular lesion,male
+861,ISIC_0032715,45.0,anterior torso,,vascular lesion,female
+1540,ISIC_0035009,35.0,posterior torso,benign,nevus,male
+1042,ISIC_0033362,85.0,posterior torso,malignant,melanoma,female
+995,ISIC_0033206,80.0,head/neck,malignant,melanoma,female
+1869,ISIC_0035518,30.0,upper extremity,benign,nevus,female
+141,ISIC_0026212,45.0,head/neck,,actinic keratosis,male
+862,ISIC_0032727,80.0,head/neck,,basal cell carcinoma,female
+2565,Transform435,15.0,head/neck,,vascular lesion,male
+1283,ISIC_0034183,50.0,anterior torso,malignant,melanoma,male
+507,ISIC_0029546,45.0,posterior torso,,basal cell carcinoma,female
+3429,Transform1543,65.0,head/neck,,actinic keratosis,male
+2363,Transform233,65.0,lower extremity,,dermatofibroma,female
+2361,Transform231,55.0,head/neck,,actinic keratosis,female
+121,ISIC_0026083,55.0,lower extremity,,squamous cell carcinoma,male
+2817,Transform687,,,,dermatofibroma,
+1952,ISIC_0035656,35.0,posterior torso,benign,nevus,male
+3418,Transform1510,50.0,lower extremity,,dermatofibroma,female
+3022,Transform927,75.0,upper extremity,,actinic keratosis,male
+1626,ISIC_0035143,60.0,anterior torso,benign,nevus,male
+206,ISIC_0026865,70.0,upper extremity,,basal cell carcinoma,female
+1160,ISIC_0033802,75.0,anterior torso,malignant,melanoma,male
+1376,ISIC_0034608,55.0,anterior torso,,vascular lesion,male
+3003,Transform898,50.0,upper extremity,,dermatofibroma,female
+1673,ISIC_0035223,60.0,lower extremity,benign,nevus,female
+269,ISIC_0027488,45.0,lower extremity,,dermatofibroma,male
+3403,Transform1473,75.0,upper extremity,,vascular lesion,male
+2422,Transform292,80.0,lower extremity,,squamous cell carcinoma,female
+850,ISIC_0032538,80.0,lower extremity,,vascular lesion,female
+135,ISIC_0026171,60.0,head/neck,,actinic keratosis,female
+849,ISIC_0032536,45.0,anterior torso,,basal cell carcinoma,male
+820,ISIC_0032247,75.0,lower extremity,,dermatofibroma,male
+886,ISIC_0032847,45.0,anterior torso,malignant,melanoma,male
+1288,ISIC_0034208,60.0,anterior torso,malignant,melanoma,male
+414,ISIC_0028763,85.0,upper extremity,,squamous cell carcinoma,male
+2285,Transform155,65.0,lower extremity,,dermatofibroma,female
+1109,ISIC_0033586,65.0,upper extremity,malignant,melanoma,male
+1530,ISIC_0034991,45.0,lower extremity,benign,nevus,female
+743,ISIC_0031527,80.0,head/neck,,basal cell carcinoma,female
+476,ISIC_0029315,75.0,lower extremity,,squamous cell carcinoma,male
+3290,Transform1327,,,,vascular lesion,
+2617,Transform487,85.0,lower extremity,,vascular lesion,male
+1203,ISIC_0033946,70.0,anterior torso,malignant,melanoma,male
+762,ISIC_0031698,75.0,posterior torso,,basal cell carcinoma,female
+988,ISIC_0033186,55.0,lower extremity,malignant,melanoma,male
+1944,ISIC_0035641,70.0,anterior torso,benign,nevus,male
+2623,Transform493,60.0,head/neck,,actinic keratosis,female
+271,ISIC_0027522,55.0,anterior torso,,vascular lesion,male
+3287,Transform1323,40.0,upper extremity,,dermatofibroma,male
+1670,ISIC_0035217,65.0,upper extremity,benign,nevus,female
+2606,Transform476,65.0,head/neck,,squamous cell carcinoma,male
+1501,ISIC_0034944,65.0,upper extremity,benign,nevus,male
+672,ISIC_0031040,80.0,head/neck,,actinic keratosis,male
+1898,ISIC_0035566,55.0,lower extremity,benign,nevus,female
+655,ISIC_0030844,80.0,upper extremity,,squamous cell carcinoma,female
+2564,Transform434,75.0,,,vascular lesion,male
+1180,ISIC_0033856,85.0,lower extremity,malignant,melanoma,female
+700,ISIC_0031236,45.0,upper extremity,,basal cell carcinoma,female
+3242,Transform1264,55.0,posterior torso,,vascular lesion,female
+3137,Transform1106,55.0,upper extremity,,dermatofibroma,female
+590,ISIC_0030249,80.0,lower extremity,,basal cell carcinoma,female
+3104,Transform1058,60.0,posterior torso,,actinic keratosis,male
+1386,ISIC_0034669,70.0,upper extremity,,squamous cell carcinoma,male
+314,ISIC_0027774,85.0,head/neck,,basal cell carcinoma,female
+119,ISIC_0026068,55.0,anterior torso,,vascular lesion,female
+2242,Transform112,85.0,lower extremity,,squamous cell carcinoma,male
+2490,Transform360,85.0,upper extremity,,squamous cell carcinoma,female
+2454,Transform324,60.0,lower extremity,,dermatofibroma,male
+3016,Transform917,70.0,upper extremity,,actinic keratosis,male
+1424,ISIC_0034822,40.0,lower extremity,,vascular lesion,female
+2686,Transform556,35.0,lower extremity,,dermatofibroma,female
+942,ISIC_0033012,80.0,posterior torso,,basal cell carcinoma,female
+3158,Transform1143,35.0,,,vascular lesion,female
+3232,Transform1252,45.0,lower extremity,,dermatofibroma,female
+831,ISIC_0032356,60.0,lower extremity,,squamous cell carcinoma,male
+215,ISIC_0026968,75.0,head/neck,,basal cell carcinoma,female
+392,ISIC_0028568,70.0,lower extremity,,basal cell carcinoma,female
+27,ISIC_0024747,70.0,head/neck,,vascular lesion,female
+752,ISIC_0031609,55.0,head/neck,,actinic keratosis,male
+478,ISIC_0029331,50.0,lower extremity,,basal cell carcinoma,male
+1448,ISIC_0034864,50.0,upper extremity,benign,nevus,male
+1548,ISIC_0035021,35.0,posterior torso,malignant,melanoma,male
+909,ISIC_0032917,40.0,posterior torso,malignant,melanoma,male
+2630,Transform500,85.0,head/neck,,squamous cell carcinoma,male
+1923,ISIC_0035606,55.0,head/neck,malignant,melanoma,male
+619,ISIC_0030574,50.0,posterior torso,,basal cell carcinoma,female
+3324,Transform1374,,,,actinic keratosis,
+2533,Transform403,65.0,head/neck,,squamous cell carcinoma,female
+2226,Transform96,80.0,head/neck,,actinic keratosis,male
+1894,ISIC_0035560,45.0,lower extremity,benign,nevus,female
+132,ISIC_0026154,85.0,head/neck,,basal cell carcinoma,male
+283,ISIC_0027577,55.0,head/neck,,squamous cell carcinoma,male
+3210,Transform1226,30.0,lower extremity,,dermatofibroma,male
+563,ISIC_0029974,85.0,posterior torso,,basal cell carcinoma,female
+921,ISIC_0032955,30.0,lower extremity,malignant,melanoma,female
+2853,Transform723,70.0,anterior torso,,vascular lesion,female
+969,ISIC_0033099,40.0,lower extremity,malignant,melanoma,female
+1875,ISIC_0035525,55.0,posterior torso,malignant,melanoma,male
+913,ISIC_0032922,80.0,upper extremity,malignant,melanoma,female
+2390,Transform260,80.0,head/neck,,actinic keratosis,male
+3473,Transform1636,45.0,lower extremity,,dermatofibroma,male
+2430,Transform300,55.0,lower extremity,,dermatofibroma,male
+723,ISIC_0031372,50.0,lower extremity,,dermatofibroma,male
+2996,Transform885,55.0,head/neck,,actinic keratosis,male
+2780,Transform650,,,,dermatofibroma,
+1819,ISIC_0035444,20.0,lower extremity,benign,nevus,male
+1027,ISIC_0033304,60.0,lower extremity,malignant,melanoma,female
+597,ISIC_0030339,75.0,lower extremity,,basal cell carcinoma,female
+1338,ISIC_0034416,65.0,posterior torso,,basal cell carcinoma,male
+1061,ISIC_0033444,50.0,anterior torso,malignant,melanoma,male
+997,ISIC_0033216,30.0,posterior torso,malignant,melanoma,female
+2762,Transform632,70.0,lower extremity,,squamous cell carcinoma,male
+1831,ISIC_0035460,45.0,posterior torso,malignant,melanoma,male
+1829,ISIC_0035458,75.0,head/neck,benign,nevus,female
+3148,Transform1126,50.0,,,dermatofibroma,female
+653,ISIC_0030826,70.0,head/neck,,actinic keratosis,male
+1412,ISIC_0034801,45.0,lower extremity,benign,nevus,female
+3157,Transform1142,70.0,posterior torso,,vascular lesion,male
+3036,Transform948,50.0,head/neck,,actinic keratosis,male
+3227,Transform1244,45.0,anterior torso,,vascular lesion,female
+667,ISIC_0031002,65.0,upper extremity,,dermatofibroma,male
+3215,Transform1232,45.0,anterior torso,,vascular lesion,female
+878,ISIC_0032823,55.0,posterior torso,malignant,melanoma,male
+1931,ISIC_0035618,65.0,anterior torso,benign,nevus,female
+340,ISIC_0027998,65.0,upper extremity,,basal cell carcinoma,female
+2229,Transform99,55.0,upper extremity,,squamous cell carcinoma,male
+2235,Transform105,30.0,lower extremity,,vascular lesion,female
+1758,ISIC_0035352,45.0,lower extremity,benign,nevus,male
+2530,Transform400,65.0,anterior torso,,vascular lesion,female
+1948,ISIC_0035648,65.0,lower extremity,benign,nevus,female
+2240,Transform110,55.0,lower extremity,,dermatofibroma,female
+518,ISIC_0029610,85.0,upper extremity,,squamous cell carcinoma,male
+2462,Transform332,85.0,posterior torso,,actinic keratosis,male
+766,ISIC_0031735,80.0,upper extremity,,dermatofibroma,male
+1751,ISIC_0035341,50.0,upper extremity,benign,nevus,female
+2166,Transform36,75.0,,,vascular lesion,male
+906,ISIC_0032906,65.0,head/neck,,basal cell carcinoma,male
+2674,Transform544,25.0,lower extremity,,dermatofibroma,female
+2601,Transform471,75.0,head/neck,,actinic keratosis,male
+1212,ISIC_0033975,85.0,anterior torso,malignant,melanoma,male
+838,ISIC_0032414,75.0,lower extremity,,basal cell carcinoma,female
+268,ISIC_0027478,40.0,posterior torso,,basal cell carcinoma,male
+1049,ISIC_0033393,60.0,upper extremity,malignant,melanoma,male
+1281,ISIC_0034173,75.0,head/neck,malignant,melanoma,male
+2990,Transform878,60.0,head/neck,,actinic keratosis,female
+2493,Transform363,60.0,lower extremity,,actinic keratosis,male
+107,ISIC_0025940,55.0,head/neck,,basal cell carcinoma,male
+2928,Transform798,15.0,head/neck,,vascular lesion,male
+2137,Transform7,65.0,lower extremity,,dermatofibroma,female
+1081,ISIC_0033500,80.0,posterior torso,malignant,melanoma,male
+1604,ISIC_0035111,40.0,lower extremity,benign,nevus,female
+731,ISIC_0031429,75.0,lower extremity,,dermatofibroma,male
+1354,ISIC_0034492,85.0,upper extremity,malignant,melanoma,female
+3493,Transform1692,65.0,lower extremity,,dermatofibroma,female
+238,ISIC_0027135,60.0,posterior torso,,basal cell carcinoma,male
+2067,ISIC_0035900,70.0,upper extremity,malignant,melanoma,male
+2615,Transform485,60.0,posterior torso,,squamous cell carcinoma,male
+1184,ISIC_0033869,60.0,lower extremity,,squamous cell carcinoma,female
+2909,Transform779,35.0,lower extremity,,dermatofibroma,female
+1336,ISIC_0034409,65.0,posterior torso,,basal cell carcinoma,male
+1368,ISIC_0034579,45.0,upper extremity,,squamous cell carcinoma,female
+3405,Transform1478,55.0,head/neck,,actinic keratosis,female
+2047,ISIC_0035857,45.0,lower extremity,benign,nevus,female
+2857,Transform727,75.0,lower extremity,,squamous cell carcinoma,female
+1158,ISIC_0033790,50.0,lower extremity,,dermatofibroma,male
+2407,Transform277,60.0,head/neck,,squamous cell carcinoma,male
+1290,ISIC_0034216,35.0,anterior torso,malignant,melanoma,male
+912,ISIC_0032921,70.0,anterior torso,malignant,melanoma,male
+204,ISIC_0026855,70.0,anterior torso,,basal cell carcinoma,female
+190,ISIC_0026709,60.0,head/neck,,actinic keratosis,female
+487,ISIC_0029391,65.0,anterior torso,,basal cell carcinoma,female
+1662,ISIC_0035205,40.0,posterior torso,benign,nevus,male
+438,ISIC_0028978,40.0,anterior torso,,basal cell carcinoma,female
+244,ISIC_0027178,65.0,head/neck,,squamous cell carcinoma,male
+609,ISIC_0030452,80.0,upper extremity,,basal cell carcinoma,male
+2115,ISIC_0036013,25.0,posterior torso,benign,nevus,female
+3034,Transform943,50.0,lower extremity,,dermatofibroma,female
+2690,Transform560,35.0,lower extremity,,dermatofibroma,female
+1183,ISIC_0033866,80.0,head/neck,,actinic keratosis,male
+2233,Transform103,60.0,anterior torso,,dermatofibroma,male
+2879,Transform749,65.0,head/neck,,actinic keratosis,male
+2449,Transform319,55.0,head/neck,,squamous cell carcinoma,male
+3472,Transform1635,70.0,upper extremity,,actinic keratosis,male
+1982,ISIC_0035721,80.0,anterior torso,malignant,melanoma,male
+1079,ISIC_0033498,50.0,lower extremity,malignant,melanoma,female
+1503,ISIC_0034946,80.0,posterior torso,,basal cell carcinoma,male
+2540,Transform410,45.0,lower extremity,,dermatofibroma,female
+426,ISIC_0028871,80.0,upper extremity,,basal cell carcinoma,male
+3320,Transform1369,40.0,lower extremity,,vascular lesion,female
+3159,Transform1144,60.0,head/neck,,actinic keratosis,male
+2079,ISIC_0035929,55.0,lower extremity,malignant,melanoma,male
+2624,Transform494,60.0,lower extremity,,squamous cell carcinoma,female
+943,ISIC_0033017,65.0,anterior torso,malignant,melanoma,male
+3417,Transform1507,85.0,upper extremity,,actinic keratosis,male
+2320,Transform190,75.0,head/neck,,actinic keratosis,male
+1943,ISIC_0035640,75.0,posterior torso,malignant,melanoma,female
+812,ISIC_0032199,60.0,head/neck,,actinic keratosis,female
+459,ISIC_0029129,85.0,posterior torso,,basal cell carcinoma,male
+2719,Transform589,70.0,upper extremity,,squamous cell carcinoma,female
+933,ISIC_0032985,25.0,upper extremity,malignant,melanoma,male
+303,ISIC_0027700,80.0,upper extremity,,squamous cell carcinoma,male
+2318,Transform188,60.0,lower extremity,,dermatofibroma,female
+1138,ISIC_0033679,85.0,anterior torso,malignant,melanoma,male
+676,ISIC_0031056,65.0,lower extremity,,basal cell carcinoma,female
+2102,ISIC_0035975,35.0,anterior torso,benign,nevus,male
+144,ISIC_0026254,45.0,lower extremity,,dermatofibroma,male
+1363,ISIC_0034548,60.0,head/neck,malignant,melanoma,male
+2512,Transform382,55.0,lower extremity,,dermatofibroma,male
+41,ISIC_0025029,75.0,upper extremity,,squamous cell carcinoma,female
+3331,Transform1383,,,,dermatofibroma,
+3213,Transform1230,75.0,lower extremity,,dermatofibroma,female
+1555,ISIC_0035036,45.0,lower extremity,benign,nevus,male
+1276,ISIC_0034161,30.0,posterior torso,,basal cell carcinoma,female
+2586,Transform456,70.0,upper extremity,,actinic keratosis,male
+3119,Transform1076,60.0,upper extremity,,actinic keratosis,male
+3413,Transform1496,60.0,lower extremity,,dermatofibroma,female
+2125,ISIC_0036045,55.0,posterior torso,benign,nevus,male
+2313,Transform183,75.0,head/neck,,actinic keratosis,male
+2033,ISIC_0035836,80.0,lower extremity,benign,nevus,female
+3195,Transform1200,30.0,lower extremity,,vascular lesion,female
+390,ISIC_0028556,55.0,posterior torso,,basal cell carcinoma,male
+2551,Transform421,60.0,head/neck,,squamous cell carcinoma,male
+3423,Transform1529,35.0,lower extremity,,dermatofibroma,female
+1780,ISIC_0035383,40.0,anterior torso,benign,nevus,female
+3025,Transform930,75.0,lower extremity,,dermatofibroma,female
+251,ISIC_0027231,85.0,posterior torso,,squamous cell carcinoma,male
+1621,ISIC_0035134,50.0,anterior torso,benign,nevus,female
+357,ISIC_0028155,50.0,posterior torso,,basal cell carcinoma,male
+1992,ISIC_0035746,40.0,posterior torso,benign,nevus,female
+3296,Transform1334,,,,dermatofibroma,
+1357,ISIC_0034504,70.0,lower extremity,malignant,melanoma,male
+232,ISIC_0027090,60.0,anterior torso,,basal cell carcinoma,male
+610,ISIC_0030463,70.0,head/neck,,actinic keratosis,female
+2272,Transform142,65.0,upper extremity,,squamous cell carcinoma,female
+1491,ISIC_0034927,50.0,posterior torso,benign,nevus,male
+1957,ISIC_0035666,35.0,lower extremity,benign,nevus,female
+937,ISIC_0032993,35.0,anterior torso,malignant,melanoma,female
+781,ISIC_0031922,60.0,head/neck,,actinic keratosis,female
+1979,ISIC_0035714,65.0,lower extremity,malignant,melanoma,female
+68,ISIC_0025504,50.0,lower extremity,,dermatofibroma,female
+993,ISIC_0033204,55.0,posterior torso,malignant,melanoma,male
+1190,ISIC_0033883,55.0,posterior torso,malignant,melanoma,male
+3240,Transform1261,15.0,anterior torso,,vascular lesion,male
+1224,ISIC_0034006,45.0,lower extremity,malignant,melanoma,female
+1268,ISIC_0034135,35.0,lower extremity,,dermatofibroma,female
+2869,Transform739,70.0,upper extremity,,squamous cell carcinoma,female
+2300,Transform170,70.0,upper extremity,,actinic keratosis,male
+1835,ISIC_0035468,40.0,upper extremity,,basal cell carcinoma,male
+2205,Transform75,75.0,lower extremity,,squamous cell carcinoma,male
+2940,Transform810,70.0,anterior torso,,squamous cell carcinoma,female
+1463,ISIC_0034880,50.0,anterior torso,benign,nevus,male
+3006,Transform901,75.0,head/neck,,actinic keratosis,male
+1700,ISIC_0035260,50.0,head/neck,benign,nevus,female
+1654,ISIC_0035193,35.0,posterior torso,benign,nevus,male
+636,ISIC_0030730,60.0,head/neck,,actinic keratosis,female
+784,ISIC_0031929,65.0,lower extremity,,squamous cell carcinoma,male
+522,ISIC_0029647,75.0,upper extremity,,basal cell carcinoma,male
+2588,Transform458,65.0,upper extremity,,squamous cell carcinoma,male
+1861,ISIC_0035501,75.0,lower extremity,benign,nevus,female
+1489,ISIC_0034925,50.0,posterior torso,benign,nevus,male
+1083,ISIC_0033518,80.0,upper extremity,malignant,melanoma,male
+1017,ISIC_0033274,80.0,head/neck,malignant,melanoma,female
+1846,ISIC_0035483,60.0,lower extremity,benign,nevus,female
+2594,Transform464,60.0,,,vascular lesion,male
+1244,ISIC_0034066,70.0,anterior torso,,basal cell carcinoma,male
+3030,Transform935,50.0,anterior torso,,vascular lesion,male
+145,ISIC_0026275,85.0,head/neck,,basal cell carcinoma,male
+8,ISIC_0024418,75.0,lower extremity,,squamous cell carcinoma,female
+1717,ISIC_0035291,45.0,lower extremity,,basal cell carcinoma,male
+1687,ISIC_0035240,75.0,head/neck,malignant,melanoma,male
+3061,Transform983,75.0,head/neck,,actinic keratosis,male
+162,ISIC_0026442,70.0,anterior torso,,basal cell carcinoma,male
+2583,Transform453,55.0,head/neck,,squamous cell carcinoma,female
+1462,ISIC_0034879,85.0,posterior torso,,basal cell carcinoma,male
+1106,ISIC_0033575,75.0,head/neck,,basal cell carcinoma,female
+2705,Transform575,80.0,head/neck,,actinic keratosis,male
+359,ISIC_0028163,25.0,anterior torso,,vascular lesion,female
+486,ISIC_0029372,80.0,posterior torso,,basal cell carcinoma,male
+1187,ISIC_0033874,65.0,anterior torso,malignant,melanoma,male
+13,ISIC_0024475,35.0,head/neck,,vascular lesion,male
+1231,ISIC_0034036,35.0,anterior torso,malignant,melanoma,male
+1783,ISIC_0035393,80.0,posterior torso,malignant,melanoma,male
+1955,ISIC_0035663,65.0,posterior torso,malignant,melanoma,male
+379,ISIC_0028381,55.0,head/neck,,squamous cell carcinoma,female
+2346,Transform216,40.0,head/neck,,actinic keratosis,male
+1794,ISIC_0035409,65.0,lower extremity,benign,nevus,male
+2110,ISIC_0035994,65.0,anterior torso,benign,nevus,male
+757,ISIC_0031651,85.0,head/neck,,basal cell carcinoma,female
+1063,ISIC_0033452,70.0,anterior torso,malignant,melanoma,male
+1418,ISIC_0034810,35.0,posterior torso,benign,nevus,male
+1547,ISIC_0035020,55.0,posterior torso,benign,nevus,male
+3180,Transform1172,60.0,upper extremity,,dermatofibroma,male
+1055,ISIC_0033422,45.0,lower extremity,,dermatofibroma,male
+3364,Transform1421,65.0,posterior torso,,vascular lesion,male
+1773,ISIC_0035373,15.0,anterior torso,benign,nevus,male
+966,ISIC_0033084,40.0,anterior torso,,squamous cell carcinoma,male
+2356,Transform226,70.0,upper extremity,,squamous cell carcinoma,male
+59,ISIC_0025331,80.0,head/neck,,squamous cell carcinoma,male
+2505,Transform375,30.0,upper extremity,,dermatofibroma,male
+963,ISIC_0033073,65.0,upper extremity,malignant,melanoma,male
+3065,Transform989,60.0,head/neck,,vascular lesion,female
+1074,ISIC_0033483,45.0,anterior torso,,basal cell carcinoma,male
+1388,ISIC_0034682,75.0,head/neck,,basal cell carcinoma,female
+2662,Transform532,70.0,upper extremity,,squamous cell carcinoma,male
+3314,Transform1362,,,,dermatofibroma,
+2426,Transform296,65.0,head/neck,,actinic keratosis,female
+2029,ISIC_0035826,70.0,head/neck,malignant,melanoma,male
+3212,Transform1228,65.0,upper extremity,,actinic keratosis,male
+2470,Transform340,60.0,posterior torso,,actinic keratosis,male
+440,ISIC_0028989,65.0,lower extremity,,basal cell carcinoma,male
+1974,ISIC_0035704,15.0,upper extremity,benign,nevus,female
+477,ISIC_0029323,75.0,anterior torso,,basal cell carcinoma,male
+3155,Transform1140,35.0,,,vascular lesion,female
+1117,ISIC_0033609,80.0,posterior torso,,basal cell carcinoma,male
+715,ISIC_0031298,75.0,upper extremity,,basal cell carcinoma,male
+2337,Transform207,70.0,lower extremity,,vascular lesion,male
+2262,Transform132,55.0,upper extremity,,squamous cell carcinoma,female
+3062,Transform984,60.0,head/neck,,actinic keratosis,female
+6,ISIC_0024396,65.0,lower extremity,,dermatofibroma,female
+125,ISIC_0026100,70.0,lower extremity,,squamous cell carcinoma,male
+2265,Transform135,60.0,upper extremity,,squamous cell carcinoma,female
+708,ISIC_0031271,45.0,lower extremity,,dermatofibroma,female
+1610,ISIC_0035120,50.0,head/neck,,basal cell carcinoma,male
+1647,ISIC_0035182,45.0,lower extremity,benign,nevus,female
+391,ISIC_0028558,75.0,head/neck,,actinic keratosis,male
+2268,Transform138,70.0,upper extremity,,squamous cell carcinoma,female
+220,ISIC_0026988,60.0,head/neck,,basal cell carcinoma,male
+1951,ISIC_0035652,25.0,posterior torso,benign,nevus,female
+2184,Transform54,60.0,upper extremity,,dermatofibroma,male
+1238,ISIC_0034052,50.0,anterior torso,malignant,melanoma,male
+1041,ISIC_0033358,65.0,head/neck,,actinic keratosis,female
+58,ISIC_0025321,85.0,lower extremity,,vascular lesion,male
+568,ISIC_0030036,60.0,upper extremity,,actinic keratosis,male
+813,ISIC_0032203,60.0,lower extremity,,squamous cell carcinoma,female
+2792,Transform662,60.0,head/neck,,squamous cell carcinoma,male
+703,ISIC_0031257,55.0,upper extremity,,dermatofibroma,female
+2981,Transform865,65.0,,,vascular lesion,female
+261,ISIC_0027365,70.0,head/neck,,basal cell carcinoma,male
+2368,Transform238,60.0,head/neck,,squamous cell carcinoma,male
+1651,ISIC_0035189,50.0,lower extremity,benign,nevus,female
+2275,Transform145,60.0,lower extremity,,dermatofibroma,male
+1293,ISIC_0034223,85.0,head/neck,,basal cell carcinoma,female
+1173,ISIC_0033820,70.0,head/neck,malignant,melanoma,male
+2959,Transform829,65.0,head/neck,,actinic keratosis,male
+1136,ISIC_0033675,50.0,lower extremity,,dermatofibroma,male
+717,ISIC_0031318,65.0,posterior torso,,basal cell carcinoma,female
+1025,ISIC_0033301,65.0,head/neck,,basal cell carcinoma,male
+384,ISIC_0028457,75.0,head/neck,,basal cell carcinoma,female
+588,ISIC_0030244,50.0,lower extremity,,dermatofibroma,male
+1474,ISIC_0034895,40.0,upper extremity,malignant,melanoma,male
+2590,Transform460,25.0,posterior torso,,vascular lesion,female
+2031,ISIC_0035832,30.0,posterior torso,benign,nevus,male
+3168,Transform1157,45.0,lower extremity,,dermatofibroma,female
+1657,ISIC_0035199,65.0,head/neck,benign,nevus,male
+1496,ISIC_0034936,50.0,posterior torso,,basal cell carcinoma,female
+2575,Transform445,65.0,lower extremity,,dermatofibroma,female
+855,ISIC_0032614,55.0,posterior torso,,vascular lesion,female
+2143,Transform13,60.0,upper extremity,,actinic keratosis,male
+2886,Transform756,85.0,posterior torso,,actinic keratosis,male
+2799,Transform669,5.0,lower extremity,,dermatofibroma,male
+3409,Transform1489,50.0,anterior torso,,vascular lesion,female
+3132,Transform1099,45.0,upper extremity,,dermatofibroma,female
+1917,ISIC_0035599,20.0,upper extremity,,vascular lesion,male
+1056,ISIC_0033424,50.0,head/neck,malignant,melanoma,female
+819,ISIC_0032246,70.0,upper extremity,,basal cell carcinoma,female
+2926,Transform796,65.0,lower extremity,,dermatofibroma,female
+3400,Transform1469,50.0,posterior torso,,actinic keratosis,male
+2213,Transform83,45.0,head/neck,,vascular lesion,female
+455,ISIC_0029082,85.0,posterior torso,,basal cell carcinoma,female
+52,ISIC_0025249,30.0,lower extremity,,vascular lesion,female
+2201,Transform71,85.0,upper extremity,,actinic keratosis,male
+20,ISIC_0024575,70.0,upper extremity,,squamous cell carcinoma,female
+3075,Transform1005,70.0,head/neck,,actinic keratosis,male
+2200,Transform70,50.0,,,vascular lesion,male
+194,ISIC_0026729,50.0,head/neck,,actinic keratosis,male
+2010,ISIC_0035786,60.0,lower extremity,benign,nevus,female
+1648,ISIC_0035186,30.0,anterior torso,benign,nevus,male
+1086,ISIC_0033524,85.0,posterior torso,malignant,melanoma,male
+3164,Transform1153,15.0,head/neck,,vascular lesion,male
+1217,ISIC_0033986,30.0,upper extremity,malignant,melanoma,female
+264,ISIC_0027433,80.0,head/neck,,basal cell carcinoma,male
+2255,Transform125,30.0,head/neck,,actinic keratosis,male
+2108,ISIC_0035985,20.0,lower extremity,benign,nevus,female
+3189,Transform1188,70.0,lower extremity,,dermatofibroma,male
+1972,ISIC_0035698,60.0,lower extremity,malignant,melanoma,male
+3339,Transform1392,50.0,head/neck,,actinic keratosis,male
+2698,Transform568,45.0,anterior torso,,dermatofibroma,male
+318,ISIC_0027795,70.0,head/neck,,squamous cell carcinoma,male
+579,ISIC_0030158,55.0,upper extremity,,squamous cell carcinoma,male
+1766,ISIC_0035362,70.0,head/neck,malignant,melanoma,male
+1702,ISIC_0035265,20.0,upper extremity,benign,nevus,female
+2717,Transform587,80.0,upper extremity,,squamous cell carcinoma,female
+48,ISIC_0025196,80.0,upper extremity,,squamous cell carcinoma,female
+2140,Transform10,50.0,upper extremity,,squamous cell carcinoma,male
+803,ISIC_0032138,35.0,lower extremity,,dermatofibroma,female
+3078,Transform1009,75.0,lower extremity,,dermatofibroma,female
+223,ISIC_0027004,70.0,anterior torso,,basal cell carcinoma,male
+585,ISIC_0030230,55.0,posterior torso,,basal cell carcinoma,female
+2756,Transform626,50.0,,,vascular lesion,male
+1836,ISIC_0035469,40.0,anterior torso,benign,nevus,female
+1235,ISIC_0034049,70.0,posterior torso,malignant,melanoma,male
+3007,Transform904,40.0,lower extremity,,dermatofibroma,male
+829,ISIC_0032329,85.0,posterior torso,,squamous cell carcinoma,female
+2263,Transform133,50.0,,,vascular lesion,male
+2310,Transform180,50.0,upper extremity,,dermatofibroma,female
+2043,ISIC_0035852,65.0,posterior torso,,vascular lesion,male
+1493,ISIC_0034933,40.0,lower extremity,benign,nevus,female
+964,ISIC_0033074,45.0,anterior torso,malignant,melanoma,male
+3289,Transform1326,50.0,head/neck,,actinic keratosis,male
+1315,ISIC_0034332,60.0,upper extremity,,squamous cell carcinoma,male
+1147,ISIC_0033717,60.0,lower extremity,malignant,melanoma,female
+286,ISIC_0027595,40.0,lower extremity,,basal cell carcinoma,female
+1222,ISIC_0034002,70.0,upper extremity,malignant,melanoma,female
+2329,Transform199,70.0,upper extremity,,actinic keratosis,male
+3434,Transform1549,70.0,head/neck,,actinic keratosis,female
+2144,Transform14,35.0,head/neck,,vascular lesion,male
+1230,ISIC_0034034,70.0,posterior torso,malignant,melanoma,male
+97,ISIC_0025818,70.0,posterior torso,,basal cell carcinoma,female
+1099,ISIC_0033562,60.0,head/neck,malignant,melanoma,male
+1881,ISIC_0035536,50.0,upper extremity,benign,nevus,male
+3024,Transform929,60.0,lower extremity,,dermatofibroma,female
+3038,Transform950,45.0,,,vascular lesion,female
+795,ISIC_0032030,45.0,anterior torso,,basal cell carcinoma,male
+1476,ISIC_0034900,45.0,upper extremity,benign,nevus,female
+2207,Transform77,5.0,posterior torso,,vascular lesion,male
+285,ISIC_0027588,50.0,head/neck,,actinic keratosis,female
+557,ISIC_0029930,70.0,head/neck,,actinic keratosis,female
+3141,Transform1112,55.0,lower extremity,,dermatofibroma,female
+2001,ISIC_0035766,45.0,posterior torso,malignant,melanoma,female
+1752,ISIC_0035342,50.0,posterior torso,benign,nevus,female
+3452,Transform1595,80.0,head/neck,,actinic keratosis,female
+315,ISIC_0027786,55.0,posterior torso,,basal cell carcinoma,male
+3255,Transform1279,50.0,lower extremity,,dermatofibroma,male
+926,ISIC_0032968,85.0,upper extremity,malignant,melanoma,male
+133,ISIC_0026156,80.0,head/neck,,basal cell carcinoma,male
+2524,Transform394,55.0,lower extremity,,dermatofibroma,female
+2415,Transform285,70.0,upper extremity,,actinic keratosis,male
+2243,Transform113,70.0,head/neck,,actinic keratosis,female
+602,ISIC_0030375,65.0,head/neck,,squamous cell carcinoma,male
+1772,ISIC_0035372,70.0,head/neck,,actinic keratosis,female
+1103,ISIC_0033570,55.0,lower extremity,malignant,melanoma,male
+1399,ISIC_0034748,80.0,anterior torso,,squamous cell carcinoma,female
+1785,ISIC_0035397,80.0,head/neck,malignant,melanoma,male
+3259,Transform1283,60.0,,,vascular lesion,male
+949,ISIC_0033029,60.0,anterior torso,malignant,melanoma,male
+1477,ISIC_0034901,45.0,lower extremity,benign,nevus,female
+996,ISIC_0033209,65.0,head/neck,malignant,melanoma,male
+3250,Transform1274,35.0,lower extremity,,dermatofibroma,female
+1458,ISIC_0034874,70.0,head/neck,malignant,melanoma,female
+11,ISIC_0024468,75.0,head/neck,,actinic keratosis,male
+1791,ISIC_0035406,50.0,lower extremity,malignant,melanoma,female
+3292,Transform1330,70.0,head/neck,,actinic keratosis,female
+3389,Transform1451,55.0,head/neck,,actinic keratosis,female
+2342,Transform212,75.0,lower extremity,,dermatofibroma,female
+442,ISIC_0028994,85.0,lower extremity,,basal cell carcinoma,male
+1644,ISIC_0035173,55.0,anterior torso,benign,nevus,female
+1625,ISIC_0035140,45.0,posterior torso,benign,nevus,female
+157,ISIC_0026395,50.0,posterior torso,,basal cell carcinoma,female
+2134,Transform4,70.0,lower extremity,,squamous cell carcinoma,male
+2843,Transform713,45.0,lower extremity,,dermatofibroma,female
+505,ISIC_0029541,55.0,head/neck,,squamous cell carcinoma,male
+1245,ISIC_0034068,70.0,lower extremity,malignant,melanoma,female
+2733,Transform603,55.0,anterior torso,,vascular lesion,male
+2188,Transform58,30.0,head/neck,,vascular lesion,male
+18,ISIC_0024553,50.0,upper extremity,,dermatofibroma,female
+1599,ISIC_0035103,70.0,lower extremity,benign,nevus,male
+200,ISIC_0026829,60.0,posterior torso,,basal cell carcinoma,female
+1990,ISIC_0035738,80.0,posterior torso,benign,nevus,female
+3315,Transform1363,85.0,head/neck,,actinic keratosis,female
+1452,ISIC_0034868,50.0,lower extremity,benign,nevus,male
+2210,Transform80,15.0,head/neck,,vascular lesion,male
+646,ISIC_0030785,75.0,posterior torso,,squamous cell carcinoma,male
+1519,ISIC_0034974,40.0,anterior torso,benign,nevus,male
+772,ISIC_0031799,70.0,lower extremity,,dermatofibroma,male
+47,ISIC_0025182,60.0,upper extremity,,squamous cell carcinoma,female
+2078,ISIC_0035923,80.0,anterior torso,malignant,melanoma,male
+2453,Transform323,70.0,lower extremity,,squamous cell carcinoma,male
+3456,Transform1601,65.0,lower extremity,,dermatofibroma,male
+1643,ISIC_0035172,55.0,lower extremity,benign,nevus,male
+1199,ISIC_0033925,65.0,upper extremity,malignant,melanoma,female
+2709,Transform579,45.0,anterior torso,,vascular lesion,female
+1485,ISIC_0034918,60.0,posterior torso,malignant,melanoma,male
+1430,ISIC_0034834,50.0,posterior torso,benign,nevus,female
+2768,Transform638,,,,dermatofibroma,
+2074,ISIC_0035915,70.0,head/neck,,actinic keratosis,female
+1001,ISIC_0033232,25.0,upper extremity,malignant,melanoma,male
+2106,ISIC_0035980,50.0,posterior torso,benign,nevus,male
+897,ISIC_0032875,75.0,anterior torso,malignant,melanoma,male
+1062,ISIC_0033450,15.0,anterior torso,,vascular lesion,male
+657,ISIC_0030870,45.0,lower extremity,,dermatofibroma,female
+2180,Transform50,65.0,lower extremity,,squamous cell carcinoma,male
+3064,Transform988,45.0,,,vascular lesion,female
+2907,Transform777,75.0,posterior torso,,squamous cell carcinoma,male
+1252,ISIC_0034092,65.0,upper extremity,malignant,melanoma,male
+2877,Transform747,75.0,posterior torso,,squamous cell carcinoma,male
+1010,ISIC_0033258,80.0,upper extremity,malignant,melanoma,male
+1980,ISIC_0035716,45.0,anterior torso,benign,nevus,male
+413,ISIC_0028747,85.0,head/neck,,basal cell carcinoma,male
+2328,Transform198,65.0,upper extremity,,actinic keratosis,male
+254,ISIC_0027281,70.0,posterior torso,,basal cell carcinoma,male
+2287,Transform157,70.0,head/neck,,actinic keratosis,male
+2699,Transform569,35.0,lower extremity,,dermatofibroma,female
+1260,ISIC_0034107,40.0,anterior torso,malignant,melanoma,female
+684,ISIC_0031119,80.0,head/neck,,squamous cell carcinoma,male
+300,ISIC_0027675,70.0,posterior torso,,basal cell carcinoma,female
+128,ISIC_0026132,70.0,anterior torso,,squamous cell carcinoma,male
+1054,ISIC_0033416,70.0,anterior torso,malignant,melanoma,male
+2796,Transform666,60.0,lower extremity,,squamous cell carcinoma,female
+1856,ISIC_0035494,50.0,upper extremity,benign,nevus,female
+1257,ISIC_0034101,80.0,upper extremity,malignant,melanoma,male
+1105,ISIC_0033573,50.0,posterior torso,malignant,melanoma,male
+846,ISIC_0032468,75.0,lower extremity,,dermatofibroma,female
+2581,Transform451,75.0,lower extremity,,dermatofibroma,male
+1334,ISIC_0034405,65.0,posterior torso,,basal cell carcinoma,male
+386,ISIC_0028495,50.0,posterior torso,,basal cell carcinoma,female
+651,ISIC_0030821,75.0,head/neck,,squamous cell carcinoma,male
+3202,Transform1208,35.0,lower extremity,,dermatofibroma,female
+2434,Transform304,80.0,head/neck,,actinic keratosis,male
+3258,Transform1282,80.0,lower extremity,,vascular lesion,male
+2629,Transform499,70.0,lower extremity,,vascular lesion,female
+805,ISIC_0032146,80.0,head/neck,,basal cell carcinoma,female
+3271,Transform1296,35.0,lower extremity,,vascular lesion,female
+366,ISIC_0028232,60.0,head/neck,,squamous cell carcinoma,male
+2475,Transform345,80.0,lower extremity,,vascular lesion,male
+2678,Transform548,70.0,head/neck,,actinic keratosis,male
+2348,Transform218,60.0,head/neck,,actinic keratosis,male
+1301,ISIC_0034262,65.0,lower extremity,malignant,melanoma,male
+3412,Transform1493,30.0,lower extremity,,vascular lesion,female
+1646,ISIC_0035181,50.0,posterior torso,benign,nevus,female
+2604,Transform474,65.0,head/neck,,squamous cell carcinoma,female
+1411,ISIC_0034800,60.0,lower extremity,benign,nevus,male
+3273,Transform1298,35.0,lower extremity,,dermatofibroma,female
+1693,ISIC_0035247,40.0,lower extremity,,vascular lesion,female
+1713,ISIC_0035286,45.0,posterior torso,benign,nevus,male
+1263,ISIC_0034119,70.0,head/neck,,basal cell carcinoma,male
+1649,ISIC_0035187,60.0,lower extremity,benign,nevus,male
+458,ISIC_0029123,80.0,posterior torso,,basal cell carcinoma,male
+2566,Transform436,65.0,head/neck,,actinic keratosis,male
+1211,ISIC_0033969,35.0,lower extremity,,vascular lesion,female
+1012,ISIC_0033267,65.0,posterior torso,malignant,melanoma,female
+2109,ISIC_0035986,55.0,upper extremity,malignant,melanoma,female
+1240,ISIC_0034059,70.0,upper extremity,malignant,melanoma,male
+3205,Transform1215,65.0,anterior torso,,vascular lesion,female
+2704,Transform574,45.0,anterior torso,,dermatofibroma,male
+1030,ISIC_0033317,80.0,head/neck,malignant,melanoma,male
+3049,Transform962,60.0,lower extremity,,actinic keratosis,male
+2991,Transform879,35.0,upper extremity,,vascular lesion,female
+87,ISIC_0025712,70.0,anterior torso,,squamous cell carcinoma,female
+3069,Transform997,60.0,head/neck,,actinic keratosis,male
+1569,ISIC_0035059,35.0,posterior torso,benign,nevus,male
+1191,ISIC_0033885,60.0,lower extremity,malignant,melanoma,female
+1512,ISIC_0034965,40.0,posterior torso,benign,nevus,female
+2559,Transform429,60.0,lower extremity,,squamous cell carcinoma,male
+354,ISIC_0028132,80.0,head/neck,,squamous cell carcinoma,female
+1018,ISIC_0033275,60.0,anterior torso,malignant,melanoma,female
+3204,Transform1213,50.0,head/neck,,actinic keratosis,male
+3291,Transform1328,50.0,lower extremity,,vascular lesion,female
+2012,ISIC_0035791,40.0,anterior torso,benign,nevus,female
+876,ISIC_0032810,70.0,upper extremity,malignant,melanoma,male
+444,ISIC_0029020,50.0,posterior torso,,basal cell carcinoma,male
+161,ISIC_0026439,35.0,posterior torso,,basal cell carcinoma,male
+2254,Transform124,60.0,posterior torso,,squamous cell carcinoma,male
+249,ISIC_0027216,60.0,lower extremity,,dermatofibroma,female
+3027,Transform932,45.0,upper extremity,,dermatofibroma,female
+980,ISIC_0033152,65.0,posterior torso,malignant,melanoma,female
+884,ISIC_0032844,60.0,posterior torso,malignant,melanoma,male
+1991,ISIC_0035744,70.0,posterior torso,,basal cell carcinoma,female
+1695,ISIC_0035250,35.0,anterior torso,benign,nevus,female
+2294,Transform164,55.0,anterior torso,,actinic keratosis,female
+173,ISIC_0026522,50.0,upper extremity,,squamous cell carcinoma,male
+2355,Transform225,50.0,lower extremity,,dermatofibroma,female
+2343,Transform213,70.0,upper extremity,,actinic keratosis,male
+3221,Transform1238,45.0,anterior torso,,vascular lesion,female
+822,ISIC_0032277,85.0,head/neck,,squamous cell carcinoma,male
+2638,Transform508,30.0,lower extremity,,dermatofibroma,male
+665,ISIC_0030986,55.0,head/neck,,squamous cell carcinoma,female
+2788,Transform658,50.0,head/neck,,actinic keratosis,male
+1916,ISIC_0035597,60.0,lower extremity,benign,nevus,female
+3013,Transform913,45.0,,,actinic keratosis,male
+2519,Transform389,80.0,head/neck,,actinic keratosis,male
+3080,Transform1013,70.0,lower extremity,,dermatofibroma,male
+158,ISIC_0026411,70.0,upper extremity,,squamous cell carcinoma,female
+139,ISIC_0026203,70.0,posterior torso,,squamous cell carcinoma,male
+1901,ISIC_0035572,55.0,lower extremity,benign,nevus,female
+574,ISIC_0030133,65.0,head/neck,,actinic keratosis,male
+1666,ISIC_0035213,35.0,lower extremity,benign,nevus,female
+2770,Transform640,50.0,upper extremity,,squamous cell carcinoma,male
+3017,Transform918,45.0,lower extremity,,dermatofibroma,male
+773,ISIC_0031823,75.0,head/neck,,actinic keratosis,male
+2399,Transform269,70.0,upper extremity,,squamous cell carcinoma,female
+2155,Transform25,75.0,,,vascular lesion,male
+342,ISIC_0028050,65.0,upper extremity,,basal cell carcinoma,female
+792,ISIC_0031996,70.0,lower extremity,,vascular lesion,female
+1000,ISIC_0033226,65.0,upper extremity,malignant,melanoma,male
+2396,Transform266,60.0,head/neck,,actinic keratosis,female
+441,ISIC_0028990,70.0,upper extremity,,actinic keratosis,male
+789,ISIC_0031976,80.0,head/neck,,basal cell carcinoma,male
+1302,ISIC_0034263,80.0,upper extremity,malignant,melanoma,male
+1885,ISIC_0035544,45.0,lower extremity,benign,nevus,male
+2939,Transform809,35.0,,,vascular lesion,male
+3087,Transform1022,80.0,head/neck,,actinic keratosis,male
+535,ISIC_0029781,75.0,head/neck,,actinic keratosis,male
+2429,Transform299,40.0,head/neck,,actinic keratosis,male
+916,ISIC_0032932,70.0,posterior torso,,vascular lesion,male
+1382,ISIC_0034644,60.0,anterior torso,malignant,melanoma,male
+2622,Transform492,80.0,upper extremity,,squamous cell carcinoma,female
+43,ISIC_0025089,65.0,head/neck,,squamous cell carcinoma,male
+1886,ISIC_0035545,35.0,upper extremity,benign,nevus,male
+2847,Transform717,70.0,head/neck,,actinic keratosis,female
+1507,ISIC_0034957,55.0,upper extremity,malignant,melanoma,male
+80,ISIC_0025637,75.0,head/neck,,squamous cell carcinoma,male
+1632,ISIC_0035153,40.0,anterior torso,benign,nevus,female
+270,ISIC_0027506,55.0,upper extremity,,squamous cell carcinoma,female
+2614,Transform484,70.0,lower extremity,,vascular lesion,female
+2133,Transform3,55.0,,,vascular lesion,male
+3437,Transform1561,30.0,head/neck,,actinic keratosis,male
+475,ISIC_0029309,80.0,head/neck,,actinic keratosis,male
+532,ISIC_0029755,80.0,posterior torso,,basal cell carcinoma,male
+3182,Transform1174,70.0,upper extremity,,actinic keratosis,male
+1323,ISIC_0034361,65.0,posterior torso,,basal cell carcinoma,male
+1962,ISIC_0035680,65.0,lower extremity,malignant,melanoma,female
+2130,Transform0,65.0,lower extremity,,dermatofibroma,female
+1906,ISIC_0035578,65.0,anterior torso,benign,nevus,male
+267,ISIC_0027473,65.0,head/neck,,basal cell carcinoma,female
+1509,ISIC_0034961,80.0,posterior torso,,actinic keratosis,male
+233,ISIC_0027093,65.0,head/neck,,basal cell carcinoma,female
+2707,Transform577,35.0,lower extremity,,dermatofibroma,female
+2628,Transform498,75.0,lower extremity,,dermatofibroma,male
+2231,Transform101,65.0,head/neck,,squamous cell carcinoma,female
+1945,ISIC_0035642,75.0,anterior torso,,squamous cell carcinoma,male
+287,ISIC_0027598,60.0,lower extremity,,dermatofibroma,female
+1091,ISIC_0033538,70.0,lower extremity,malignant,melanoma,male
+733,ISIC_0031431,55.0,head/neck,,squamous cell carcinoma,female
+2862,Transform732,35.0,head/neck,,vascular lesion,male
+512,ISIC_0029573,70.0,lower extremity,,squamous cell carcinoma,male
+810,ISIC_0032185,45.0,posterior torso,,basal cell carcinoma,female
+2902,Transform772,60.0,upper extremity,,dermatofibroma,male
+2302,Transform172,55.0,lower extremity,,squamous cell carcinoma,male
+815,ISIC_0032222,65.0,anterior torso,,basal cell carcinoma,male
+828,ISIC_0032318,65.0,head/neck,,basal cell carcinoma,male
+1261,ISIC_0034117,70.0,anterior torso,malignant,melanoma,male
+1577,ISIC_0035072,75.0,head/neck,,basal cell carcinoma,male
+2044,ISIC_0035853,60.0,lower extremity,malignant,melanoma,male
+279,ISIC_0027546,65.0,posterior torso,,basal cell carcinoma,male
+2082,ISIC_0035938,50.0,lower extremity,malignant,melanoma,male
+1277,ISIC_0034162,70.0,posterior torso,malignant,melanoma,male
+250,ISIC_0027229,70.0,anterior torso,,basal cell carcinoma,male
+3356,Transform1412,,,,dermatofibroma,
+2259,Transform129,45.0,lower extremity,,dermatofibroma,male
+2190,Transform60,60.0,lower extremity,,dermatofibroma,female
+2578,Transform448,50.0,lower extremity,,dermatofibroma,male
+2090,ISIC_0035956,70.0,head/neck,malignant,melanoma,male
+1045,ISIC_0033369,70.0,anterior torso,malignant,melanoma,male
+2585,Transform455,65.0,lower extremity,,dermatofibroma,male
+31,ISIC_0024843,70.0,head/neck,,squamous cell carcinoma,female
+3267,Transform1291,45.0,anterior torso,,dermatofibroma,male
+864,ISIC_0032745,55.0,lower extremity,,vascular lesion,male
+3300,Transform1339,55.0,,,vascular lesion,male
+2118,ISIC_0036022,65.0,upper extremity,,basal cell carcinoma,male
+1927,ISIC_0035614,45.0,lower extremity,benign,nevus,female
+2472,Transform342,60.0,head/neck,,actinic keratosis,male
+1749,ISIC_0035338,60.0,lower extremity,,dermatofibroma,female
+842,ISIC_0032437,65.0,upper extremity,,actinic keratosis,male
+2670,Transform540,65.0,head/neck,,actinic keratosis,female
+1775,ISIC_0035376,60.0,head/neck,,squamous cell carcinoma,male
+2112,ISIC_0036005,55.0,lower extremity,malignant,melanoma,male
+3416,Transform1504,35.0,lower extremity,,dermatofibroma,female
+2404,Transform274,85.0,upper extremity,,squamous cell carcinoma,male
+2975,Transform858,60.0,upper extremity,,vascular lesion,male
+3329,Transform1381,80.0,posterior torso,,actinic keratosis,male
+2651,Transform521,55.0,lower extremity,,vascular lesion,male
+1393,ISIC_0034713,65.0,posterior torso,malignant,melanoma,male
+309,ISIC_0027744,50.0,upper extremity,,basal cell carcinoma,male
+2148,Transform18,70.0,head/neck,,squamous cell carcinoma,male
+2063,ISIC_0035889,55.0,upper extremity,malignant,melanoma,female
+490,ISIC_0029417,80.0,head/neck,,squamous cell carcinoma,female
+818,ISIC_0032240,65.0,anterior torso,,vascular lesion,female
+2398,Transform268,55.0,lower extremity,,dermatofibroma,female
+3357,Transform1414,,,,dermatofibroma,
+2522,Transform392,,anterior torso,,vascular lesion,female
+1539,ISIC_0035008,80.0,upper extremity,,squamous cell carcinoma,male
+2573,Transform443,55.0,lower extremity,,dermatofibroma,male
+3160,Transform1146,40.0,lower extremity,,dermatofibroma,male
+2611,Transform481,40.0,lower extremity,,vascular lesion,male
+1538,ISIC_0035007,25.0,lower extremity,benign,nevus,female
+1259,ISIC_0034106,65.0,lower extremity,malignant,melanoma,male
+1165,ISIC_0033808,45.0,anterior torso,,dermatofibroma,male
+892,ISIC_0032866,55.0,posterior torso,,vascular lesion,female
+970,ISIC_0033103,65.0,lower extremity,malignant,melanoma,male
+2014,ISIC_0035794,70.0,posterior torso,malignant,melanoma,male
+2439,Transform309,10.0,,,vascular lesion,male
+2734,Transform604,,,,dermatofibroma,
+1188,ISIC_0033878,80.0,head/neck,malignant,melanoma,female
+2295,Transform165,65.0,lower extremity,,dermatofibroma,male
+2561,Transform431,55.0,head/neck,,squamous cell carcinoma,female
+521,ISIC_0029644,40.0,lower extremity,,basal cell carcinoma,female
+3278,Transform1311,75.0,posterior torso,,vascular lesion,male
+393,ISIC_0028570,85.0,posterior torso,,basal cell carcinoma,female
+77,ISIC_0025612,45.0,head/neck,,vascular lesion,female
+1564,ISIC_0035050,65.0,posterior torso,benign,nevus,male
+1417,ISIC_0034808,65.0,lower extremity,benign,nevus,male
+3163,Transform1152,75.0,,,vascular lesion,male
+262,ISIC_0027371,65.0,head/neck,,basal cell carcinoma,male
+198,ISIC_0026789,65.0,lower extremity,,dermatofibroma,male
+1771,ISIC_0035370,70.0,posterior torso,benign,nevus,female
+240,ISIC_0027146,50.0,posterior torso,,basal cell carcinoma,male
+721,ISIC_0031351,75.0,anterior torso,,basal cell carcinoma,male
+2776,Transform646,,,,vascular lesion,
+1989,ISIC_0035733,65.0,lower extremity,,basal cell carcinoma,female
+2784,Transform654,70.0,head/neck,,actinic keratosis,female
+1058,ISIC_0033428,75.0,anterior torso,malignant,melanoma,male
+2192,Transform62,80.0,anterior torso,,squamous cell carcinoma,male
+799,ISIC_0032092,45.0,upper extremity,,basal cell carcinoma,male
+2627,Transform497,65.0,anterior torso,,vascular lesion,female
+1756,ISIC_0035348,50.0,head/neck,,actinic keratosis,male
+381,ISIC_0028406,80.0,anterior torso,,vascular lesion,male
+2832,Transform702,,,,vascular lesion,
+2436,Transform306,70.0,upper extremity,,squamous cell carcinoma,male
+2829,Transform699,70.0,head/neck,,actinic keratosis,female
+1036,ISIC_0033336,70.0,upper extremity,malignant,melanoma,male
+1210,ISIC_0033968,55.0,lower extremity,malignant,melanoma,male
+3122,Transform1080,65.0,head/neck,,actinic keratosis,male
+3102,Transform1055,40.0,lower extremity,,dermatofibroma,male
+1494,ISIC_0034934,75.0,head/neck,malignant,melanoma,male
+2365,Transform235,40.0,,,vascular lesion,male
+1515,ISIC_0034968,60.0,upper extremity,benign,nevus,male
+106,ISIC_0025932,85.0,head/neck,,basal cell carcinoma,male
+1703,ISIC_0035267,70.0,posterior torso,benign,nevus,male
+85,ISIC_0025700,85.0,head/neck,,basal cell carcinoma,female
+1226,ISIC_0034015,85.0,head/neck,,basal cell carcinoma,female
+1039,ISIC_0033349,55.0,posterior torso,,vascular lesion,female
+474,ISIC_0029297,40.0,lower extremity,,dermatofibroma,female
+1195,ISIC_0033901,40.0,posterior torso,malignant,melanoma,male
+1142,ISIC_0033700,45.0,posterior torso,malignant,melanoma,male
+2978,Transform862,50.0,upper extremity,,actinic keratosis,male
+2759,Transform629,55.0,anterior torso,,vascular lesion,female
+431,ISIC_0028890,65.0,posterior torso,,basal cell carcinoma,male
+1526,ISIC_0034986,75.0,lower extremity,benign,nevus,male
+513,ISIC_0029578,60.0,lower extremity,,dermatofibroma,male
+1725,ISIC_0035303,40.0,upper extremity,benign,nevus,male
+3458,Transform1603,55.0,head/neck,,actinic keratosis,male
+1351,ISIC_0034482,50.0,lower extremity,malignant,melanoma,female
+1678,ISIC_0035229,55.0,posterior torso,malignant,melanoma,female
+2114,ISIC_0036012,70.0,upper extremity,malignant,melanoma,male
+633,ISIC_0030712,70.0,lower extremity,,basal cell carcinoma,male
+1850,ISIC_0035488,45.0,lower extremity,benign,nevus,male
+629,ISIC_0030665,55.0,lower extremity,,dermatofibroma,female
+1656,ISIC_0035197,25.0,posterior torso,benign,nevus,male
+2534,Transform404,75.0,head/neck,,squamous cell carcinoma,male
+1339,ISIC_0034421,70.0,upper extremity,,squamous cell carcinoma,female
+2246,Transform116,75.0,upper extremity,,vascular lesion,male
+2572,Transform442,60.0,upper extremity,,actinic keratosis,male
+301,ISIC_0027677,65.0,posterior torso,,basal cell carcinoma,male
+345,ISIC_0028076,60.0,lower extremity,,actinic keratosis,male
+2605,Transform475,55.0,posterior torso,,vascular lesion,male
+2655,Transform525,55.0,posterior torso,,vascular lesion,female
+2936,Transform806,50.0,anterior torso,,vascular lesion,female
+2249,Transform119,85.0,posterior torso,,squamous cell carcinoma,female
+310,ISIC_0027745,50.0,lower extremity,,dermatofibroma,female
+735,ISIC_0031443,60.0,upper extremity,,dermatofibroma,male
+187,ISIC_0026687,60.0,lower extremity,,basal cell carcinoma,male
+1322,ISIC_0034354,65.0,head/neck,malignant,melanoma,female
+3073,Transform1002,70.0,head/neck,,actinic keratosis,female
+1686,ISIC_0035238,45.0,lower extremity,benign,nevus,female
+677,ISIC_0031057,70.0,upper extremity,,basal cell carcinoma,female
+203,ISIC_0026848,55.0,head/neck,,actinic keratosis,male
+3462,Transform1612,35.0,lower extremity,,dermatofibroma,female
+415,ISIC_0028765,80.0,posterior torso,,basal cell carcinoma,male
+516,ISIC_0029602,60.0,posterior torso,,basal cell carcinoma,female
+917,ISIC_0032936,25.0,upper extremity,malignant,melanoma,male
+1813,ISIC_0035433,25.0,posterior torso,benign,nevus,male
+344,ISIC_0028063,50.0,head/neck,,actinic keratosis,male
+1761,ISIC_0035356,50.0,lower extremity,benign,nevus,male
+1588,ISIC_0035090,60.0,posterior torso,malignant,melanoma,male
+294,ISIC_0027631,65.0,posterior torso,,basal cell carcinoma,male
+1753,ISIC_0035343,30.0,posterior torso,benign,nevus,male
+1096,ISIC_0033554,35.0,lower extremity,,dermatofibroma,female
+904,ISIC_0032897,60.0,lower extremity,,squamous cell carcinoma,female
+642,ISIC_0030767,75.0,head/neck,,basal cell carcinoma,male
+2889,Transform759,45.0,posterior torso,,squamous cell carcinoma,male
+3053,Transform968,45.0,head/neck,,actinic keratosis,male
+2663,Transform533,70.0,upper extremity,,squamous cell carcinoma,male
+2101,ISIC_0035974,65.0,posterior torso,benign,nevus,male
+2812,Transform682,,,,dermatofibroma,
+2175,Transform45,75.0,upper extremity,,squamous cell carcinoma,female
+2577,Transform447,80.0,upper extremity,,dermatofibroma,male
+1168,ISIC_0033812,70.0,head/neck,malignant,melanoma,female
+593,ISIC_0030280,70.0,upper extremity,,squamous cell carcinoma,male
+1947,ISIC_0035647,45.0,posterior torso,benign,nevus,male
+2773,Transform643,80.0,lower extremity,,squamous cell carcinoma,male
+260,ISIC_0027343,75.0,lower extremity,,squamous cell carcinoma,female
+3068,Transform996,80.0,lower extremity,,actinic keratosis,male
+832,ISIC_0032371,75.0,upper extremity,,squamous cell carcinoma,male
+1343,ISIC_0034438,60.0,lower extremity,malignant,melanoma,female
+272,ISIC_0027525,75.0,lower extremity,,basal cell carcinoma,male
+2998,Transform888,70.0,upper extremity,,actinic keratosis,male
+1115,ISIC_0033607,45.0,posterior torso,malignant,melanoma,male
+500,ISIC_0029514,55.0,head/neck,,vascular lesion,female
+2347,Transform217,50.0,anterior torso,,vascular lesion,male
+2330,Transform200,45.0,lower extremity,,dermatofibroma,male
+2004,ISIC_0035772,70.0,posterior torso,,basal cell carcinoma,female
+2054,ISIC_0035869,25.0,posterior torso,benign,nevus,female
+2506,Transform376,70.0,posterior torso,,squamous cell carcinoma,female
+1928,ISIC_0035615,75.0,posterior torso,benign,nevus,male
+3374,Transform1431,45.0,lower extremity,,dermatofibroma,female
+1319,ISIC_0034343,65.0,anterior torso,malignant,melanoma,male
+2803,Transform673,50.0,anterior torso,,vascular lesion,male
+2277,Transform147,65.0,,,vascular lesion,female
+3450,Transform1591,65.0,lower extremity,,dermatofibroma,female
+1570,ISIC_0035060,65.0,posterior torso,benign,nevus,female
+2883,Transform753,40.0,lower extremity,,dermatofibroma,male
+1837,ISIC_0035470,50.0,posterior torso,benign,nevus,female
+2833,Transform703,65.0,posterior torso,,vascular lesion,male
+1895,ISIC_0035561,60.0,head/neck,malignant,melanoma,male
+2808,Transform678,55.0,,,vascular lesion,male
+2267,Transform137,80.0,,,vascular lesion,male
+360,ISIC_0028168,65.0,head/neck,,basal cell carcinoma,female
+3100,Transform1053,70.0,lower extremity,,dermatofibroma,male
+620,ISIC_0030579,55.0,upper extremity,,dermatofibroma,female
+2482,Transform352,65.0,lower extremity,,dermatofibroma,male
+986,ISIC_0033180,30.0,upper extremity,malignant,melanoma,female
+34,ISIC_0024913,85.0,posterior torso,,actinic keratosis,male
+690,ISIC_0031169,65.0,posterior torso,,basal cell carcinoma,female
+3126,Transform1087,50.0,lower extremity,,dermatofibroma,male
+2064,ISIC_0035892,30.0,posterior torso,benign,nevus,male
+376,ISIC_0028350,70.0,posterior torso,,basal cell carcinoma,female
+101,ISIC_0025831,65.0,head/neck,,squamous cell carcinoma,female
+3256,Transform1280,45.0,lower extremity,,dermatofibroma,female
+1486,ISIC_0034920,25.0,lower extremity,benign,nevus,female
+2895,Transform765,65.0,head/neck,,squamous cell carcinoma,male
+939,ISIC_0033001,70.0,posterior torso,,basal cell carcinoma,male
+1601,ISIC_0035106,70.0,anterior torso,,basal cell carcinoma,male
+946,ISIC_0033023,80.0,upper extremity,malignant,melanoma,male
+1258,ISIC_0034104,55.0,upper extremity,malignant,melanoma,male
+1683,ISIC_0035235,15.0,anterior torso,benign,nevus,male
+2288,Transform158,75.0,anterior torso,,vascular lesion,male
+3041,Transform953,40.0,,,vascular lesion,male
+1455,ISIC_0034871,55.0,posterior torso,malignant,melanoma,male
+506,ISIC_0029545,55.0,anterior torso,,basal cell carcinoma,female
+1543,ISIC_0035015,55.0,upper extremity,benign,nevus,male
+1453,ISIC_0034869,45.0,anterior torso,benign,nevus,female
+2920,Transform790,55.0,anterior torso,,vascular lesion,female
+1205,ISIC_0033953,55.0,posterior torso,malignant,melanoma,male
+2790,Transform660,65.0,anterior torso,,squamous cell carcinoma,male
+61,ISIC_0025358,60.0,head/neck,,squamous cell carcinoma,female
+1175,ISIC_0033834,75.0,posterior torso,malignant,melanoma,female
+3145,Transform1118,65.0,anterior torso,,vascular lesion,female
+2299,Transform169,,anterior torso,,vascular lesion,female
+3109,Transform1065,75.0,lower extremity,,dermatofibroma,male
+2800,Transform670,,,,actinic keratosis,
+456,ISIC_0029083,70.0,head/neck,,basal cell carcinoma,male
+1550,ISIC_0035026,65.0,anterior torso,,basal cell carcinoma,male
+1116,ISIC_0033608,35.0,lower extremity,,vascular lesion,female
+2230,Transform100,80.0,head/neck,,actinic keratosis,female
+519,ISIC_0029634,60.0,head/neck,,squamous cell carcinoma,male
+394,ISIC_0028577,65.0,lower extremity,,basal cell carcinoma,female
+3377,Transform1434,,,,dermatofibroma,
+147,ISIC_0026313,50.0,lower extremity,,dermatofibroma,male
+2736,Transform606,70.0,upper extremity,,squamous cell carcinoma,male
+2306,Transform176,35.0,lower extremity,,dermatofibroma,female
+50,ISIC_0025223,60.0,upper extremity,,dermatofibroma,male
+72,ISIC_0025594,65.0,lower extremity,,dermatofibroma,female
+3293,Transform1331,,,,dermatofibroma,
+1786,ISIC_0035398,50.0,head/neck,benign,nevus,male
+36,ISIC_0024925,75.0,anterior torso,,squamous cell carcinoma,male
+2465,Transform335,70.0,lower extremity,,dermatofibroma,male
+3484,Transform1654,60.0,head/neck,,actinic keratosis,male
+1145,ISIC_0033708,50.0,head/neck,malignant,melanoma,male
+2048,ISIC_0035858,80.0,lower extremity,benign,nevus,female
+2332,Transform202,55.0,anterior torso,,vascular lesion,male
+142,ISIC_0026213,70.0,anterior torso,,basal cell carcinoma,male
+1471,ISIC_0034891,60.0,anterior torso,,basal cell carcinoma,male
+312,ISIC_0027759,60.0,posterior torso,,basal cell carcinoma,female
+2887,Transform757,75.0,lower extremity,,squamous cell carcinoma,female
+2323,Transform193,75.0,lower extremity,,squamous cell carcinoma,female
+2961,Transform831,70.0,head/neck,,actinic keratosis,female
+2518,Transform388,55.0,upper extremity,,dermatofibroma,female
+2923,Transform793,75.0,lower extremity,,squamous cell carcinoma,male
+1192,ISIC_0033886,60.0,lower extremity,malignant,melanoma,male
+2172,Transform42,55.0,head/neck,,actinic keratosis,female
+1317,ISIC_0034334,50.0,lower extremity,,dermatofibroma,female
+2131,Transform1,75.0,lower extremity,,squamous cell carcinoma,female
+2568,Transform438,20.0,upper extremity,,vascular lesion,male
+3010,Transform908,75.0,head/neck,,actinic keratosis,male
+1170,ISIC_0033814,70.0,head/neck,malignant,melanoma,male
+2529,Transform399,80.0,upper extremity,,dermatofibroma,male
+2223,Transform93,35.0,lower extremity,,dermatofibroma,female
+152,ISIC_0026337,80.0,anterior torso,,basal cell carcinoma,male
+1451,ISIC_0034867,40.0,posterior torso,benign,nevus,male
+3133,Transform1100,55.0,lower extremity,,dermatofibroma,male
+2692,Transform562,45.0,lower extremity,,dermatofibroma,female
+1611,ISIC_0035121,45.0,anterior torso,benign,nevus,male
+3402,Transform1472,75.0,,,vascular lesion,male
+3169,Transform1158,75.0,anterior torso,,vascular lesion,male
+1073,ISIC_0033479,40.0,posterior torso,malignant,melanoma,female
+1639,ISIC_0035165,35.0,posterior torso,benign,nevus,female
+42,ISIC_0025069,75.0,upper extremity,,squamous cell carcinoma,male
+3039,Transform951,65.0,lower extremity,,dermatofibroma,female
+5,ISIC_0024386,40.0,lower extremity,,dermatofibroma,female
+55,ISIC_0025302,60.0,lower extremity,,dermatofibroma,female
+2072,ISIC_0035913,65.0,lower extremity,malignant,melanoma,female
+1677,ISIC_0035228,40.0,lower extremity,benign,nevus,male
+987,ISIC_0033183,70.0,posterior torso,malignant,melanoma,male
+1067,ISIC_0033468,80.0,posterior torso,,basal cell carcinoma,female
+2514,Transform384,75.0,lower extremity,,squamous cell carcinoma,male
+511,ISIC_0029567,70.0,lower extremity,,squamous cell carcinoma,male
+3323,Transform1372,70.0,head/neck,,actinic keratosis,female
+1738,ISIC_0035319,50.0,lower extremity,benign,nevus,female
+3345,Transform1400,,,,dermatofibroma,
+1335,ISIC_0034406,70.0,upper extremity,,basal cell carcinoma,male
+1710,ISIC_0035280,70.0,lower extremity,malignant,melanoma,male
+241,ISIC_0027159,85.0,upper extremity,,vascular lesion,female
+2620,Transform490,35.0,lower extremity,,dermatofibroma,female
+2725,Transform595,75.0,posterior torso,,vascular lesion,male
+1665,ISIC_0035210,70.0,lower extremity,,squamous cell carcinoma,female
+255,ISIC_0027291,70.0,posterior torso,,basal cell carcinoma,male
+2123,ISIC_0036041,45.0,lower extremity,benign,nevus,female
+1746,ISIC_0035332,60.0,posterior torso,,basal cell carcinoma,male
+1279,ISIC_0034170,80.0,head/neck,malignant,melanoma,female
+871,ISIC_0032790,65.0,posterior torso,malignant,melanoma,male
+2915,Transform785,40.0,head/neck,,actinic keratosis,female
+3397,Transform1466,70.0,head/neck,,vascular lesion,female
+893,ISIC_0032867,45.0,anterior torso,,vascular lesion,female
+1419,ISIC_0034813,25.0,posterior torso,benign,nevus,male
+1801,ISIC_0035417,35.0,lower extremity,benign,nevus,female
+2359,Transform229,70.0,head/neck,,squamous cell carcinoma,male
+1854,ISIC_0035492,70.0,anterior torso,benign,nevus,male
+915,ISIC_0032927,55.0,upper extremity,malignant,melanoma,male
+3237,Transform1258,65.0,head/neck,,actinic keratosis,female
+473,ISIC_0029279,80.0,lower extremity,,squamous cell carcinoma,male
+2972,Transform852,60.0,,,vascular lesion,female
+985,ISIC_0033178,55.0,posterior torso,malignant,melanoma,male
+2385,Transform255,60.0,lower extremity,,squamous cell carcinoma,female
+3485,Transform1660,55.0,upper extremity,,dermatofibroma,male
+335,ISIC_0027950,60.0,head/neck,,actinic keratosis,female
+551,ISIC_0029891,75.0,lower extremity,,dermatofibroma,male
+1285,ISIC_0034196,80.0,lower extremity,,vascular lesion,male
+328,ISIC_0027876,65.0,lower extremity,,dermatofibroma,female
+2921,Transform791,85.0,anterior torso,,squamous cell carcinoma,male
+2631,Transform501,85.0,posterior torso,,squamous cell carcinoma,female
+66,ISIC_0025452,55.0,anterior torso,,vascular lesion,female
+1716,ISIC_0035290,75.0,lower extremity,benign,nevus,female
+1942,ISIC_0035638,55.0,anterior torso,benign,nevus,male
+2941,Transform811,35.0,lower extremity,,dermatofibroma,female
+2944,Transform814,80.0,head/neck,,actinic keratosis,male
+718,ISIC_0031335,60.0,head/neck,,actinic keratosis,male
+2142,Transform12,75.0,head/neck,,actinic keratosis,male
+2160,Transform30,70.0,head/neck,,vascular lesion,female
+744,ISIC_0031531,70.0,posterior torso,,basal cell carcinoma,male
+140,ISIC_0026206,85.0,lower extremity,,squamous cell carcinoma,male
+1880,ISIC_0035532,55.0,lower extremity,benign,nevus,male
+1097,ISIC_0033559,80.0,upper extremity,malignant,melanoma,female
+1029,ISIC_0033312,35.0,posterior torso,malignant,melanoma,male
+1082,ISIC_0033504,75.0,posterior torso,,basal cell carcinoma,male
+2058,ISIC_0035880,60.0,lower extremity,benign,nevus,female
+3443,Transform1580,50.0,upper extremity,,actinic keratosis,male
+3216,Transform1233,55.0,lower extremity,,vascular lesion,male
+583,ISIC_0030191,60.0,lower extremity,,squamous cell carcinoma,female
+1841,ISIC_0035478,85.0,anterior torso,malignant,melanoma,male
+3419,Transform1514,65.0,lower extremity,,dermatofibroma,female
+930,ISIC_0032981,55.0,posterior torso,malignant,melanoma,male
+2488,Transform358,60.0,upper extremity,,actinic keratosis,male
+108,ISIC_0025948,75.0,head/neck,,squamous cell carcinoma,male
+1119,ISIC_0033612,55.0,upper extremity,malignant,melanoma,female
+1628,ISIC_0035145,50.0,posterior torso,benign,nevus,female
+102,ISIC_0025873,50.0,lower extremity,,vascular lesion,female
+1866,ISIC_0035513,35.0,lower extremity,benign,nevus,male
+2132,Transform2,40.0,lower extremity,,dermatofibroma,male
+1884,ISIC_0035543,40.0,posterior torso,benign,nevus,female
+2831,Transform701,80.0,,,dermatofibroma,male
+2955,Transform825,65.0,head/neck,,actinic keratosis,male
+3404,Transform1474,85.0,posterior torso,,actinic keratosis,male
+278,ISIC_0027545,80.0,head/neck,,basal cell carcinoma,male
+2710,Transform580,35.0,lower extremity,,dermatofibroma,female
+1669,ISIC_0035216,70.0,head/neck,malignant,melanoma,male
+185,ISIC_0026656,45.0,head/neck,,basal cell carcinoma,male
+2455,Transform325,75.0,lower extremity,,squamous cell carcinoma,male
+208,ISIC_0026876,,anterior torso,,vascular lesion,female
+1193,ISIC_0033891,35.0,lower extremity,,dermatofibroma,female
+1220,ISIC_0033999,85.0,lower extremity,malignant,melanoma,female
+1726,ISIC_0035304,70.0,anterior torso,benign,nevus,male
+3322,Transform1371,40.0,upper extremity,,dermatofibroma,male
+724,ISIC_0031378,55.0,lower extremity,,basal cell carcinoma,female
+1733,ISIC_0035311,45.0,anterior torso,benign,nevus,male
+3257,Transform1281,60.0,head/neck,,actinic keratosis,male
+19,ISIC_0024562,75.0,anterior torso,,squamous cell carcinoma,male
+1150,ISIC_0033728,80.0,posterior torso,malignant,melanoma,male
+468,ISIC_0029220,80.0,posterior torso,,basal cell carcinoma,male
+3380,Transform1438,40.0,lower extremity,,dermatofibroma,male
+54,ISIC_0025264,75.0,posterior torso,,squamous cell carcinoma,male
+1213,ISIC_0033977,70.0,upper extremity,malignant,melanoma,female
+1529,ISIC_0034990,45.0,anterior torso,benign,nevus,female
+1859,ISIC_0035498,60.0,anterior torso,benign,nevus,female
+3277,Transform1303,50.0,lower extremity,,dermatofibroma,female
+1088,ISIC_0033533,65.0,lower extremity,malignant,melanoma,female
+2619,Transform489,65.0,head/neck,,actinic keratosis,female
+2613,Transform483,45.0,head/neck,,actinic keratosis,male
+2794,Transform664,,,,dermatofibroma,
+2543,Transform413,80.0,upper extremity,,squamous cell carcinoma,female
+1537,ISIC_0035005,25.0,upper extremity,benign,nevus,male
+3391,Transform1459,70.0,head/neck,,actinic keratosis,female
+2293,Transform163,50.0,head/neck,,actinic keratosis,male
+1137,ISIC_0033678,75.0,posterior torso,malignant,melanoma,female
+2669,Transform539,80.0,lower extremity,,vascular lesion,female
+750,ISIC_0031585,45.0,anterior torso,,basal cell carcinoma,male
+2095,ISIC_0035964,60.0,lower extremity,malignant,melanoma,male
+1126,ISIC_0033644,55.0,upper extremity,malignant,melanoma,male
+82,ISIC_0025677,50.0,anterior torso,,vascular lesion,female
+122,ISIC_0026090,75.0,upper extremity,,basal cell carcinoma,female
+3448,Transform1589,60.0,head/neck,,actinic keratosis,male
+2147,Transform17,65.0,lower extremity,,squamous cell carcinoma,male
+3359,Transform1416,,,,dermatofibroma,
+2963,Transform834,75.0,upper extremity,,vascular lesion,male
+3279,Transform1312,,,,vascular lesion,
+3244,Transform1266,70.0,head/neck,,actinic keratosis,male
+1568,ISIC_0035056,45.0,anterior torso,benign,nevus,female
+2279,Transform149,50.0,upper extremity,,squamous cell carcinoma,male
+2104,ISIC_0035978,25.0,lower extremity,benign,nevus,female
+3426,Transform1536,80.0,head/neck,,actinic keratosis,female
+1372,ISIC_0034595,70.0,upper extremity,malignant,melanoma,female
+2270,Transform140,60.0,upper extremity,,vascular lesion,male
+2218,Transform88,50.0,anterior torso,,vascular lesion,female
+3110,Transform1066,60.0,head/neck,,actinic keratosis,male
+689,ISIC_0031166,75.0,posterior torso,,basal cell carcinoma,female
+1146,ISIC_0033710,85.0,upper extremity,malignant,melanoma,male
+1069,ISIC_0033470,55.0,upper extremity,malignant,melanoma,female
+214,ISIC_0026957,70.0,posterior torso,,basal cell carcinoma,male
+2209,Transform79,45.0,anterior torso,,vascular lesion,female
+3207,Transform1217,70.0,lower extremity,,vascular lesion,female
+2677,Transform547,65.0,head/neck,,actinic keratosis,female
+38,ISIC_0024948,55.0,head/neck,,actinic keratosis,female
+2905,Transform775,30.0,lower extremity,,vascular lesion,female
+2379,Transform249,85.0,upper extremity,,vascular lesion,female
+1076,ISIC_0033487,60.0,posterior torso,malignant,melanoma,male
+2504,Transform374,70.0,head/neck,,squamous cell carcinoma,female
+3014,Transform915,20.0,,,vascular lesion,male
+339,ISIC_0027983,75.0,anterior torso,,vascular lesion,male
+1528,ISIC_0034989,45.0,lower extremity,benign,nevus,male
+2319,Transform189,85.0,posterior torso,,squamous cell carcinoma,male
+293,ISIC_0027629,85.0,posterior torso,,basal cell carcinoma,male
+1676,ISIC_0035227,55.0,lower extremity,benign,nevus,female
+2949,Transform819,65.0,head/neck,,squamous cell carcinoma,female
+3495,Transform1709,30.0,lower extremity,,dermatofibroma,male
+978,ISIC_0033141,55.0,upper extremity,malignant,melanoma,male
+2170,Transform40,75.0,anterior torso,,squamous cell carcinoma,male
+2500,Transform370,75.0,lower extremity,,squamous cell carcinoma,male
+1661,ISIC_0035204,65.0,head/neck,benign,nevus,female
+2178,Transform48,80.0,head/neck,,squamous cell carcinoma,female
+3028,Transform933,55.0,upper extremity,,dermatofibroma,male
+811,ISIC_0032194,45.0,head/neck,,basal cell carcinoma,male
+479,ISIC_0029337,75.0,posterior torso,,basal cell carcinoma,male
+2373,Transform243,50.0,head/neck,,actinic keratosis,male
+974,ISIC_0033123,25.0,posterior torso,,vascular lesion,female
+1295,ISIC_0034242,45.0,upper extremity,malignant,melanoma,female
+726,ISIC_0031384,85.0,posterior torso,,basal cell carcinoma,male
+1421,ISIC_0034816,50.0,upper extremity,benign,nevus,female
+2720,Transform590,85.0,upper extremity,,squamous cell carcinoma,male
+3196,Transform1201,45.0,head/neck,,actinic keratosis,male
+3311,Transform1356,,,,dermatofibroma,
+1008,ISIC_0033256,25.0,lower extremity,,dermatofibroma,female
+3048,Transform961,50.0,head/neck,,actinic keratosis,male
+1228,ISIC_0034026,80.0,head/neck,,basal cell carcinoma,female
+2312,Transform182,85.0,upper extremity,,vascular lesion,female
+434,ISIC_0028937,80.0,head/neck,,basal cell carcinoma,male
+2316,Transform186,40.0,lower extremity,,dermatofibroma,male
+2088,ISIC_0035951,55.0,lower extremity,benign,nevus,female
+561,ISIC_0029967,65.0,lower extremity,,dermatofibroma,female
+205,ISIC_0026857,55.0,head/neck,,actinic keratosis,male
+1682,ISIC_0035234,40.0,posterior torso,benign,nevus,female
+2821,Transform691,,,,dermatofibroma,
+1516,ISIC_0034970,70.0,lower extremity,,squamous cell carcinoma,male
+2382,Transform252,80.0,upper extremity,,squamous cell carcinoma,male
+658,ISIC_0030877,60.0,head/neck,,actinic keratosis,female
+3286,Transform1322,,,,dermatofibroma,
+2308,Transform178,65.0,lower extremity,,squamous cell carcinoma,female
+89,ISIC_0025752,65.0,posterior torso,,basal cell carcinoma,male
+644,ISIC_0030778,85.0,head/neck,,basal cell carcinoma,female
+760,ISIC_0031692,60.0,posterior torso,,squamous cell carcinoma,male
+1050,ISIC_0033399,70.0,posterior torso,malignant,melanoma,male
+823,ISIC_0032290,80.0,head/neck,,basal cell carcinoma,male
+1234,ISIC_0034048,45.0,upper extremity,malignant,melanoma,female
+1893,ISIC_0035559,45.0,lower extremity,benign,nevus,female
+2448,Transform318,70.0,lower extremity,,squamous cell carcinoma,male
+1520,ISIC_0034975,55.0,upper extremity,benign,nevus,female
+2703,Transform573,45.0,anterior torso,,dermatofibroma,male
+2728,Transform598,,,,vascular lesion,
+143,ISIC_0026230,50.0,posterior torso,,basal cell carcinoma,female
+785,ISIC_0031940,55.0,lower extremity,,squamous cell carcinoma,female
+2050,ISIC_0035861,65.0,posterior torso,benign,nevus,male
+1864,ISIC_0035507,45.0,lower extremity,benign,nevus,female
+2520,Transform390,75.0,lower extremity,,squamous cell carcinoma,female
+2515,Transform385,80.0,head/neck,,actinic keratosis,male
+171,ISIC_0026492,70.0,upper extremity,,squamous cell carcinoma,male
+412,ISIC_0028739,70.0,posterior torso,,basal cell carcinoma,male
+416,ISIC_0028790,75.0,posterior torso,,dermatofibroma,male
+2164,Transform34,70.0,head/neck,,squamous cell carcinoma,female
+1294,ISIC_0034239,85.0,lower extremity,malignant,melanoma,male
+2447,Transform317,55.0,head/neck,,vascular lesion,female
+3090,Transform1030,5.0,posterior torso,,vascular lesion,male
+364,ISIC_0028224,40.0,anterior torso,,squamous cell carcinoma,female
+2668,Transform538,25.0,posterior torso,,vascular lesion,female
+740,ISIC_0031506,70.0,upper extremity,,actinic keratosis,male
+73,ISIC_0025596,45.0,anterior torso,,vascular lesion,female
+2739,Transform609,,,,vascular lesion,
+3346,Transform1401,35.0,,,dermatofibroma,male
+1265,ISIC_0034123,80.0,head/neck,,basal cell carcinoma,female
+1988,ISIC_0035732,45.0,posterior torso,malignant,melanoma,female
+1492,ISIC_0034928,40.0,lower extremity,benign,nevus,female
+1216,ISIC_0033981,45.0,upper extremity,malignant,melanoma,female
+3463,Transform1615,55.0,upper extremity,,dermatofibroma,male
+2099,ISIC_0035970,20.0,posterior torso,benign,nevus,male
+3230,Transform1248,70.0,posterior torso,,vascular lesion,male
+1998,ISIC_0035758,45.0,anterior torso,benign,nevus,male
+631,ISIC_0030690,50.0,posterior torso,,basal cell carcinoma,female
+3284,Transform1320,60.0,upper extremity,,dermatofibroma,female
+2948,Transform818,80.0,head/neck,,actinic keratosis,female
+1080,ISIC_0033499,85.0,head/neck,,basal cell carcinoma,male
+1405,ISIC_0034784,55.0,posterior torso,malignant,melanoma,male
+632,ISIC_0030707,80.0,upper extremity,,squamous cell carcinoma,female
+1456,ISIC_0034872,45.0,upper extremity,benign,nevus,female
+2035,ISIC_0035839,20.0,head/neck,benign,nevus,male
+2906,Transform776,30.0,head/neck,,vascular lesion,male
+1851,ISIC_0035489,25.0,upper extremity,benign,nevus,male
+2968,Transform846,45.0,head/neck,,actinic keratosis,male
+1802,ISIC_0035418,35.0,lower extremity,benign,nevus,male
+178,ISIC_0026593,85.0,head/neck,,basal cell carcinoma,female
+498,ISIC_0029500,45.0,head/neck,,actinic keratosis,male
+484,ISIC_0029362,80.0,head/neck,,squamous cell carcinoma,female
+2911,Transform781,85.0,lower extremity,,vascular lesion,male
+2672,Transform542,60.0,,,vascular lesion,male
+2695,Transform565,60.0,,,vascular lesion,male
+877,ISIC_0032816,65.0,posterior torso,,basal cell carcinoma,female
+1166,ISIC_0033810,35.0,lower extremity,,dermatofibroma,female
+1689,ISIC_0035242,50.0,anterior torso,benign,nevus,male
+1340,ISIC_0034422,85.0,upper extremity,,squamous cell carcinoma,male
+3435,Transform1556,65.0,head/neck,,actinic keratosis,male
+2841,Transform711,,,,vascular lesion,
+759,ISIC_0031672,55.0,head/neck,,squamous cell carcinoma,female
+1597,ISIC_0035101,50.0,head/neck,benign,nevus,male
+1356,ISIC_0034497,70.0,lower extremity,malignant,melanoma,male
+3000,Transform893,75.0,posterior torso,,dermatofibroma,male
+1598,ISIC_0035102,55.0,lower extremity,benign,nevus,female
+992,ISIC_0033203,65.0,posterior torso,,basal cell carcinoma,female
+2093,ISIC_0035961,20.0,lower extremity,benign,nevus,female
+2324,Transform194,85.0,lower extremity,,squamous cell carcinoma,male
+2589,Transform459,55.0,head/neck,,actinic keratosis,male
+1843,ISIC_0035480,50.0,posterior torso,benign,nevus,female
+2673,Transform543,15.0,anterior torso,,vascular lesion,male
+3430,Transform1544,40.0,lower extremity,,dermatofibroma,male
+319,ISIC_0027802,50.0,head/neck,,actinic keratosis,male
+184,ISIC_0026650,70.0,head/neck,,actinic keratosis,male
+2661,Transform531,50.0,upper extremity,,dermatofibroma,male
+2401,Transform271,60.0,head/neck,,vascular lesion,female
+3438,Transform1564,45.0,head/neck,,actinic keratosis,male
+2028,ISIC_0035825,65.0,lower extremity,malignant,melanoma,female
+839,ISIC_0032415,70.0,head/neck,,basal cell carcinoma,female
+2925,Transform795,5.0,posterior torso,,vascular lesion,male
+539,ISIC_0029820,80.0,anterior torso,,basal cell carcinoma,male
+1154,ISIC_0033752,50.0,head/neck,malignant,melanoma,female
+801,ISIC_0032132,60.0,anterior torso,,basal cell carcinoma,female
+3411,Transform1491,45.0,,,vascular lesion,female
+1135,ISIC_0033670,65.0,head/neck,malignant,melanoma,male
+210,ISIC_0026905,70.0,upper extremity,,actinic keratosis,male
+65,ISIC_0025427,85.0,upper extremity,,actinic keratosis,male
+863,ISIC_0032741,65.0,head/neck,,basal cell carcinoma,male
+2560,Transform430,20.0,upper extremity,,vascular lesion,male
+2366,Transform236,75.0,upper extremity,,actinic keratosis,male
+1132,ISIC_0033663,50.0,posterior torso,malignant,melanoma,male
+1026,ISIC_0033302,40.0,upper extremity,malignant,melanoma,female
+341,ISIC_0028035,70.0,upper extremity,,basal cell carcinoma,male
+875,ISIC_0032808,60.0,upper extremity,,basal cell carcinoma,male
+1506,ISIC_0034954,55.0,anterior torso,,vascular lesion,female
+372,ISIC_0028323,80.0,anterior torso,,basal cell carcinoma,female
+889,ISIC_0032856,70.0,upper extremity,malignant,melanoma,male
+3018,Transform920,55.0,anterior torso,,vascular lesion,male
+2491,Transform361,65.0,,,vascular lesion,female
+3248,Transform1270,45.0,upper extremity,,vascular lesion,male
+1325,ISIC_0034381,80.0,head/neck,malignant,melanoma,male
+3011,Transform909,,posterior torso,,vascular lesion,female
+96,ISIC_0025811,55.0,upper extremity,,squamous cell carcinoma,male
+3285,Transform1321,55.0,anterior torso,,vascular lesion,male
+2743,Transform613,,,,dermatofibroma,
+3217,Transform1234,25.0,lower extremity,,dermatofibroma,female
+129,ISIC_0026138,85.0,posterior torso,,squamous cell carcinoma,female
+2119,ISIC_0036030,10.0,lower extremity,benign,nevus,male
+1635,ISIC_0035160,35.0,anterior torso,benign,nevus,female
+1985,ISIC_0035726,65.0,posterior torso,benign,nevus,male
+3388,Transform1450,35.0,head/neck,,vascular lesion,male
+2960,Transform830,85.0,lower extremity,,squamous cell carcinoma,male
+2779,Transform649,,,,vascular lesion,
+2914,Transform784,60.0,head/neck,,squamous cell carcinoma,female
+370,ISIC_0028314,60.0,lower extremity,,actinic keratosis,male
+1788,ISIC_0035400,50.0,lower extremity,benign,nevus,female
+2116,ISIC_0036016,85.0,lower extremity,,basal cell carcinoma,male
+1820,ISIC_0035446,40.0,upper extremity,,basal cell carcinoma,male
+994,ISIC_0033205,50.0,lower extremity,,basal cell carcinoma,male
+881,ISIC_0032839,70.0,posterior torso,,vascular lesion,male
+737,ISIC_0031457,65.0,lower extremity,,dermatofibroma,male
+231,ISIC_0027084,65.0,lower extremity,,squamous cell carcinoma,female
+377,ISIC_0028370,60.0,head/neck,,actinic keratosis,male
+2836,Transform706,,,,vascular lesion,
+2618,Transform488,65.0,lower extremity,,dermatofibroma,male
+432,ISIC_0028926,65.0,upper extremity,,dermatofibroma,male
+1361,ISIC_0034538,50.0,head/neck,,actinic keratosis,male
+1378,ISIC_0034628,75.0,posterior torso,malignant,melanoma,male
+1591,ISIC_0035094,35.0,lower extremity,benign,nevus,female
+1143,ISIC_0033704,60.0,posterior torso,malignant,melanoma,male
+172,ISIC_0026496,70.0,lower extremity,,basal cell carcinoma,male
+1876,ISIC_0035526,45.0,lower extremity,benign,nevus,female
+814,ISIC_0032206,50.0,head/neck,,actinic keratosis,male
+948,ISIC_0033027,70.0,head/neck,malignant,melanoma,male
+16,ISIC_0024522,65.0,lower extremity,,squamous cell carcinoma,male
+2026,ISIC_0035823,45.0,posterior torso,malignant,melanoma,female
+2020,ISIC_0035806,60.0,head/neck,benign,nevus,female
+2645,Transform515,55.0,lower extremity,,vascular lesion,male
+367,ISIC_0028238,80.0,posterior torso,,basal cell carcinoma,male
+1406,ISIC_0034791,65.0,posterior torso,benign,nevus,female
+3128,Transform1091,55.0,,,vascular lesion,male
+3260,Transform1284,35.0,lower extremity,,dermatofibroma,female
+2979,Transform863,60.0,lower extremity,,dermatofibroma,male
+2539,Transform409,80.0,upper extremity,,squamous cell carcinoma,female
+3231,Transform1249,50.0,upper extremity,,dermatofibroma,male
+1848,ISIC_0035485,25.0,posterior torso,benign,nevus,male
+2664,Transform534,45.0,lower extremity,,dermatofibroma,female
+1935,ISIC_0035626,55.0,anterior torso,,squamous cell carcinoma,male
+2555,Transform425,35.0,,,vascular lesion,female
+1624,ISIC_0035139,60.0,anterior torso,malignant,melanoma,male
+2785,Transform655,75.0,anterior torso,,squamous cell carcinoma,male
+542,ISIC_0029830,60.0,head/neck,,actinic keratosis,male
+1459,ISIC_0034875,55.0,upper extremity,malignant,melanoma,male
+1668,ISIC_0035215,50.0,lower extremity,benign,nevus,female
+1903,ISIC_0035575,20.0,lower extremity,benign,nevus,female
+552,ISIC_0029899,50.0,anterior torso,,basal cell carcinoma,female
+362,ISIC_0028190,45.0,head/neck,,actinic keratosis,male
+549,ISIC_0029877,80.0,lower extremity,,vascular lesion,male
+2542,Transform412,20.0,,,vascular lesion,male
+81,ISIC_0025668,65.0,upper extremity,,dermatofibroma,male
+1730,ISIC_0035308,65.0,head/neck,,basal cell carcinoma,male
+3274,Transform1299,50.0,upper extremity,,dermatofibroma,male
+355,ISIC_0028146,60.0,posterior torso,,vascular lesion,female
+2083,ISIC_0035939,25.0,lower extremity,benign,nevus,female
+554,ISIC_0029915,50.0,head/neck,,actinic keratosis,female
+693,ISIC_0031191,60.0,lower extremity,,squamous cell carcinoma,male
+2600,Transform470,70.0,lower extremity,,dermatofibroma,male
+649,ISIC_0030803,65.0,head/neck,,squamous cell carcinoma,female
+2835,Transform705,50.0,,,dermatofibroma,female
+2896,Transform766,80.0,head/neck,,squamous cell carcinoma,female
+420,ISIC_0028815,70.0,head/neck,,basal cell carcinoma,female
+1229,ISIC_0034028,55.0,head/neck,malignant,melanoma,male
+1089,ISIC_0033534,35.0,upper extremity,malignant,melanoma,female
+3032,Transform937,55.0,head/neck,,vascular lesion,female
+960,ISIC_0033061,25.0,lower extremity,malignant,melanoma,female
+1164,ISIC_0033807,65.0,lower extremity,malignant,melanoma,female
+371,ISIC_0028316,60.0,lower extremity,,basal cell carcinoma,female
+3095,Transform1042,60.0,lower extremity,,dermatofibroma,male
+2408,Transform278,80.0,lower extremity,,actinic keratosis,male
+1575,ISIC_0035070,35.0,upper extremity,malignant,melanoma,female
+1484,ISIC_0034916,40.0,lower extremity,benign,nevus,male
+3127,Transform1089,10.0,,,vascular lesion,male
+1858,ISIC_0035497,55.0,lower extremity,benign,nevus,male
+258,ISIC_0027303,85.0,lower extremity,,squamous cell carcinoma,male
+769,ISIC_0031759,80.0,posterior torso,,vascular lesion,male
+2061,ISIC_0035887,50.0,posterior torso,malignant,melanoma,male
+2018,ISIC_0035803,30.0,head/neck,benign,nevus,male
+114,ISIC_0025980,55.0,lower extremity,,dermatofibroma,female
+1816,ISIC_0035438,55.0,lower extremity,benign,nevus,female
+1594,ISIC_0035098,55.0,lower extremity,benign,nevus,male
+957,ISIC_0033051,25.0,lower extremity,malignant,melanoma,female
+679,ISIC_0031063,70.0,posterior torso,,basal cell carcinoma,female
+56,ISIC_0025314,35.0,lower extremity,,dermatofibroma,female
+3349,Transform1405,,,,dermatofibroma,
+435,ISIC_0028941,70.0,head/neck,,actinic keratosis,female
+1057,ISIC_0033426,55.0,posterior torso,malignant,melanoma,male
+155,ISIC_0026362,60.0,upper extremity,,squamous cell carcinoma,female
+2484,Transform354,60.0,lower extremity,,dermatofibroma,male
+1016,ISIC_0033272,65.0,head/neck,malignant,melanoma,male
+60,ISIC_0025350,70.0,lower extremity,,squamous cell carcinoma,male
+2077,ISIC_0035922,85.0,head/neck,malignant,melanoma,male
+782,ISIC_0031925,75.0,lower extremity,,basal cell carcinoma,male
+35,ISIC_0024923,75.0,lower extremity,,squamous cell carcinoma,female
+3344,Transform1399,,,,dermatofibroma,
+1650,ISIC_0035188,55.0,posterior torso,benign,nevus,female
+1060,ISIC_0033431,65.0,upper extremity,malignant,melanoma,female
+358,ISIC_0028158,70.0,posterior torso,,squamous cell carcinoma,female
+1123,ISIC_0033630,80.0,head/neck,malignant,melanoma,male
+3439,Transform1565,45.0,lower extremity,,dermatofibroma,male
+524,ISIC_0029659,70.0,head/neck,,actinic keratosis,female
+1200,ISIC_0033931,70.0,upper extremity,malignant,melanoma,male
+2722,Transform592,70.0,upper extremity,,squamous cell carcinoma,female
+265,ISIC_0027447,65.0,upper extremity,,actinic keratosis,male
+1585,ISIC_0035086,70.0,lower extremity,benign,nevus,male
+1664,ISIC_0035209,50.0,posterior torso,benign,nevus,male
+1968,ISIC_0035690,60.0,lower extremity,malignant,melanoma,male
+1518,ISIC_0034973,45.0,anterior torso,benign,nevus,male
+3173,Transform1163,65.0,lower extremity,,dermatofibroma,female
+2740,Transform610,50.0,lower extremity,,vascular lesion,female
+2486,Transform356,65.0,upper extremity,,dermatofibroma,male
+336,ISIC_0027958,75.0,upper extremity,,actinic keratosis,male
+1156,ISIC_0033779,35.0,posterior torso,malignant,melanoma,male
+887,ISIC_0032850,70.0,lower extremity,,basal cell carcinoma,male
+494,ISIC_0029462,60.0,posterior torso,,squamous cell carcinoma,male
+580,ISIC_0030175,85.0,upper extremity,,squamous cell carcinoma,female
+3223,Transform1240,45.0,upper extremity,,vascular lesion,male
+2481,Transform351,70.0,upper extremity,,squamous cell carcinoma,female
+2649,Transform519,35.0,lower extremity,,vascular lesion,female
+1189,ISIC_0033881,40.0,head/neck,malignant,melanoma,female
+2858,Transform728,50.0,upper extremity,,squamous cell carcinoma,male
+212,ISIC_0026940,75.0,lower extremity,,basal cell carcinoma,male
+2650,Transform520,45.0,anterior torso,,vascular lesion,female
+1064,ISIC_0033454,75.0,head/neck,malignant,melanoma,male
+75,ISIC_0025605,60.0,lower extremity,,actinic keratosis,female
+2801,Transform671,,,,dermatofibroma,
+1312,ISIC_0034317,70.0,lower extremity,malignant,melanoma,female
+1031,ISIC_0033320,40.0,lower extremity,malignant,melanoma,female
+3046,Transform959,75.0,upper extremity,,actinic keratosis,male
+247,ISIC_0027189,80.0,lower extremity,,basal cell carcinoma,female
+1595,ISIC_0035099,75.0,posterior torso,malignant,melanoma,male
+3266,Transform1290,70.0,lower extremity,,vascular lesion,female
+1500,ISIC_0034943,45.0,anterior torso,benign,nevus,female
+1919,ISIC_0035602,45.0,head/neck,malignant,melanoma,male
+186,ISIC_0026668,70.0,upper extremity,,basal cell carcinoma,female
+2457,Transform327,70.0,posterior torso,,vascular lesion,male
+2015,ISIC_0035795,20.0,head/neck,benign,nevus,male
+2056,ISIC_0035874,60.0,head/neck,benign,nevus,female
+2406,Transform276,50.0,upper extremity,,squamous cell carcinoma,male
+1622,ISIC_0035135,45.0,upper extremity,benign,nevus,female
+2466,Transform336,75.0,head/neck,,actinic keratosis,male
+1075,ISIC_0033485,60.0,lower extremity,malignant,melanoma,male
+2424,Transform294,70.0,anterior torso,,vascular lesion,female
+3358,Transform1415,65.0,posterior torso,,vascular lesion,male
+1781,ISIC_0035385,35.0,upper extremity,benign,nevus,male
+1655,ISIC_0035195,40.0,anterior torso,benign,nevus,female
+32,ISIC_0024845,40.0,lower extremity,,dermatofibroma,male
+3096,Transform1045,70.0,posterior torso,,vascular lesion,male
+1124,ISIC_0033638,40.0,upper extremity,malignant,melanoma,female
+2509,Transform379,65.0,lower extremity,,squamous cell carcinoma,male
+445,ISIC_0029025,70.0,head/neck,,actinic keratosis,male
+3001,Transform894,35.0,lower extremity,,dermatofibroma,female
+464,ISIC_0029192,85.0,head/neck,,basal cell carcinoma,female
+3461,Transform1611,75.0,posterior torso,,dermatofibroma,male
+2179,Transform49,55.0,upper extremity,,dermatofibroma,male
+1681,ISIC_0035233,65.0,lower extremity,benign,nevus,male
+2314,Transform184,65.0,head/neck,,squamous cell carcinoma,male
+1809,ISIC_0035427,40.0,upper extremity,benign,nevus,male
+1946,ISIC_0035646,70.0,lower extremity,benign,nevus,male
+2378,Transform248,25.0,anterior torso,,vascular lesion,female
+243,ISIC_0027175,70.0,head/neck,,basal cell carcinoma,female
+1704,ISIC_0035268,50.0,posterior torso,benign,nevus,female
+401,ISIC_0028659,70.0,upper extremity,,squamous cell carcinoma,female
+2032,ISIC_0035835,20.0,posterior torso,benign,nevus,male
+1984,ISIC_0035725,20.0,posterior torso,benign,nevus,male
+3449,Transform1590,65.0,head/neck,,actinic keratosis,female
+450,ISIC_0029043,70.0,lower extremity,,squamous cell carcinoma,male
+1227,ISIC_0034022,65.0,anterior torso,malignant,melanoma,male
+2735,Transform605,40.0,upper extremity,,dermatofibroma,male
+2706,Transform576,60.0,lower extremity,,squamous cell carcinoma,female
+2333,Transform203,50.0,upper extremity,,squamous cell carcinoma,male
+471,ISIC_0029268,85.0,upper extremity,,squamous cell carcinoma,male
+2537,Transform407,40.0,head/neck,,squamous cell carcinoma,female
+3175,Transform1165,80.0,upper extremity,,dermatofibroma,male
+3019,Transform922,65.0,upper extremity,,actinic keratosis,male
+1674,ISIC_0035224,65.0,posterior torso,malignant,melanoma,male
+3004,Transform899,45.0,lower extremity,,dermatofibroma,female
+2765,Transform635,,,,dermatofibroma,
+1787,ISIC_0035399,30.0,posterior torso,benign,nevus,male
+1833,ISIC_0035465,25.0,posterior torso,benign,nevus,male
+611,ISIC_0030487,75.0,lower extremity,,squamous cell carcinoma,male
+1407,ISIC_0034792,65.0,lower extremity,benign,nevus,female
+3392,Transform1460,75.0,lower extremity,,actinic keratosis,female
+2688,Transform558,80.0,lower extremity,,vascular lesion,female
+3447,Transform1588,80.0,head/neck,,actinic keratosis,male
+2122,ISIC_0036039,20.0,head/neck,benign,nevus,male
+2689,Transform559,35.0,lower extremity,,vascular lesion,female
+2443,Transform313,70.0,head/neck,,actinic keratosis,male
+2682,Transform552,45.0,upper extremity,,vascular lesion,male
+2433,Transform303,40.0,lower extremity,,dermatofibroma,female
+2321,Transform191,,posterior torso,,vascular lesion,female
+1218,ISIC_0033991,45.0,anterior torso,,vascular lesion,female
+1776,ISIC_0035377,65.0,posterior torso,benign,nevus,female
+1498,ISIC_0034941,50.0,lower extremity,benign,nevus,female
+3044,Transform957,70.0,,,vascular lesion,male
+3071,Transform1000,75.0,posterior torso,,vascular lesion,male
+2097,ISIC_0035968,60.0,posterior torso,malignant,melanoma,female
+1729,ISIC_0035307,45.0,lower extremity,benign,nevus,female
+540,ISIC_0029824,50.0,lower extremity,,dermatofibroma,male
+110,ISIC_0025954,40.0,lower extremity,,dermatofibroma,male
+1631,ISIC_0035152,60.0,posterior torso,benign,nevus,male
+510,ISIC_0029564,55.0,head/neck,,basal cell carcinoma,female
+1613,ISIC_0035123,55.0,anterior torso,benign,nevus,male
+1995,ISIC_0035749,55.0,anterior torso,benign,nevus,female
+2793,Transform663,80.0,posterior torso,,actinic keratosis,male
+2045,ISIC_0035854,70.0,posterior torso,malignant,melanoma,male
+2092,ISIC_0035958,20.0,posterior torso,benign,nevus,female
+2694,Transform564,80.0,lower extremity,,vascular lesion,male
+1719,ISIC_0035294,40.0,upper extremity,benign,nevus,male
+1607,ISIC_0035116,35.0,anterior torso,benign,nevus,female
+2741,Transform611,80.0,anterior torso,,squamous cell carcinoma,female
+78,ISIC_0025622,50.0,lower extremity,,dermatofibroma,male
+2844,Transform714,,,,vascular lesion,
+2317,Transform187,30.0,lower extremity,,vascular lesion,female
+1996,ISIC_0035752,65.0,lower extremity,,basal cell carcinoma,female
+2423,Transform293,65.0,upper extremity,,squamous cell carcinoma,male
+313,ISIC_0027767,85.0,posterior torso,,squamous cell carcinoma,male
+2567,Transform437,55.0,upper extremity,,dermatofibroma,female
+1307,ISIC_0034289,50.0,posterior torso,malignant,melanoma,female
+911,ISIC_0032919,55.0,posterior torso,,vascular lesion,female
+697,ISIC_0031217,15.0,head/neck,,vascular lesion,male
+2386,Transform256,65.0,lower extremity,,dermatofibroma,female
+466,ISIC_0029201,35.0,posterior torso,,basal cell carcinoma,male
+1019,ISIC_0033278,85.0,anterior torso,malignant,melanoma,male
+363,ISIC_0028197,85.0,upper extremity,,basal cell carcinoma,male
+1842,ISIC_0035479,45.0,lower extremity,benign,nevus,male
+3265,Transform1289,85.0,posterior torso,,vascular lesion,male
+1344,ISIC_0034446,70.0,lower extremity,malignant,melanoma,male
+1360,ISIC_0034536,70.0,head/neck,,squamous cell carcinoma,female
+2966,Transform841,60.0,head/neck,,actinic keratosis,female
+2069,ISIC_0035910,65.0,posterior torso,,vascular lesion,male
+3118,Transform1075,50.0,upper extremity,,dermatofibroma,female
+3432,Transform1546,55.0,lower extremity,,dermatofibroma,female
+1524,ISIC_0034982,70.0,lower extremity,,squamous cell carcinoma,male
+1034,ISIC_0033325,60.0,anterior torso,malignant,melanoma,male
+83,ISIC_0025691,50.0,anterior torso,,basal cell carcinoma,female
+79,ISIC_0025628,80.0,anterior torso,,vascular lesion,male
+662,ISIC_0030954,85.0,anterior torso,,basal cell carcinoma,male
+1439,ISIC_0034853,45.0,posterior torso,benign,nevus,female
+3410,Transform1490,60.0,upper extremity,,dermatofibroma,male
+919,ISIC_0032941,50.0,upper extremity,,dermatofibroma,male
+1440,ISIC_0034854,45.0,lower extremity,benign,nevus,female
+2824,Transform694,,,,dermatofibroma,
+3047,Transform960,75.0,anterior torso,,vascular lesion,male
+2468,Transform338,65.0,upper extremity,,squamous cell carcinoma,male
+2253,Transform123,60.0,head/neck,,actinic keratosis,female
+2376,Transform246,60.0,posterior torso,,vascular lesion,female
+808,ISIC_0032173,80.0,upper extremity,,squamous cell carcinoma,female
+1510,ISIC_0034962,30.0,upper extremity,benign,nevus,male
+656,ISIC_0030868,80.0,lower extremity,,basal cell carcinoma,male
+1921,ISIC_0035604,50.0,anterior torso,benign,nevus,male
+1442,ISIC_0034856,25.0,posterior torso,benign,nevus,male
+3306,Transform1347,55.0,anterior torso,,vascular lesion,female
+858,ISIC_0032660,75.0,posterior torso,,basal cell carcinoma,male
+1803,ISIC_0035419,15.0,anterior torso,benign,nevus,male
+2501,Transform371,10.0,,,vascular lesion,male
+2846,Transform716,,,,dermatofibroma,
+3325,Transform1375,60.0,lower extremity,,dermatofibroma,female
+844,ISIC_0032455,80.0,upper extremity,,squamous cell carcinoma,male
+833,ISIC_0032384,50.0,posterior torso,,basal cell carcinoma,male
+1614,ISIC_0035124,60.0,lower extremity,malignant,melanoma,female
+213,ISIC_0026952,55.0,posterior torso,,basal cell carcinoma,male
+3070,Transform999,55.0,lower extremity,,dermatofibroma,male
+131,ISIC_0026152,70.0,upper extremity,,squamous cell carcinoma,male
+439,ISIC_0028980,85.0,head/neck,,basal cell carcinoma,male
+3037,Transform949,55.0,head/neck,,actinic keratosis,female
+2421,Transform291,75.0,lower extremity,,dermatofibroma,female
+1609,ISIC_0035119,50.0,head/neck,,actinic keratosis,male
+853,ISIC_0032611,85.0,head/neck,,basal cell carcinoma,male
+448,ISIC_0029039,50.0,lower extremity,,dermatofibroma,female
+3111,Transform1067,50.0,head/neck,,actinic keratosis,female
+2805,Transform675,,,,dermatofibroma,
+3192,Transform1193,55.0,posterior torso,,vascular lesion,male
+2828,Transform698,,,,dermatofibroma,
+1727,ISIC_0035305,55.0,head/neck,,basal cell carcinoma,female
+103,ISIC_0025903,60.0,anterior torso,,dermatofibroma,male
+523,ISIC_0029655,75.0,posterior torso,,basal cell carcinoma,male
+1102,ISIC_0033569,65.0,posterior torso,malignant,melanoma,male
+1821,ISIC_0035447,5.0,head/neck,benign,nevus,female
+1415,ISIC_0034806,30.0,posterior torso,benign,nevus,female
+165,ISIC_0026457,75.0,lower extremity,,actinic keratosis,female
+2988,Transform876,75.0,anterior torso,,vascular lesion,male
+907,ISIC_0032913,85.0,anterior torso,malignant,melanoma,male
+2397,Transform267,65.0,anterior torso,,squamous cell carcinoma,female
+2927,Transform797,45.0,anterior torso,,vascular lesion,female
+2419,Transform289,80.0,head/neck,,actinic keratosis,male
+1860,ISIC_0035500,35.0,posterior torso,benign,nevus,female
+2597,Transform467,85.0,upper extremity,,squamous cell carcinoma,male
+1741,ISIC_0035323,75.0,lower extremity,benign,nevus,female
+395,ISIC_0028583,65.0,posterior torso,,basal cell carcinoma,male
+625,ISIC_0030606,,anterior torso,,vascular lesion,female
+695,ISIC_0031198,55.0,head/neck,,squamous cell carcinoma,female
+947,ISIC_0033024,75.0,lower extremity,malignant,melanoma,male
+761,ISIC_0031697,60.0,upper extremity,,basal cell carcinoma,female
+2311,Transform181,45.0,lower extremity,,dermatofibroma,female
+1383,ISIC_0034655,45.0,upper extremity,malignant,melanoma,male
+2228,Transform98,50.0,posterior torso,,squamous cell carcinoma,male
+3005,Transform900,85.0,upper extremity,,vascular lesion,female
+1401,ISIC_0034759,80.0,head/neck,,basal cell carcinoma,male
+645,ISIC_0030782,80.0,posterior torso,,basal cell carcinoma,male
+3239,Transform1260,60.0,,,vascular lesion,male
+2666,Transform536,40.0,anterior torso,,squamous cell carcinoma,male
+3421,Transform1520,50.0,lower extremity,,dermatofibroma,male
+1882,ISIC_0035537,45.0,anterior torso,benign,nevus,female
+771,ISIC_0031789,75.0,head/neck,,basal cell carcinoma,male
+3487,Transform1666,50.0,head/neck,,actinic keratosis,male
+51,ISIC_0025247,70.0,lower extremity,,squamous cell carcinoma,male
+2731,Transform601,65.0,posterior torso,,squamous cell carcinoma,male
+1375,ISIC_0034605,75.0,posterior torso,malignant,melanoma,male
+1121,ISIC_0033624,70.0,head/neck,malignant,melanoma,male
+3183,Transform1177,55.0,head/neck,,actinic keratosis,male
+1035,ISIC_0033333,60.0,lower extremity,malignant,melanoma,female
+2451,Transform321,85.0,upper extremity,,squamous cell carcinoma,male
+2286,Transform156,65.0,posterior torso,,squamous cell carcinoma,male
+2145,Transform15,55.0,head/neck,,actinic keratosis,female
+2987,Transform875,70.0,head/neck,,actinic keratosis,male
+111,ISIC_0025957,60.0,lower extremity,,actinic keratosis,female
+183,ISIC_0026645,65.0,posterior torso,,squamous cell carcinoma,male
+2517,Transform387,70.0,lower extremity,,dermatofibroma,male
+613,ISIC_0030511,70.0,posterior torso,,basal cell carcinoma,female
+2640,Transform510,65.0,upper extremity,,actinic keratosis,male
+2724,Transform594,,,,vascular lesion,
+1706,ISIC_0035272,40.0,lower extremity,benign,nevus,male
+1557,ISIC_0035041,75.0,upper extremity,,basal cell carcinoma,male
+3376,Transform1433,,,,dermatofibroma,
+1711,ISIC_0035281,35.0,lower extremity,benign,nevus,male
+1178,ISIC_0033847,45.0,anterior torso,,dermatofibroma,male
+2129,ISIC_0036062,70.0,head/neck,,actinic keratosis,female
+2532,Transform402,65.0,lower extremity,,squamous cell carcinoma,male
+397,ISIC_0028644,65.0,anterior torso,,squamous cell carcinoma,female
+1291,ISIC_0034218,80.0,upper extremity,malignant,melanoma,male
+1630,ISIC_0035150,25.0,head/neck,benign,nevus,male
+3008,Transform905,30.0,lower extremity,,vascular lesion,female
+2702,Transform572,70.0,lower extremity,,vascular lesion,female
+1743,ISIC_0035325,50.0,lower extremity,benign,nevus,female
+2136,Transform6,40.0,lower extremity,,dermatofibroma,female
+2086,ISIC_0035943,80.0,posterior torso,benign,nevus,male
+2549,Transform419,80.0,head/neck,,actinic keratosis,male
+3482,Transform1651,55.0,upper extremity,,dermatofibroma,male
+571,ISIC_0030094,85.0,posterior torso,,basal cell carcinoma,male
+3498,Transform1719,65.0,upper extremity,,dermatofibroma,male
+3079,Transform1012,70.0,anterior torso,,vascular lesion,female
+2680,Transform550,15.0,anterior torso,,vascular lesion,male
+2309,Transform179,55.0,upper extremity,,dermatofibroma,male
+1534,ISIC_0035001,55.0,head/neck,,actinic keratosis,male
+3151,Transform1130,20.0,,,vascular lesion,male
+1874,ISIC_0035524,45.0,posterior torso,benign,nevus,female
+356,ISIC_0028147,65.0,upper extremity,,basal cell carcinoma,female
+608,ISIC_0030446,80.0,head/neck,,basal cell carcinoma,female
+239,ISIC_0027141,45.0,lower extremity,,dermatofibroma,female
+3390,Transform1455,50.0,upper extremity,,dermatofibroma,female
+2943,Transform813,75.0,lower extremity,,squamous cell carcinoma,female
+2167,Transform37,75.0,upper extremity,,vascular lesion,male
+1814,ISIC_0035435,65.0,lower extremity,benign,nevus,female
+374,ISIC_0028335,60.0,lower extremity,,squamous cell carcinoma,female
+3294,Transform1332,,,,vascular lesion,
+1937,ISIC_0035629,75.0,lower extremity,malignant,melanoma,female
+1321,ISIC_0034346,65.0,posterior torso,,basal cell carcinoma,male
+1125,ISIC_0033643,70.0,lower extremity,malignant,melanoma,male
+3101,Transform1054,75.0,head/neck,,actinic keratosis,male
+1527,ISIC_0034988,75.0,posterior torso,malignant,melanoma,male
+2576,Transform446,70.0,head/neck,,vascular lesion,female
+2822,Transform692,50.0,lower extremity,,dermatofibroma,female
+729,ISIC_0031413,85.0,posterior torso,,basal cell carcinoma,male
+2458,Transform328,85.0,upper extremity,,squamous cell carcinoma,male
+2495,Transform365,55.0,upper extremity,,squamous cell carcinoma,male
+1391,ISIC_0034699,70.0,posterior torso,,basal cell carcinoma,male
+3124,Transform1082,65.0,head/neck,,actinic keratosis,female
+1408,ISIC_0034793,20.0,upper extremity,benign,nevus,female
+3181,Transform1173,65.0,lower extremity,,dermatofibroma,male
+2264,Transform134,60.0,,,vascular lesion,female
+382,ISIC_0028419,35.0,head/neck,,basal cell carcinoma,male
+3222,Transform1239,55.0,lower extremity,,vascular lesion,male
+1502,ISIC_0034945,50.0,lower extremity,benign,nevus,male
+2771,Transform641,85.0,head/neck,,squamous cell carcinoma,female
+3076,Transform1006,50.0,lower extremity,,dermatofibroma,female
+1320,ISIC_0034344,65.0,upper extremity,,basal cell carcinoma,male
+2951,Transform821,60.0,anterior torso,,dermatofibroma,male
+1233,ISIC_0034047,70.0,head/neck,,basal cell carcinoma,male
+2236,Transform106,75.0,head/neck,,squamous cell carcinoma,male
+3035,Transform946,50.0,head/neck,,vascular lesion,female
+681,ISIC_0031093,70.0,posterior torso,,vascular lesion,male
+2667,Transform537,55.0,lower extremity,,vascular lesion,male
+1274,ISIC_0034159,55.0,lower extremity,malignant,melanoma,female
+2364,Transform234,60.0,head/neck,,actinic keratosis,male
+123,ISIC_0026091,75.0,posterior torso,,basal cell carcinoma,male
+660,ISIC_0030915,60.0,posterior torso,,basal cell carcinoma,male
+1796,ISIC_0035411,5.0,posterior torso,benign,nevus,male
+2579,Transform449,80.0,head/neck,,actinic keratosis,male
+2303,Transform173,50.0,head/neck,,actinic keratosis,male
+1960,ISIC_0035672,20.0,posterior torso,benign,nevus,male
+3059,Transform980,50.0,anterior torso,,vascular lesion,male
+230,ISIC_0027058,75.0,posterior torso,,basal cell carcinoma,male
+901,ISIC_0032890,70.0,lower extremity,,vascular lesion,female
+2797,Transform667,,,,dermatofibroma,
+765,ISIC_0031728,55.0,posterior torso,,basal cell carcinoma,female
+2837,Transform707,65.0,posterior torso,,vascular lesion,male
+2856,Transform726,,posterior torso,,vascular lesion,female
+2428,Transform298,35.0,lower extremity,,dermatofibroma,female
+3338,Transform1391,50.0,anterior torso,,vascular lesion,male
+1745,ISIC_0035328,40.0,upper extremity,benign,nevus,female
+787,ISIC_0031950,40.0,lower extremity,,vascular lesion,male
+2149,Transform19,50.0,upper extremity,,dermatofibroma,female
+3086,Transform1021,40.0,lower extremity,,dermatofibroma,female
+2755,Transform625,70.0,posterior torso,,squamous cell carcinoma,male
+421,ISIC_0028816,60.0,head/neck,,squamous cell carcinoma,male
+2874,Transform744,25.0,anterior torso,,vascular lesion,female
+1873,ISIC_0035523,50.0,lower extremity,benign,nevus,male
+3201,Transform1207,65.0,head/neck,,actinic keratosis,female
+2138,Transform8,,posterior torso,,vascular lesion,female
+798,ISIC_0032076,85.0,lower extremity,,vascular lesion,male
+1870,ISIC_0035520,5.0,head/neck,benign,nevus,female
+2007,ISIC_0035778,50.0,lower extremity,,dermatofibroma,female
+2571,Transform441,55.0,lower extremity,,squamous cell carcinoma,male
+626,ISIC_0030644,85.0,head/neck,,basal cell carcinoma,male
+495,ISIC_0029466,65.0,upper extremity,,basal cell carcinoma,female
+2872,Transform742,75.0,lower extremity,,actinic keratosis,female
+1616,ISIC_0035128,80.0,lower extremity,,squamous cell carcinoma,male
+1782,ISIC_0035389,70.0,lower extremity,,basal cell carcinoma,male
+2206,Transform76,75.0,lower extremity,,squamous cell carcinoma,female
+1890,ISIC_0035552,5.0,lower extremity,,dermatofibroma,male
+790,ISIC_0031986,60.0,posterior torso,,basal cell carcinoma,female
+2557,Transform427,80.0,head/neck,,squamous cell carcinoma,male
+3031,Transform936,60.0,head/neck,,actinic keratosis,male
+2414,Transform284,70.0,head/neck,,actinic keratosis,female
+3275,Transform1300,80.0,lower extremity,,vascular lesion,male
+2276,Transform146,65.0,lower extremity,,dermatofibroma,male
+2816,Transform686,,,,dermatofibroma,
+417,ISIC_0028795,50.0,upper extremity,,squamous cell carcinoma,male
+742,ISIC_0031526,55.0,posterior torso,,basal cell carcinoma,female
+2127,ISIC_0036051,70.0,posterior torso,malignant,melanoma,male
+1214,ISIC_0033979,80.0,head/neck,,basal cell carcinoma,female
+492,ISIC_0029448,5.0,posterior torso,,vascular lesion,male
+1909,ISIC_0035582,55.0,posterior torso,benign,nevus,female
+1169,ISIC_0033813,55.0,lower extremity,malignant,melanoma,male
+2608,Transform478,75.0,anterior torso,,squamous cell carcinoma,male
+1342,ISIC_0034436,70.0,upper extremity,,squamous cell carcinoma,female
+824,ISIC_0032302,60.0,upper extremity,,basal cell carcinoma,female
+2890,Transform760,55.0,head/neck,,actinic keratosis,female
+2781,Transform651,40.0,lower extremity,,vascular lesion,female
+1481,ISIC_0034907,25.0,anterior torso,benign,nevus,male
+3317,Transform1365,,,,vascular lesion,
+3308,Transform1351,55.0,head/neck,,actinic keratosis,male
+3105,Transform1059,60.0,head/neck,,actinic keratosis,male
+1024,ISIC_0033300,40.0,lower extremity,malignant,melanoma,female
+2461,Transform331,70.0,head/neck,,actinic keratosis,female
+592,ISIC_0030271,75.0,lower extremity,,basal cell carcinoma,male
+3225,Transform1242,80.0,head/neck,,actinic keratosis,male
+3254,Transform1278,35.0,lower extremity,,dermatofibroma,female
+3156,Transform1141,55.0,upper extremity,,vascular lesion,female
+2508,Transform378,65.0,head/neck,,squamous cell carcinoma,male
+1797,ISIC_0035412,50.0,lower extremity,benign,nevus,male
+2716,Transform586,60.0,lower extremity,,squamous cell carcinoma,female
+127,ISIC_0026118,80.0,anterior torso,,basal cell carcinoma,male
+2962,Transform832,55.0,anterior torso,,vascular lesion,female
+2437,Transform307,80.0,head/neck,,squamous cell carcinoma,female
+403,ISIC_0028677,70.0,upper extremity,,basal cell carcinoma,male
+150,ISIC_0026324,85.0,head/neck,,basal cell carcinoma,female
+3373,Transform1430,50.0,lower extremity,,dermatofibroma,female
+2394,Transform264,60.0,upper extremity,,actinic keratosis,male
+1437,ISIC_0034851,55.0,upper extremity,benign,nevus,female
+1629,ISIC_0035149,85.0,head/neck,,actinic keratosis,female
+3082,Transform1015,60.0,head/neck,,actinic keratosis,female
+2442,Transform312,5.0,posterior torso,,vascular lesion,male
+62,ISIC_0025368,40.0,head/neck,,actinic keratosis,female
+2336,Transform206,60.0,head/neck,,actinic keratosis,female
+2256,Transform126,70.0,posterior torso,,squamous cell carcinoma,male
+2544,Transform414,60.0,head/neck,,vascular lesion,female
+2400,Transform270,45.0,,,vascular lesion,female
+95,ISIC_0025808,50.0,posterior torso,,squamous cell carcinoma,male
+959,ISIC_0033055,45.0,posterior torso,malignant,melanoma,male
+2191,Transform61,35.0,lower extremity,,dermatofibroma,female
+3040,Transform952,60.0,head/neck,,actinic keratosis,male
+1576,ISIC_0035071,50.0,anterior torso,benign,nevus,male
+2868,Transform738,75.0,anterior torso,,squamous cell carcinoma,male
+2153,Transform23,70.0,head/neck,,actinic keratosis,female
+236,ISIC_0027118,50.0,upper extremity,,dermatofibroma,female
+222,ISIC_0026995,80.0,lower extremity,,basal cell carcinoma,male
+3276,Transform1301,60.0,,,vascular lesion,male
+2393,Transform263,80.0,upper extremity,,squamous cell carcinoma,female
+1810,ISIC_0035428,40.0,anterior torso,benign,nevus,female
+120,ISIC_0026074,40.0,anterior torso,,basal cell carcinoma,female
+1685,ISIC_0035237,50.0,lower extremity,benign,nevus,female
+2636,Transform506,70.0,head/neck,,actinic keratosis,male
+3499,Transform1724,50.0,lower extremity,,dermatofibroma,female
+2380,Transform250,45.0,head/neck,,actinic keratosis,male
+2639,Transform509,70.0,head/neck,,actinic keratosis,male
+193,ISIC_0026720,75.0,lower extremity,,squamous cell carcinoma,male
+2283,Transform153,60.0,head/neck,,actinic keratosis,male
+181,ISIC_0026629,65.0,lower extremity,,dermatofibroma,female
+3138,Transform1107,80.0,head/neck,,actinic keratosis,male
+389,ISIC_0028542,45.0,anterior torso,,basal cell carcinoma,male
+968,ISIC_0033092,55.0,lower extremity,,vascular lesion,male
+2908,Transform778,60.0,lower extremity,,dermatofibroma,female
+1545,ISIC_0035017,45.0,posterior torso,benign,nevus,female
+669,ISIC_0031009,70.0,lower extremity,,basal cell carcinoma,female
+3367,Transform1424,,,,vascular lesion,
+1365,ISIC_0034555,75.0,anterior torso,,vascular lesion,male
+1394,ISIC_0034714,75.0,posterior torso,malignant,melanoma,male
+331,ISIC_0027903,45.0,lower extremity,,vascular lesion,female
+614,ISIC_0030514,85.0,posterior torso,,basal cell carcinoma,male
+1286,ISIC_0034202,70.0,posterior torso,malignant,melanoma,female
+266,ISIC_0027452,70.0,upper extremity,,actinic keratosis,male
+1932,ISIC_0035621,50.0,upper extremity,benign,nevus,female
+2199,Transform69,50.0,upper extremity,,squamous cell carcinoma,male
+2593,Transform463,60.0,posterior torso,,squamous cell carcinoma,male
+1807,ISIC_0035423,75.0,head/neck,benign,nevus,male
+225,ISIC_0027038,45.0,anterior torso,,basal cell carcinoma,male
+105,ISIC_0025924,30.0,lower extremity,,vascular lesion,female
+2413,Transform283,65.0,upper extremity,,dermatofibroma,male
+1508,ISIC_0034958,70.0,posterior torso,malignant,melanoma,male
+3440,Transform1566,50.0,lower extremity,,dermatofibroma,male
+630,ISIC_0030687,80.0,head/neck,,basal cell carcinoma,male
+2068,ISIC_0035907,10.0,lower extremity,benign,nevus,male
+870,ISIC_0032782,70.0,head/neck,malignant,melanoma,male
+2290,Transform160,60.0,head/neck,,actinic keratosis,female
+2098,ISIC_0035969,35.0,lower extremity,benign,nevus,female
+1186,ISIC_0033872,75.0,posterior torso,malignant,melanoma,male
+2489,Transform359,75.0,upper extremity,,vascular lesion,female
+1891,ISIC_0035554,40.0,upper extremity,benign,nevus,female
+1755,ISIC_0035347,40.0,anterior torso,benign,nevus,female
+1926,ISIC_0035611,30.0,anterior torso,benign,nevus,male
+707,ISIC_0031270,20.0,upper extremity,,vascular lesion,male
+3459,Transform1606,70.0,upper extremity,,actinic keratosis,male
+2952,Transform822,65.0,lower extremity,,dermatofibroma,female
+2349,Transform219,55.0,head/neck,,vascular lesion,female
+2220,Transform90,60.0,head/neck,,squamous cell carcinoma,male
+1688,ISIC_0035241,45.0,anterior torso,benign,nevus,female
+284,ISIC_0027580,75.0,upper extremity,,actinic keratosis,male
+1659,ISIC_0035201,55.0,lower extremity,benign,nevus,female
+920,ISIC_0032947,70.0,upper extremity,,squamous cell carcinoma,male
+1433,ISIC_0034844,55.0,posterior torso,benign,nevus,male
+3396,Transform1464,60.0,head/neck,,actinic keratosis,male
+3348,Transform1404,,,,dermatofibroma,
+734,ISIC_0031442,70.0,lower extremity,,basal cell carcinoma,male
+1812,ISIC_0035432,50.0,head/neck,,basal cell carcinoma,male
+2392,Transform262,50.0,anterior torso,,vascular lesion,male
+2354,Transform224,55.0,upper extremity,,dermatofibroma,male
+3465,Transform1617,45.0,lower extremity,,dermatofibroma,female
+922,ISIC_0032958,70.0,lower extremity,malignant,melanoma,male
+1402,ISIC_0034760,70.0,lower extremity,,basal cell carcinoma,male
+3283,Transform1317,75.0,anterior torso,,vascular lesion,male
+167,ISIC_0026467,55.0,lower extremity,,vascular lesion,male
+2469,Transform339,50.0,lower extremity,,dermatofibroma,male
+2273,Transform143,55.0,lower extremity,,vascular lesion,male
+3245,Transform1267,45.0,lower extremity,,dermatofibroma,male
+12,ISIC_0024470,60.0,upper extremity,,actinic keratosis,male
+1546,ISIC_0035019,55.0,lower extremity,benign,nevus,male
+617,ISIC_0030549,50.0,upper extremity,,squamous cell carcinoma,male
+1092,ISIC_0033545,45.0,upper extremity,malignant,melanoma,male
+90,ISIC_0025771,35.0,lower extremity,,dermatofibroma,female
+612,ISIC_0030491,80.0,head/neck,,actinic keratosis,male
+3166,Transform1155,55.0,upper extremity,,dermatofibroma,female
+1404,ISIC_0034771,55.0,posterior torso,malignant,melanoma,female
+857,ISIC_0032652,60.0,head/neck,,basal cell carcinoma,female
+2894,Transform764,75.0,upper extremity,,squamous cell carcinoma,male
+777,ISIC_0031852,85.0,upper extremity,,squamous cell carcinoma,female
+1638,ISIC_0035164,55.0,head/neck,benign,nevus,male
+1986,ISIC_0035727,25.0,lower extremity,benign,nevus,female
+2352,Transform222,50.0,head/neck,,squamous cell carcinoma,female
+3312,Transform1357,35.0,lower extremity,,dermatofibroma,female
+28,ISIC_0024763,65.0,head/neck,,actinic keratosis,male
+1522,ISIC_0034977,60.0,upper extremity,benign,nevus,female
+1066,ISIC_0033458,45.0,upper extremity,,vascular lesion,male
+1911,ISIC_0035585,70.0,head/neck,,basal cell carcinoma,male
+2538,Transform408,50.0,,,dermatofibroma,female
+74,ISIC_0025599,15.0,head/neck,,vascular lesion,male
+515,ISIC_0029598,55.0,head/neck,,squamous cell carcinoma,male
+1309,ISIC_0034299,60.0,upper extremity,,basal cell carcinoma,male
+2609,Transform479,65.0,lower extremity,,squamous cell carcinoma,male
+2227,Transform97,50.0,upper extremity,,vascular lesion,female
+2002,ISIC_0035767,65.0,lower extremity,malignant,melanoma,female
+2157,Transform27,50.0,,,vascular lesion,male
+1584,ISIC_0035082,55.0,anterior torso,benign,nevus,male
+1517,ISIC_0034971,55.0,posterior torso,malignant,melanoma,male
+116,ISIC_0026014,85.0,lower extremity,,squamous cell carcinoma,male
+2341,Transform211,60.0,lower extremity,,dermatofibroma,female
+1072,ISIC_0033477,65.0,upper extremity,malignant,melanoma,male
+2691,Transform561,50.0,lower extremity,,dermatofibroma,male
+1799,ISIC_0035414,45.0,posterior torso,malignant,melanoma,male
+3176,Transform1166,50.0,lower extremity,,dermatofibroma,male
+2917,Transform787,50.0,upper extremity,,squamous cell carcinoma,male
+1600,ISIC_0035105,50.0,lower extremity,benign,nevus,female
+622,ISIC_0030591,75.0,lower extremity,,squamous cell carcinoma,female
+3149,Transform1128,45.0,lower extremity,,dermatofibroma,female
+409,ISIC_0028728,40.0,anterior torso,,basal cell carcinoma,female
+2684,Transform554,40.0,anterior torso,,squamous cell carcinoma,male
+1623,ISIC_0035137,35.0,upper extremity,benign,nevus,female
+115,ISIC_0025992,65.0,head/neck,,actinic keratosis,male
+288,ISIC_0027601,75.0,posterior torso,,basal cell carcinoma,female
+2910,Transform780,80.0,anterior torso,,squamous cell carcinoma,male
+1181,ISIC_0033860,45.0,anterior torso,,dermatofibroma,male
+337,ISIC_0027966,65.0,upper extremity,,basal cell carcinoma,male
+2687,Transform557,25.0,posterior torso,,vascular lesion,female
+46,ISIC_0025178,65.0,lower extremity,,squamous cell carcinoma,male
+747,ISIC_0031569,30.0,posterior torso,,basal cell carcinoma,female
+3198,Transform1204,55.0,anterior torso,,vascular lesion,female
+753,ISIC_0031614,45.0,posterior torso,,basal cell carcinoma,female
+462,ISIC_0029141,60.0,head/neck,,actinic keratosis,female
+1938,ISIC_0035630,55.0,head/neck,,actinic keratosis,male
+673,ISIC_0031041,70.0,anterior torso,,basal cell carcinoma,male
+2712,Transform582,80.0,lower extremity,,vascular lesion,male
+1201,ISIC_0033938,60.0,anterior torso,malignant,melanoma,female
+3140,Transform1111,60.0,head/neck,,actinic keratosis,female
+424,ISIC_0028854,60.0,head/neck,,actinic keratosis,male
+325,ISIC_0027851,55.0,upper extremity,,basal cell carcinoma,male
+664,ISIC_0030964,55.0,posterior torso,,basal cell carcinoma,male
+350,ISIC_0028106,75.0,head/neck,,basal cell carcinoma,female
+447,ISIC_0029035,70.0,head/neck,,basal cell carcinoma,male
+709,ISIC_0031272,80.0,head/neck,,basal cell carcinoma,male
+1924,ISIC_0035608,50.0,head/neck,,actinic keratosis,male
+1722,ISIC_0035297,45.0,upper extremity,benign,nevus,male
+1221,ISIC_0034000,75.0,posterior torso,malignant,melanoma,male
+2942,Transform812,70.0,head/neck,,actinic keratosis,male
+1149,ISIC_0033725,55.0,anterior torso,malignant,melanoma,male
+387,ISIC_0028499,80.0,upper extremity,,squamous cell carcinoma,female
+1369,ISIC_0034584,60.0,posterior torso,malignant,melanoma,male
+1337,ISIC_0034410,60.0,upper extremity,,squamous cell carcinoma,male
+754,ISIC_0031640,65.0,head/neck,,basal cell carcinoma,female
+2186,Transform56,70.0,lower extremity,,squamous cell carcinoma,male
+451,ISIC_0029052,75.0,lower extremity,,dermatofibroma,female
+1194,ISIC_0033893,60.0,posterior torso,malignant,melanoma,male
+699,ISIC_0031228,65.0,head/neck,,actinic keratosis,male
+2247,Transform117,70.0,lower extremity,,squamous cell carcinoma,male
+1608,ISIC_0035117,85.0,head/neck,,squamous cell carcinoma,female
+830,ISIC_0032349,60.0,lower extremity,,squamous cell carcinoma,male
+950,ISIC_0033031,45.0,upper extremity,,vascular lesion,male
+3094,Transform1035,55.0,head/neck,,vascular lesion,female
+2444,Transform314,60.0,posterior torso,,squamous cell carcinoma,male
+1734,ISIC_0035312,45.0,upper extremity,benign,nevus,male
+1413,ISIC_0034803,65.0,anterior torso,benign,nevus,male
+1409,ISIC_0034795,50.0,anterior torso,benign,nevus,female
+3478,Transform1647,60.0,lower extremity,,dermatofibroma,female
+3092,Transform1033,55.0,posterior torso,,vascular lesion,male
+1177,ISIC_0033844,70.0,lower extremity,,vascular lesion,female
+3307,Transform1348,80.0,posterior torso,,actinic keratosis,male
+2006,ISIC_0035775,45.0,lower extremity,benign,nevus,female
+1253,ISIC_0034093,80.0,head/neck,,basal cell carcinoma,female
+2477,Transform347,75.0,lower extremity,,dermatofibroma,male
+21,ISIC_0024579,75.0,lower extremity,,squamous cell carcinoma,female
+1305,ISIC_0034284,50.0,posterior torso,malignant,melanoma,male
+2814,Transform684,50.0,,,dermatofibroma,female
+2440,Transform310,80.0,head/neck,,squamous cell carcinoma,female
+2298,Transform168,85.0,lower extremity,,squamous cell carcinoma,male
+3015,Transform916,65.0,upper extremity,,actinic keratosis,male
+671,ISIC_0031026,65.0,posterior torso,,basal cell carcinoma,male
+3282,Transform1316,,,,vascular lesion,
+1941,ISIC_0035637,55.0,upper extremity,malignant,melanoma,male
+845,ISIC_0032461,40.0,posterior torso,,basal cell carcinoma,female
+694,ISIC_0031197,20.0,upper extremity,,vascular lesion,male
+2888,Transform758,75.0,anterior torso,,squamous cell carcinoma,male
+1353,ISIC_0034487,65.0,anterior torso,malignant,melanoma,male
+1133,ISIC_0033666,60.0,head/neck,,basal cell carcinoma,male
+869,ISIC_0032777,80.0,posterior torso,,basal cell carcinoma,male
+604,ISIC_0030403,65.0,posterior torso,,basal cell carcinoma,female
+834,ISIC_0032397,85.0,upper extremity,,squamous cell carcinoma,male
+2864,Transform734,65.0,posterior torso,,squamous cell carcinoma,male
+627,ISIC_0030655,60.0,head/neck,,actinic keratosis,female
+902,ISIC_0032892,85.0,posterior torso,malignant,melanoma,female
+1747,ISIC_0035333,50.0,lower extremity,benign,nevus,male
+2748,Transform618,,,,vascular lesion,
+2051,ISIC_0035862,55.0,posterior torso,benign,nevus,male
+2757,Transform627,80.0,head/neck,,vascular lesion,male
+3467,Transform1622,40.0,lower extremity,,dermatofibroma,male
+321,ISIC_0027819,50.0,posterior torso,,basal cell carcinoma,female
+696,ISIC_0031211,75.0,lower extremity,,squamous cell carcinoma,male
+1179,ISIC_0033848,65.0,lower extremity,malignant,melanoma,female
+2778,Transform648,70.0,lower extremity,,squamous cell carcinoma,female
+624,ISIC_0030602,60.0,upper extremity,,squamous cell carcinoma,male
+3243,Transform1265,65.0,head/neck,,actinic keratosis,female
+2173,Transform43,75.0,lower extremity,,dermatofibroma,male
+1011,ISIC_0033261,55.0,upper extremity,malignant,melanoma,male
+1480,ISIC_0034906,70.0,posterior torso,,squamous cell carcinoma,male
+1090,ISIC_0033536,40.0,anterior torso,,squamous cell carcinoma,male
+848,ISIC_0032497,70.0,lower extremity,,basal cell carcinoma,female
+2933,Transform803,80.0,anterior torso,,vascular lesion,male
+780,ISIC_0031918,65.0,head/neck,,squamous cell carcinoma,male
+605,ISIC_0030408,80.0,head/neck,,actinic keratosis,male
+174,ISIC_0026525,45.0,head/neck,,actinic keratosis,male
+1202,ISIC_0033942,65.0,posterior torso,malignant,melanoma,male
+2269,Transform139,30.0,lower extremity,,dermatofibroma,male
+2463,Transform333,70.0,lower extremity,,squamous cell carcinoma,male
+100,ISIC_0025826,65.0,posterior torso,,basal cell carcinoma,female
+1243,ISIC_0034064,30.0,posterior torso,malignant,melanoma,male
+741,ISIC_0031520,75.0,anterior torso,,basal cell carcinoma,male
+334,ISIC_0027930,60.0,head/neck,,squamous cell carcinoma,male
+2882,Transform752,70.0,head/neck,,squamous cell carcinoma,female
+1705,ISIC_0035271,40.0,upper extremity,malignant,melanoma,male
+2881,Transform751,50.0,posterior torso,,actinic keratosis,male
+594,ISIC_0030297,70.0,head/neck,,squamous cell carcinoma,female
+1333,ISIC_0034404,85.0,anterior torso,,basal cell carcinoma,male
+2214,Transform84,50.0,lower extremity,,dermatofibroma,male
+3387,Transform1449,60.0,upper extremity,,actinic keratosis,male
+1551,ISIC_0035027,55.0,lower extremity,benign,nevus,female
+2922,Transform792,50.0,lower extremity,,dermatofibroma,female
+1542,ISIC_0035014,40.0,lower extremity,benign,nevus,male
+2971,Transform851,50.0,,,vascular lesion,male
+327,ISIC_0027865,40.0,anterior torso,,basal cell carcinoma,female
+1933,ISIC_0035623,5.0,anterior torso,benign,nevus,female
+640,ISIC_0030757,80.0,upper extremity,,dermatofibroma,male
+2152,Transform22,75.0,lower extremity,,squamous cell carcinoma,female
+2042,ISIC_0035851,40.0,lower extremity,benign,nevus,female
+2863,Transform733,55.0,head/neck,,actinic keratosis,female
+1468,ISIC_0034888,55.0,posterior torso,,basal cell carcinoma,female
+1838,ISIC_0035473,65.0,posterior torso,benign,nevus,male
+3394,Transform1462,25.0,anterior torso,,vascular lesion,female
+460,ISIC_0029130,70.0,lower extremity,,dermatofibroma,male
+1046,ISIC_0033372,70.0,anterior torso,,basal cell carcinoma,male
+1398,ISIC_0034739,50.0,lower extremity,,vascular lesion,female
+1562,ISIC_0035048,55.0,head/neck,malignant,melanoma,female
+1975,ISIC_0035705,45.0,lower extremity,malignant,melanoma,female
+2633,Transform503,60.0,lower extremity,,squamous cell carcinoma,male
+419,ISIC_0028814,70.0,head/neck,,basal cell carcinoma,male
+738,ISIC_0031470,65.0,posterior torso,,basal cell carcinoma,female
+1879,ISIC_0035529,50.0,anterior torso,benign,nevus,male
+1389,ISIC_0034687,55.0,posterior torso,malignant,melanoma,female
+1438,ISIC_0034852,40.0,anterior torso,benign,nevus,female
+497,ISIC_0029489,85.0,lower extremity,,basal cell carcinoma,female
+2750,Transform620,,,,dermatofibroma,
+375,ISIC_0028346,65.0,lower extremity,,dermatofibroma,female
+975,ISIC_0033125,70.0,upper extremity,malignant,melanoma,male
+1209,ISIC_0033967,25.0,lower extremity,malignant,melanoma,female
+3081,Transform1014,65.0,head/neck,,actinic keratosis,female
+404,ISIC_0028687,80.0,lower extremity,,basal cell carcinoma,female
+2467,Transform337,40.0,lower extremity,,dermatofibroma,male
+1425,ISIC_0034823,40.0,lower extremity,benign,nevus,male
+93,ISIC_0025803,80.0,head/neck,,actinic keratosis,male
+1769,ISIC_0035367,50.0,anterior torso,benign,nevus,male
+2221,Transform91,35.0,,,vascular lesion,male
+2738,Transform608,50.0,head/neck,,actinic keratosis,male
+1849,ISIC_0035486,55.0,anterior torso,malignant,melanoma,male
+827,ISIC_0032316,65.0,head/neck,,basal cell carcinoma,male
+428,ISIC_0028877,70.0,posterior torso,,basal cell carcinoma,female
+1889,ISIC_0035551,25.0,anterior torso,benign,nevus,male
+3009,Transform906,60.0,lower extremity,,dermatofibroma,female
+3247,Transform1269,70.0,head/neck,,actinic keratosis,male
+2766,Transform636,85.0,head/neck,,squamous cell carcinoma,female
+282,ISIC_0027563,70.0,lower extremity,,vascular lesion,male
+2899,Transform769,60.0,upper extremity,,squamous cell carcinoma,female
+343,ISIC_0028059,40.0,posterior torso,,basal cell carcinoma,male
+2683,Transform553,70.0,head/neck,,actinic keratosis,male
+2786,Transform656,,,,actinic keratosis,
+2547,Transform417,65.0,upper extremity,,dermatofibroma,male
+1113,ISIC_0033595,70.0,upper extremity,malignant,melanoma,male
+1574,ISIC_0035066,45.0,lower extremity,benign,nevus,male
+691,ISIC_0031171,75.0,anterior torso,,basal cell carcinoma,male
+0,ISIC_0024318,65.0,lower extremity,,dermatofibroma,female
+1582,ISIC_0035080,70.0,lower extremity,benign,nevus,male
+1707,ISIC_0035274,60.0,posterior torso,benign,nevus,male
+1416,ISIC_0034807,55.0,anterior torso,benign,nevus,female
+2021,ISIC_0035811,30.0,posterior torso,benign,nevus,male
+2003,ISIC_0035769,40.0,posterior torso,benign,nevus,male
+1993,ISIC_0035747,25.0,upper extremity,malignant,melanoma,female
+1131,ISIC_0033662,70.0,lower extremity,malignant,melanoma,female
+2304,Transform174,85.0,upper extremity,,squamous cell carcinoma,male
+1247,ISIC_0034074,65.0,head/neck,malignant,melanoma,male
+3107,Transform1063,80.0,lower extremity,,vascular lesion,male
+2375,Transform245,80.0,head/neck,,squamous cell carcinoma,female
+2150,Transform20,75.0,anterior torso,,squamous cell carcinoma,male
+2261,Transform131,80.0,anterior torso,,squamous cell carcinoma,male
+3494,Transform1704,55.0,lower extremity,,dermatofibroma,female
+1159,ISIC_0033801,30.0,posterior torso,malignant,melanoma,female
+2900,Transform770,80.0,upper extremity,,squamous cell carcinoma,female
+246,ISIC_0027188,40.0,lower extremity,,dermatofibroma,male
+3475,Transform1642,60.0,head/neck,,actinic keratosis,female
+3139,Transform1110,,anterior torso,,vascular lesion,female
+2685,Transform555,40.0,anterior torso,,squamous cell carcinoma,male
+1671,ISIC_0035219,45.0,upper extremity,benign,nevus,female
+929,ISIC_0032976,80.0,head/neck,malignant,melanoma,female
+3200,Transform1206,65.0,lower extremity,,dermatofibroma,male
+1461,ISIC_0034878,35.0,upper extremity,benign,nevus,female
+1971,ISIC_0035696,70.0,head/neck,malignant,melanoma,male
+365,ISIC_0028231,80.0,upper extremity,,squamous cell carcinoma,male
+2296,Transform166,55.0,head/neck,,actinic keratosis,male
+736,ISIC_0031450,65.0,posterior torso,,basal cell carcinoma,male
+26,ISIC_0024710,75.0,posterior torso,,squamous cell carcinoma,male
+2884,Transform754,75.0,,,vascular lesion,male
+1441,ISIC_0034855,50.0,posterior torso,benign,nevus,male
+3326,Transform1376,50.0,head/neck,,actinic keratosis,male
+680,ISIC_0031090,55.0,upper extremity,,vascular lesion,female
+3067,Transform993,75.0,posterior torso,,dermatofibroma,male
+1250,ISIC_0034087,45.0,anterior torso,malignant,melanoma,male
+3,ISIC_0024372,70.0,lower extremity,,squamous cell carcinoma,male
+2182,Transform52,80.0,upper extremity,,squamous cell carcinoma,female
+837,ISIC_0032410,30.0,lower extremity,,dermatofibroma,male
+2403,Transform273,30.0,lower extremity,,dermatofibroma,male
+292,ISIC_0027626,45.0,upper extremity,,dermatofibroma,female
+698,ISIC_0031225,60.0,anterior torso,,basal cell carcinoma,female
+1048,ISIC_0033387,55.0,lower extremity,malignant,melanoma,female
+3228,Transform1245,70.0,lower extremity,,vascular lesion,female
+2417,Transform287,70.0,head/neck,,actinic keratosis,male
+3414,Transform1497,35.0,lower extremity,,dermatofibroma,female
+1667,ISIC_0035214,45.0,lower extremity,benign,nevus,male
+1963,ISIC_0035681,30.0,anterior torso,benign,nevus,female
+1249,ISIC_0034085,35.0,posterior torso,malignant,melanoma,male
+2274,Transform144,50.0,upper extremity,,actinic keratosis,male
+1298,ISIC_0034253,60.0,anterior torso,malignant,melanoma,male
+1868,ISIC_0035516,25.0,lower extremity,benign,nevus,female
+2387,Transform257,60.0,head/neck,,actinic keratosis,male
+1443,ISIC_0034859,65.0,head/neck,malignant,melanoma,female
+2671,Transform541,45.0,anterior torso,,vascular lesion,female
+603,ISIC_0030387,65.0,lower extremity,,squamous cell carcinoma,male
+1289,ISIC_0034211,45.0,upper extremity,malignant,melanoma,male
+2502,Transform372,70.0,upper extremity,,squamous cell carcinoma,male
+63,ISIC_0025373,35.0,lower extremity,,dermatofibroma,female
+1579,ISIC_0035077,45.0,lower extremity,benign,nevus,male
+1883,ISIC_0035542,50.0,lower extremity,benign,nevus,female
+990,ISIC_0033196,20.0,posterior torso,malignant,melanoma,male
+1384,ISIC_0034657,60.0,posterior torso,malignant,melanoma,male
+237,ISIC_0027120,80.0,lower extremity,,basal cell carcinoma,female
+650,ISIC_0030813,65.0,posterior torso,,basal cell carcinoma,male
+1967,ISIC_0035689,20.0,head/neck,benign,nevus,male
+112,ISIC_0025971,45.0,posterior torso,,basal cell carcinoma,male
+1348,ISIC_0034472,50.0,posterior torso,malignant,melanoma,female
+804,ISIC_0032139,85.0,head/neck,,basal cell carcinoma,female
+1556,ISIC_0035038,25.0,upper extremity,benign,nevus,female
+577,ISIC_0030143,65.0,head/neck,,actinic keratosis,female
+1834,ISIC_0035467,50.0,lower extremity,benign,nevus,female
+126,ISIC_0026117,75.0,head/neck,,basal cell carcinoma,female
+3341,Transform1395,55.0,head/neck,,actinic keratosis,male
+3188,Transform1187,80.0,posterior torso,,vascular lesion,male
+851,ISIC_0032545,45.0,anterior torso,,vascular lesion,female
+2742,Transform612,70.0,head/neck,,actinic keratosis,female
+2185,Transform55,45.0,,,vascular lesion,female
+3144,Transform1117,80.0,upper extremity,,dermatofibroma,male
+7,ISIC_0024402,,posterior torso,,vascular lesion,female
+2550,Transform420,85.0,head/neck,,squamous cell carcinoma,male
+854,ISIC_0032613,25.0,lower extremity,,dermatofibroma,female
+2995,Transform884,55.0,head/neck,,actinic keratosis,male
+2679,Transform549,45.0,lower extremity,,dermatofibroma,male
+3328,Transform1379,70.0,head/neck,,actinic keratosis,female
+2977,Transform861,55.0,lower extremity,,vascular lesion,male
+3178,Transform1169,75.0,lower extremity,,dermatofibroma,male
+407,ISIC_0028714,60.0,head/neck,,vascular lesion,female
+3454,Transform1599,50.0,head/neck,,actinic keratosis,male
+2405,Transform275,75.0,posterior torso,,dermatofibroma,male
+153,ISIC_0026343,70.0,head/neck,,basal cell carcinoma,male
+1566,ISIC_0035052,55.0,upper extremity,benign,nevus,male
+2391,Transform261,80.0,anterior torso,,vascular lesion,male
+2353,Transform223,60.0,posterior torso,,squamous cell carcinoma,male
+1004,ISIC_0033241,50.0,posterior torso,malignant,melanoma,female
+2660,Transform530,70.0,posterior torso,,vascular lesion,male
+3099,Transform1052,5.0,posterior torso,,vascular lesion,male
+280,ISIC_0027550,65.0,upper extremity,,squamous cell carcinoma,female
+3236,Transform1257,80.0,lower extremity,,vascular lesion,female
+3445,Transform1582,65.0,lower extremity,,dermatofibroma,male
+400,ISIC_0028653,50.0,anterior torso,,basal cell carcinoma,female
+1596,ISIC_0035100,45.0,lower extremity,benign,nevus,female
+1497,ISIC_0034937,80.0,head/neck,,vascular lesion,male
+2516,Transform386,50.0,upper extremity,,squamous cell carcinoma,male
+1479,ISIC_0034904,40.0,anterior torso,malignant,melanoma,female
+1800,ISIC_0035415,80.0,head/neck,,basal cell carcinoma,female
+2009,ISIC_0035784,55.0,anterior torso,benign,nevus,female
+504,ISIC_0029539,40.0,posterior torso,,basal cell carcinoma,male
+2582,Transform452,75.0,lower extremity,,actinic keratosis,female
+1744,ISIC_0035326,65.0,head/neck,malignant,melanoma,female
+903,ISIC_0032894,75.0,head/neck,,basal cell carcinoma,female
+2040,ISIC_0035846,60.0,posterior torso,malignant,melanoma,female
+1672,ISIC_0035220,35.0,anterior torso,benign,nevus,female
+550,ISIC_0029889,40.0,anterior torso,,vascular lesion,female
+1862,ISIC_0035505,85.0,lower extremity,malignant,melanoma,female
+3302,Transform1342,,,,vascular lesion,
+1805,ISIC_0035421,80.0,posterior torso,,actinic keratosis,male
+3150,Transform1129,60.0,head/neck,,actinic keratosis,female
+1130,ISIC_0033655,70.0,anterior torso,malignant,melanoma,male
+945,ISIC_0033020,50.0,lower extremity,,basal cell carcinoma,male
+163,ISIC_0026453,55.0,posterior torso,,basal cell carcinoma,female
+1660,ISIC_0035202,45.0,head/neck,,basal cell carcinoma,male
+1690,ISIC_0035244,60.0,posterior torso,benign,nevus,male
+2384,Transform254,60.0,lower extremity,,actinic keratosis,male
+2107,ISIC_0035982,45.0,lower extremity,,dermatofibroma,female
+3378,Transform1435,70.0,head/neck,,actinic keratosis,female
+1514,ISIC_0034967,50.0,posterior torso,benign,nevus,male
+449,ISIC_0029041,80.0,head/neck,,actinic keratosis,male
+2903,Transform773,45.0,,,vascular lesion,female
+941,ISIC_0033005,45.0,lower extremity,,dermatofibroma,female
+2834,Transform704,70.0,head/neck,,actinic keratosis,female
+3304,Transform1345,80.0,head/neck,,vascular lesion,male
+1532,ISIC_0034998,60.0,head/neck,malignant,melanoma,male
+1847,ISIC_0035484,10.0,head/neck,benign,nevus,female
+437,ISIC_0028973,85.0,posterior torso,,basal cell carcinoma,female
+1314,ISIC_0034329,80.0,head/neck,malignant,melanoma,male
+786,ISIC_0031943,40.0,anterior torso,,basal cell carcinoma,female
+873,ISIC_0032806,65.0,anterior torso,malignant,melanoma,male
+739,ISIC_0031489,55.0,posterior torso,,basal cell carcinoma,female
+2867,Transform737,50.0,upper extremity,,dermatofibroma,female
+1006,ISIC_0033248,85.0,head/neck,,basal cell carcinoma,female
+1844,ISIC_0035481,65.0,lower extremity,benign,nevus,male
+586,ISIC_0030233,80.0,anterior torso,,basal cell carcinoma,male
+1306,ISIC_0034287,85.0,lower extremity,malignant,melanoma,male
+2989,Transform877,80.0,head/neck,,actinic keratosis,female
+348,ISIC_0028085,50.0,anterior torso,,basal cell carcinoma,female
+2471,Transform341,60.0,head/neck,,actinic keratosis,male
+1028,ISIC_0033310,60.0,posterior torso,malignant,melanoma,male
+1163,ISIC_0033806,85.0,anterior torso,malignant,melanoma,male
+2511,Transform381,45.0,upper extremity,,dermatofibroma,female
+3382,Transform1441,70.0,anterior torso,,vascular lesion,female
+1541,ISIC_0035011,40.0,head/neck,benign,nevus,female
+2701,Transform571,85.0,posterior torso,,vascular lesion,male
+573,ISIC_0030114,75.0,posterior torso,,basal cell carcinoma,male
+647,ISIC_0030794,65.0,lower extremity,,squamous cell carcinoma,male
+595,ISIC_0030314,40.0,posterior torso,,basal cell carcinoma,female
+2938,Transform808,60.0,head/neck,,squamous cell carcinoma,male
+1251,ISIC_0034089,70.0,head/neck,malignant,melanoma,male
+1558,ISIC_0035044,10.0,head/neck,benign,nevus,female
+1308,ISIC_0034294,70.0,posterior torso,malignant,melanoma,female
+470,ISIC_0029263,60.0,lower extremity,,basal cell carcinoma,male
+800,ISIC_0032114,65.0,lower extremity,,dermatofibroma,male
+281,ISIC_0027562,60.0,head/neck,,actinic keratosis,female
+932,ISIC_0032984,70.0,posterior torso,malignant,melanoma,male
+732,ISIC_0031430,75.0,lower extremity,,actinic keratosis,female
+2763,Transform633,55.0,head/neck,,actinic keratosis,male
+2880,Transform750,75.0,head/neck,,actinic keratosis,male
+2999,Transform891,50.0,head/neck,,actinic keratosis,male
+3186,Transform1183,75.0,upper extremity,,vascular lesion,female
+1144,ISIC_0033705,60.0,head/neck,,actinic keratosis,male
+1617,ISIC_0035129,20.0,upper extremity,benign,nevus,female
+3085,Transform1018,55.0,lower extremity,,dermatofibroma,male
+3129,Transform1093,30.0,upper extremity,,dermatofibroma,male
+2503,Transform373,55.0,,,vascular lesion,male
+584,ISIC_0030197,75.0,posterior torso,,basal cell carcinoma,male
+2195,Transform65,70.0,lower extremity,,squamous cell carcinoma,male
+160,ISIC_0026433,70.0,anterior torso,,basal cell carcinoma,male
+1111,ISIC_0033593,65.0,head/neck,malignant,melanoma,male
+2798,Transform668,55.0,posterior torso,,vascular lesion,male
+1915,ISIC_0035596,40.0,lower extremity,benign,nevus,female
+859,ISIC_0032692,35.0,lower extremity,,vascular lesion,female
+952,ISIC_0033037,70.0,posterior torso,malignant,melanoma,male
+3194,Transform1199,40.0,lower extremity,,vascular lesion,male
+1331,ISIC_0034398,50.0,posterior torso,malignant,melanoma,female
+1219,ISIC_0033995,60.0,posterior torso,malignant,melanoma,male
+1215,ISIC_0033980,30.0,upper extremity,malignant,melanoma,female
+2676,Transform546,55.0,posterior torso,,vascular lesion,female
+606,ISIC_0030427,45.0,upper extremity,,dermatofibroma,female
+164,ISIC_0026456,60.0,upper extremity,,vascular lesion,male
+2154,Transform24,75.0,lower extremity,,actinic keratosis,female
+1040,ISIC_0033354,65.0,head/neck,,basal cell carcinoma,male
+1978,ISIC_0035711,55.0,upper extremity,malignant,melanoma,female
+2665,Transform535,45.0,upper extremity,,vascular lesion,male
+3351,Transform1407,45.0,lower extremity,,dermatofibroma,female
+329,ISIC_0027884,60.0,head/neck,,actinic keratosis,male
+2011,ISIC_0035789,80.0,upper extremity,malignant,melanoma,male
+2528,Transform398,60.0,head/neck,,actinic keratosis,female
+2546,Transform416,45.0,head/neck,,squamous cell carcinoma,male
+3371,Transform1428,,,,vascular lesion,
+1429,ISIC_0034833,50.0,upper extremity,,basal cell carcinoma,female
+3233,Transform1253,45.0,upper extremity,,vascular lesion,male
+2141,Transform11,50.0,upper extremity,,squamous cell carcinoma,male
+809,ISIC_0032174,75.0,posterior torso,,basal cell carcinoma,male
+433,ISIC_0028928,55.0,lower extremity,,basal cell carcinoma,female
+1107,ISIC_0033578,65.0,head/neck,malignant,melanoma,male
+2091,ISIC_0035957,70.0,posterior torso,,basal cell carcinoma,male
+860,ISIC_0032696,70.0,posterior torso,,basal cell carcinoma,male
+274,ISIC_0027529,50.0,upper extremity,,squamous cell carcinoma,male
+967,ISIC_0033089,60.0,head/neck,malignant,melanoma,male
+2758,Transform628,,,,vascular lesion,
+3457,Transform1602,55.0,head/neck,,actinic keratosis,male
+2139,Transform9,75.0,lower extremity,,squamous cell carcinoma,female
+1346,ISIC_0034457,70.0,lower extremity,malignant,melanoma,male
+2813,Transform683,35.0,,,dermatofibroma,male
+885,ISIC_0032845,70.0,lower extremity,malignant,melanoma,female
+556,ISIC_0029919,75.0,lower extremity,,basal cell carcinoma,male
+908,ISIC_0032915,75.0,lower extremity,malignant,melanoma,male
+1381,ISIC_0034638,70.0,head/neck,malignant,melanoma,female
+2117,ISIC_0036020,45.0,posterior torso,benign,nevus,female
+2562,Transform432,45.0,,,vascular lesion,male
+509,ISIC_0029563,85.0,upper extremity,,squamous cell carcinoma,male
+2388,Transform258,55.0,upper extremity,,squamous cell carcinoma,female
+221,ISIC_0026992,85.0,upper extremity,,squamous cell carcinoma,male
+1297,ISIC_0034246,65.0,lower extremity,malignant,melanoma,female
+146,ISIC_0026282,50.0,upper extremity,,basal cell carcinoma,male
+1777,ISIC_0035379,75.0,anterior torso,benign,nevus,female
+1053,ISIC_0033415,70.0,anterior torso,malignant,melanoma,male
+1822,ISIC_0035448,55.0,upper extremity,benign,nevus,female
+2851,Transform721,55.0,,,vascular lesion,male
+508,ISIC_0029549,70.0,posterior torso,,squamous cell carcinoma,male
+323,ISIC_0027829,55.0,head/neck,,actinic keratosis,female
+1561,ISIC_0035047,70.0,upper extremity,malignant,melanoma,female
+176,ISIC_0026574,70.0,lower extremity,,basal cell carcinoma,male
+2852,Transform722,70.0,lower extremity,,squamous cell carcinoma,male
+1908,ISIC_0035581,30.0,posterior torso,benign,nevus,male
+168,ISIC_0026468,50.0,upper extremity,,actinic keratosis,male
+1400,ISIC_0034753,70.0,head/neck,,actinic keratosis,female
+3424,Transform1530,70.0,head/neck,,actinic keratosis,male
+1392,ISIC_0034712,60.0,upper extremity,,basal cell carcinoma,female
+2257,Transform127,85.0,lower extremity,,squamous cell carcinoma,male
+2177,Transform47,65.0,head/neck,,squamous cell carcinoma,male
+2237,Transform107,65.0,head/neck,,actinic keratosis,male
+136,ISIC_0026178,60.0,posterior torso,,squamous cell carcinoma,male
+1470,ISIC_0034890,45.0,lower extremity,benign,nevus,male
+3152,Transform1132,60.0,head/neck,,vascular lesion,female
+1278,ISIC_0034169,50.0,upper extremity,,dermatofibroma,male
+1973,ISIC_0035702,80.0,posterior torso,benign,nevus,female
+894,ISIC_0032869,85.0,posterior torso,malignant,melanoma,male
+197,ISIC_0026766,70.0,lower extremity,,basal cell carcinoma,male
+2338,Transform208,55.0,head/neck,,squamous cell carcinoma,male
+1483,ISIC_0034913,55.0,anterior torso,benign,nevus,female
+1792,ISIC_0035407,45.0,upper extremity,benign,nevus,male
+2084,ISIC_0035940,50.0,lower extremity,,dermatofibroma,female
+767,ISIC_0031738,85.0,upper extremity,,squamous cell carcinoma,male
+2280,Transform150,45.0,head/neck,,actinic keratosis,male
+2693,Transform563,60.0,head/neck,,actinic keratosis,male
+2081,ISIC_0035936,15.0,upper extremity,benign,nevus,female
+1112,ISIC_0033594,50.0,posterior torso,malignant,melanoma,male
+3379,Transform1436,65.0,lower extremity,,dermatofibroma,female
+2850,Transform720,40.0,lower extremity,,dermatofibroma,male
+3116,Transform1073,45.0,upper extremity,,dermatofibroma,female
+865,ISIC_0032766,55.0,upper extremity,malignant,melanoma,male
+2389,Transform259,55.0,head/neck,,squamous cell carcinoma,female
+1085,ISIC_0033522,40.0,posterior torso,malignant,melanoma,female
+1447,ISIC_0034863,70.0,upper extremity,malignant,melanoma,male
+199,ISIC_0026798,45.0,lower extremity,,basal cell carcinoma,male
+429,ISIC_0028880,55.0,lower extremity,,dermatofibroma,male
+3474,Transform1640,65.0,upper extremity,,actinic keratosis,male
+1823,ISIC_0035450,70.0,lower extremity,,basal cell carcinoma,male
+1795,ISIC_0035410,10.0,anterior torso,benign,nevus,female
+2924,Transform794,75.0,lower extremity,,squamous cell carcinoma,female
+1970,ISIC_0035693,10.0,lower extremity,benign,nevus,male
+730,ISIC_0031421,80.0,upper extremity,,squamous cell carcinoma,female
+2967,Transform843,30.0,head/neck,,actinic keratosis,male
+297,ISIC_0027665,50.0,anterior torso,,vascular lesion,male
+2121,ISIC_0036038,55.0,lower extremity,benign,nevus,female
+807,ISIC_0032164,65.0,anterior torso,,basal cell carcinoma,female
+2595,Transform465,75.0,upper extremity,,vascular lesion,female
+1565,ISIC_0035051,35.0,anterior torso,benign,nevus,female
+2997,Transform887,,anterior torso,,vascular lesion,female
+1172,ISIC_0033819,60.0,posterior torso,malignant,melanoma,male
+3330,Transform1382,,,,dermatofibroma,
+3455,Transform1600,55.0,anterior torso,,actinic keratosis,female
+821,ISIC_0032270,70.0,lower extremity,,vascular lesion,female
+2711,Transform581,50.0,upper extremity,,dermatofibroma,male
+1241,ISIC_0034061,55.0,lower extremity,malignant,melanoma,female
+1563,ISIC_0035049,50.0,lower extremity,benign,nevus,female
+3321,Transform1370,,,,dermatofibroma,
+623,ISIC_0030594,75.0,posterior torso,,basal cell carcinoma,male
+1445,ISIC_0034861,40.0,posterior torso,benign,nevus,female
+1718,ISIC_0035292,40.0,anterior torso,benign,nevus,female
+1162,ISIC_0033805,40.0,upper extremity,malignant,melanoma,female
+2260,Transform130,50.0,lower extremity,,dermatofibroma,male
+1640,ISIC_0035166,20.0,posterior torso,benign,nevus,female
+3083,Transform1016,35.0,lower extremity,,dermatofibroma,female
+3335,Transform1388,,,,actinic keratosis,
+2603,Transform473,85.0,upper extremity,,squamous cell carcinoma,female
+2775,Transform645,85.0,head/neck,,actinic keratosis,female
+2749,Transform619,80.0,upper extremity,,squamous cell carcinoma,male
+1022,ISIC_0033287,55.0,anterior torso,malignant,melanoma,male
+1750,ISIC_0035339,50.0,lower extremity,benign,nevus,male
+291,ISIC_0027615,70.0,upper extremity,,actinic keratosis,male
+2022,ISIC_0035812,40.0,anterior torso,benign,nevus,female
+1740,ISIC_0035322,75.0,head/neck,,basal cell carcinoma,male
+2282,Transform152,80.0,head/neck,,actinic keratosis,male
+1007,ISIC_0033254,15.0,anterior torso,,vascular lesion,male
+3026,Transform931,70.0,upper extremity,,actinic keratosis,male
+67,ISIC_0025471,85.0,anterior torso,,squamous cell carcinoma,male
+24,ISIC_0024669,25.0,anterior torso,,vascular lesion,female
+216,ISIC_0026970,80.0,posterior torso,,basal cell carcinoma,male
+2860,Transform730,75.0,head/neck,,actinic keratosis,male
+1910,ISIC_0035583,25.0,anterior torso,benign,nevus,male
+2783,Transform653,40.0,upper extremity,,dermatofibroma,male
+1153,ISIC_0033749,80.0,lower extremity,,vascular lesion,male
+2159,Transform29,75.0,posterior torso,,squamous cell carcinoma,male
+166,ISIC_0026466,65.0,upper extremity,,squamous cell carcinoma,female
+3422,Transform1523,65.0,upper extremity,,dermatofibroma,male
+207,ISIC_0026872,85.0,lower extremity,,squamous cell carcinoma,male
+2322,Transform192,60.0,,,vascular lesion,female
+2089,ISIC_0035955,50.0,lower extremity,,dermatofibroma,female
+591,ISIC_0030261,70.0,posterior torso,,basal cell carcinoma,male
+1176,ISIC_0033843,80.0,upper extremity,malignant,melanoma,male
+1720,ISIC_0035295,10.0,anterior torso,benign,nevus,female
+1863,ISIC_0035506,35.0,anterior torso,benign,nevus,male
+525,ISIC_0029669,65.0,posterior torso,,basal cell carcinoma,female
+2335,Transform205,65.0,upper extremity,,squamous cell carcinoma,female
+469,ISIC_0029248,55.0,lower extremity,,dermatofibroma,male
+1350,ISIC_0034478,65.0,upper extremity,,basal cell carcinoma,male
+2169,Transform39,75.0,lower extremity,,squamous cell carcinoma,female
+2811,Transform681,,,,dermatofibroma,
+1531,ISIC_0034996,5.0,head/neck,benign,nevus,female
+928,ISIC_0032975,70.0,posterior torso,malignant,melanoma,female
+1896,ISIC_0035562,60.0,posterior torso,malignant,melanoma,male
+2721,Transform591,80.0,upper extremity,,squamous cell carcinoma,female
+1619,ISIC_0035132,10.0,anterior torso,benign,nevus,male
+1469,ISIC_0034889,5.0,head/neck,benign,nevus,female
+1141,ISIC_0033696,65.0,upper extremity,malignant,melanoma,male
+2934,Transform804,75.0,head/neck,,squamous cell carcinoma,male
+1913,ISIC_0035591,55.0,lower extremity,benign,nevus,female
+956,ISIC_0033050,75.0,posterior torso,malignant,melanoma,female
+1488,ISIC_0034924,75.0,lower extremity,benign,nevus,male
+25,ISIC_0024707,60.0,head/neck,,actinic keratosis,male
+1134,ISIC_0033668,50.0,head/neck,malignant,melanoma,male
+2197,Transform67,40.0,head/neck,,actinic keratosis,female
+925,ISIC_0032965,45.0,upper extremity,malignant,melanoma,female
+3224,Transform1241,70.0,posterior torso,,vascular lesion,male
+1552,ISIC_0035029,85.0,head/neck,,squamous cell carcinoma,female
+2744,Transform614,,,,vascular lesion,
+843,ISIC_0032439,65.0,posterior torso,,basal cell carcinoma,female
+1645,ISIC_0035178,35.0,posterior torso,benign,nevus,male
+2937,Transform807,55.0,,,vascular lesion,female
+2646,Transform516,25.0,lower extremity,,dermatofibroma,female
+1020,ISIC_0033279,40.0,upper extremity,malignant,melanoma,male
+2187,Transform57,30.0,lower extremity,,vascular lesion,female
+749,ISIC_0031578,65.0,upper extremity,,squamous cell carcinoma,male
+3052,Transform967,85.0,upper extremity,,vascular lesion,female
+2371,Transform241,75.0,upper extremity,,actinic keratosis,male
+180,ISIC_0026626,65.0,head/neck,,actinic keratosis,female
+1272,ISIC_0034145,55.0,posterior torso,malignant,melanoma,male
+2498,Transform368,80.0,head/neck,,actinic keratosis,male
+1434,ISIC_0034845,65.0,posterior torso,benign,nevus,female
+607,ISIC_0030442,55.0,lower extremity,,dermatofibroma,male
+3091,Transform1031,70.0,head/neck,,actinic keratosis,male
+1352,ISIC_0034486,85.0,anterior torso,,basal cell carcinoma,male
+2344,Transform214,45.0,upper extremity,,dermatofibroma,female
+1904,ISIC_0035576,25.0,lower extremity,benign,nevus,female
+1899,ISIC_0035568,40.0,upper extremity,benign,nevus,male
+3298,Transform1336,,,,vascular lesion,
+94,ISIC_0025807,50.0,upper extremity,,vascular lesion,female
+770,ISIC_0031762,75.0,head/neck,,basal cell carcinoma,female
+637,ISIC_0030737,45.0,anterior torso,,basal cell carcinoma,male
+1304,ISIC_0034276,70.0,head/neck,,basal cell carcinoma,male
+2334,Transform204,65.0,upper extremity,,actinic keratosis,male
+2536,Transform406,70.0,head/neck,,actinic keratosis,male
+2492,Transform362,65.0,head/neck,,actinic keratosis,male
+1208,ISIC_0033962,30.0,upper extremity,malignant,melanoma,female
+1395,ISIC_0034719,40.0,posterior torso,,dermatofibroma,female
+1578,ISIC_0035074,40.0,lower extremity,benign,nevus,female
+1198,ISIC_0033911,35.0,posterior torso,malignant,melanoma,male
+275,ISIC_0027531,65.0,lower extremity,,basal cell carcinoma,male
+2854,Transform724,40.0,lower extremity,,dermatofibroma,female
+1152,ISIC_0033747,30.0,posterior torso,,basal cell carcinoma,female
+1206,ISIC_0033956,80.0,head/neck,malignant,melanoma,male
+2080,ISIC_0035931,65.0,posterior torso,,vascular lesion,male
+1104,ISIC_0033571,60.0,head/neck,,basal cell carcinoma,female
+307,ISIC_0027722,70.0,posterior torso,,basal cell carcinoma,male
+2818,Transform688,20.0,upper extremity,,vascular lesion,male
+2059,ISIC_0035882,70.0,head/neck,,actinic keratosis,female
+872,ISIC_0032797,70.0,upper extremity,malignant,melanoma,male
+3115,Transform1072,60.0,lower extremity,,dermatofibroma,male
+86,ISIC_0025711,80.0,posterior torso,,basal cell carcinoma,male
+2826,Transform696,,,,dermatofibroma,
+3108,Transform1064,40.0,anterior torso,,vascular lesion,female
+2753,Transform623,80.0,head/neck,,squamous cell carcinoma,male
+3130,Transform1095,55.0,head/neck,,actinic keratosis,female
+3113,Transform1070,65.0,lower extremity,,dermatofibroma,male
+2830,Transform700,,,,dermatofibroma,
+1435,ISIC_0034846,35.0,posterior torso,benign,nevus,female
+2610,Transform480,55.0,lower extremity,,squamous cell carcinoma,female
+209,ISIC_0026902,80.0,anterior torso,,basal cell carcinoma,male
+3220,Transform1237,35.0,lower extremity,,vascular lesion,female
+2787,Transform657,60.0,lower extremity,,dermatofibroma,female
+1966,ISIC_0035687,45.0,anterior torso,benign,nevus,female
+2642,Transform512,75.0,lower extremity,,dermatofibroma,female
+1987,ISIC_0035729,45.0,lower extremity,,dermatofibroma,female
+2171,Transform41,45.0,posterior torso,,squamous cell carcinoma,male
+2782,Transform652,,,,dermatofibroma,
+931,ISIC_0032982,20.0,posterior torso,malignant,melanoma,male
+2146,Transform16,65.0,posterior torso,,squamous cell carcinoma,male
+2425,Transform295,70.0,lower extremity,,dermatofibroma,male
+130,ISIC_0026149,65.0,head/neck,,actinic keratosis,male
+1723,ISIC_0035300,40.0,anterior torso,benign,nevus,male
+2071,ISIC_0035912,60.0,lower extremity,benign,nevus,female
+954,ISIC_0033042,60.0,head/neck,malignant,melanoma,female
+555,ISIC_0029917,80.0,posterior torso,,basal cell carcinoma,male
+2418,Transform288,50.0,lower extremity,,dermatofibroma,female
+1930,ISIC_0035617,35.0,lower extremity,benign,nevus,female
+1536,ISIC_0035003,50.0,lower extremity,benign,nevus,female
+2431,Transform301,85.0,upper extremity,,squamous cell carcinoma,male
+201,ISIC_0026831,70.0,head/neck,,basal cell carcinoma,male
+2965,Transform840,50.0,upper extremity,,vascular lesion,female
+2023,ISIC_0035815,30.0,posterior torso,benign,nevus,male
+368,ISIC_0028283,70.0,head/neck,,basal cell carcinoma,female
+973,ISIC_0033120,45.0,upper extremity,malignant,melanoma,male
+1634,ISIC_0035157,35.0,lower extremity,benign,nevus,female
+2435,Transform305,75.0,lower extremity,,squamous cell carcinoma,male
+816,ISIC_0032225,70.0,lower extremity,,basal cell carcinoma,female
+1954,ISIC_0035659,30.0,upper extremity,benign,nevus,male
+1316,ISIC_0034333,65.0,upper extremity,,basal cell carcinoma,male
+1905,ISIC_0035577,50.0,anterior torso,benign,nevus,male
+256,ISIC_0027294,75.0,lower extremity,,squamous cell carcinoma,female
+3269,Transform1293,80.0,head/neck,,actinic keratosis,male
+3167,Transform1156,20.0,upper extremity,,vascular lesion,male
+1472,ISIC_0034892,45.0,anterior torso,benign,nevus,male
+1699,ISIC_0035257,70.0,posterior torso,benign,nevus,female
+2217,Transform87,65.0,upper extremity,,dermatofibroma,male
+1605,ISIC_0035112,65.0,anterior torso,,basal cell carcinoma,male
+1329,ISIC_0034394,65.0,lower extremity,malignant,melanoma,female
+560,ISIC_0029962,65.0,lower extremity,,dermatofibroma,male
+1877,ISIC_0035527,30.0,upper extremity,benign,nevus,female
+373,ISIC_0028329,80.0,upper extremity,,basal cell carcinoma,female
+2957,Transform827,60.0,lower extremity,,actinic keratosis,female
+2767,Transform637,,,,dermatofibroma,
+2839,Transform709,50.0,,,dermatofibroma,
+3002,Transform897,55.0,upper extremity,,dermatofibroma,male
+3299,Transform1338,,,,dermatofibroma,
+1684,ISIC_0035236,55.0,upper extremity,benign,nevus,male
+1167,ISIC_0033811,65.0,head/neck,,actinic keratosis,female
+2024,ISIC_0035816,65.0,posterior torso,malignant,melanoma,male
+1204,ISIC_0033947,40.0,head/neck,malignant,melanoma,female
+2916,Transform786,35.0,lower extremity,,dermatofibroma,female
+972,ISIC_0033117,45.0,upper extremity,malignant,melanoma,female
+1155,ISIC_0033773,70.0,posterior torso,malignant,melanoma,male
+2036,ISIC_0035840,45.0,anterior torso,benign,nevus,male
+3453,Transform1596,60.0,head/neck,,actinic keratosis,female
+1071,ISIC_0033476,25.0,lower extremity,malignant,melanoma,female
+3012,Transform910,60.0,,,vascular lesion,female
+774,ISIC_0031824,60.0,head/neck,,basal cell carcinoma,male
+324,ISIC_0027846,65.0,posterior torso,,basal cell carcinoma,female
+2251,Transform121,70.0,upper extremity,,squamous cell carcinoma,male
+84,ISIC_0025696,60.0,head/neck,,squamous cell carcinoma,male
+2681,Transform551,70.0,head/neck,,actinic keratosis,male
+2956,Transform826,40.0,lower extremity,,dermatofibroma,male
+1589,ISIC_0035091,45.0,anterior torso,benign,nevus,male
+2659,Transform529,55.0,posterior torso,,vascular lesion,female
+2446,Transform316,45.0,head/neck,,actinic keratosis,male
+1920,ISIC_0035603,50.0,anterior torso,,vascular lesion,male
+91,ISIC_0025780,70.0,head/neck,,actinic keratosis,male
+3154,Transform1137,80.0,head/neck,,actinic keratosis,male
+430,ISIC_0028885,75.0,posterior torso,,vascular lesion,male
+2827,Transform697,65.0,posterior torso,,vascular lesion,male
+3191,Transform1190,50.0,lower extremity,,dermatofibroma,male
+2339,Transform209,75.0,upper extremity,,actinic keratosis,male
+2105,ISIC_0035979,30.0,posterior torso,benign,nevus,male
+1345,ISIC_0034455,75.0,posterior torso,,vascular lesion,male
+257,ISIC_0027297,70.0,head/neck,,basal cell carcinoma,male
+888,ISIC_0032854,80.0,head/neck,,actinic keratosis,male
+3451,Transform1593,70.0,head/neck,,actinic keratosis,male
+1466,ISIC_0034885,10.0,anterior torso,benign,nevus,male
+3114,Transform1071,65.0,lower extremity,,dermatofibroma,female
+1641,ISIC_0035169,65.0,posterior torso,benign,nevus,female
+388,ISIC_0028517,60.0,upper extremity,,actinic keratosis,male
+2383,Transform253,60.0,head/neck,,squamous cell carcinoma,male
+273,ISIC_0027526,85.0,head/neck,,basal cell carcinoma,male
+756,ISIC_0031648,25.0,posterior torso,,vascular lesion,female
+1925,ISIC_0035609,70.0,posterior torso,benign,nevus,female
+3125,Transform1086,80.0,head/neck,,actinic keratosis,male
+1956,ISIC_0035665,30.0,anterior torso,benign,nevus,female
+3441,Transform1575,30.0,lower extremity,,dermatofibroma,male
+2176,Transform46,75.0,upper extremity,,squamous cell carcinoma,male
+802,ISIC_0032135,65.0,head/neck,,actinic keratosis,female
+2076,ISIC_0035921,80.0,lower extremity,benign,nevus,female
+1207,ISIC_0033957,60.0,upper extremity,malignant,melanoma,male
+2930,Transform800,55.0,head/neck,,vascular lesion,male
+2558,Transform428,40.0,lower extremity,,dermatofibroma,male
+2723,Transform593,75.0,posterior torso,,vascular lesion,male
+151,ISIC_0026327,55.0,upper extremity,,squamous cell carcinoma,female
+2292,Transform162,75.0,lower extremity,,squamous cell carcinoma,male
+714,ISIC_0031294,80.0,head/neck,,basal cell carcinoma,male
+2591,Transform461,45.0,posterior torso,,squamous cell carcinoma,male
+544,ISIC_0029840,60.0,head/neck,,actinic keratosis,male
+639,ISIC_0030755,85.0,lower extremity,,basal cell carcinoma,male
+2745,Transform615,,,,vascular lesion,
+3337,Transform1390,20.0,upper extremity,,vascular lesion,male
+3360,Transform1417,70.0,head/neck,,actinic keratosis,female
+423,ISIC_0028820,80.0,lower extremity,,actinic keratosis,male
+2958,Transform828,55.0,lower extremity,,dermatofibroma,female
+3219,Transform1236,50.0,lower extremity,,dermatofibroma,male
+659,ISIC_0030893,70.0,posterior torso,,basal cell carcinoma,male
+797,ISIC_0032061,75.0,head/neck,,basal cell carcinoma,male
+3470,Transform1631,45.0,,,actinic keratosis,male
+3249,Transform1271,70.0,head/neck,,actinic keratosis,male
+2008,ISIC_0035783,65.0,posterior torso,benign,nevus,male
+99,ISIC_0025825,80.0,head/neck,,actinic keratosis,female
+2898,Transform768,65.0,lower extremity,,squamous cell carcinoma,male
+2496,Transform366,85.0,upper extremity,,squamous cell carcinoma,female
+1871,ISIC_0035521,20.0,posterior torso,benign,nevus,female
+2046,ISIC_0035856,40.0,posterior torso,benign,nevus,female
+755,ISIC_0031643,70.0,posterior torso,,basal cell carcinoma,male
+976,ISIC_0033129,50.0,posterior torso,malignant,melanoma,female
+2163,Transform33,50.0,posterior torso,,actinic keratosis,male
+1940,ISIC_0035636,35.0,upper extremity,malignant,melanoma,female
+2825,Transform695,50.0,upper extremity,,squamous cell carcinoma,male
+2120,ISIC_0036033,55.0,posterior torso,benign,nevus,male
+2893,Transform763,75.0,upper extremity,,squamous cell carcinoma,female
+537,ISIC_0029805,85.0,posterior torso,,basal cell carcinoma,male
+1701,ISIC_0035262,55.0,head/neck,,basal cell carcinoma,female
+2897,Transform767,55.0,upper extremity,,dermatofibroma,male
+2222,Transform92,70.0,anterior torso,,squamous cell carcinoma,female
+2135,Transform5,70.0,anterior torso,,vascular lesion,female
+2599,Transform469,80.0,posterior torso,,vascular lesion,male
+705,ISIC_0031263,80.0,upper extremity,,basal cell carcinoma,male
+2362,Transform232,45.0,,,vascular lesion,female
+3468,Transform1624,60.0,lower extremity,,dermatofibroma,female
+2648,Transform518,50.0,lower extremity,,dermatofibroma,male
+3142,Transform1115,45.0,anterior torso,,vascular lesion,female
+2647,Transform517,55.0,posterior torso,,vascular lesion,female
+1828,ISIC_0035457,50.0,head/neck,benign,nevus,male
+1778,ISIC_0035381,60.0,posterior torso,benign,nevus,male
+277,ISIC_0027544,20.0,head/neck,,basal cell carcinoma,female
+1033,ISIC_0033324,85.0,upper extremity,malignant,melanoma,male
+3431,Transform1545,60.0,lower extremity,,actinic keratosis,female
+1731,ISIC_0035309,40.0,lower extremity,benign,nevus,female
+763,ISIC_0031712,75.0,posterior torso,,basal cell carcinoma,male
+835,ISIC_0032404,70.0,head/neck,,actinic keratosis,male
+3264,Transform1288,65.0,head/neck,,actinic keratosis,female
+1653,ISIC_0035192,35.0,upper extremity,benign,nevus,male
+2607,Transform477,60.0,head/neck,,actinic keratosis,female
+2732,Transform602,60.0,upper extremity,,dermatofibroma,female
